@@ -1,0 +1,76 @@
+{
+  "name": "COWBOYS TUNNEL",
+  "outro_tag": "COWBOYS NEWS EVERY DAY",
+  "editorial": "news",
+  "clip_offset": 29,
+  "team": "Dallas Cowboys",
+  "nickname": "Cowboys",
+  "league": "NFL",
+  "sport": "football",
+  "venue": "AT&T Stadium",
+  "sources": "ESPN, NFL.com, DallasCowboys.com, Blogging The Boys, Pro Football Talk, The Athletic, Dallas Morning News",
+  "hashtags": "#Cowboys #NFL #DallasCowboys #CowboysNation",
+  "roster": [
+    "Dak Prescott",
+    "Javonte Williams",
+    "CeeDee Lamb",
+    "George Pickens",
+    "Ryan Flournoy",
+    "Jake Ferguson",
+    "Tyler Smith",
+    "Tyler Guyton",
+    "Cooper Beebe",
+    "Tyler Booker",
+    "Terence Steele",
+    "Quinnen Williams",
+    "Kenny Clark",
+    "Rashan Gary",
+    "Donovan Ezeiruaku",
+    "Otito Ogbonnia",
+    "DeMarvion Overshown",
+    "Dee Winters",
+    "DaRon Bland",
+    "Trevon Diggs",
+    "Cobie Durant",
+    "Malik Hooker",
+    "Jalen Thompson",
+    "Brian Schottenheimer",
+    "Klayton Adams",
+    "Christian Parker",
+    "Jerry Jones",
+    "Stephen Jones",
+    "Micah Parsons",
+    "Will Grier"
+  ],
+  "tts_engine": "eleven",
+  "palette": {
+    "primary": [
+      134,
+      147,
+      151
+    ],
+    "secondary": [
+      0,
+      53,
+      148
+    ],
+    "ink": [
+      8,
+      13,
+      28
+    ]
+  },
+  "hook_cut": 2.8,
+  "body_cut": 3.4,
+  "photo_zoom": 0.08,
+  "overlay_kinds": [
+    "speech",
+    "lower3",
+    "comic",
+    "chat"
+  ],
+  "overlay_every_sec": 25,
+  "bounce": true,
+  "thumb_engine": "none",
+  "eleven_voice_id": "S9UjcNYIwfBOtZiDnIQT"
+}
