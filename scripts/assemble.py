@@ -24,8 +24,12 @@ MUSIC_GAIN = float(os.environ.get("MUSIC_GAIN", "-18.5"))  # dB
 NARR_PEAK = float(os.environ.get("NARR_PEAK_DBFS", "-3.0"))  # safe headroom
 SFX_GAIN = float(os.environ.get("SFX_GAIN", "-15"))        # dB
 MAX_SFX = int(os.environ.get("MAX_SFX", "5"))
-CRF_CUT = os.environ.get("CRF_CUT", "16")      # b-roll cuts (lower = sharper)
-CRF_PHOTO = os.environ.get("CRF_PHOTO", "16")
+# CRF 16 gorsel olarak kusursuzdu ama 32 dakikalik bir video 2.2 GB ediyordu ve
+# GitHub tek dosyada 2 GB'i kabul etmiyor. CRF 20 gozle ayirt edilemeyecek kadar
+# yakin, dosyayi yariya indiriyor. YouTube zaten yeniden kodluyor.
+# Daha keskin isteyen depo degiskeni CRF_CUT=16 ile geri alabilir.
+CRF_CUT = os.environ.get("CRF_CUT", "20")      # b-roll cuts (lower = sharper)
+CRF_PHOTO = os.environ.get("CRF_PHOTO", "20")
 PRESET = os.environ.get("X264_PRESET", "fast")
 SHARPEN = os.environ.get("SHARPEN", "0") == "1"  # off: keep source look
 OVERLAY_KINDS = ["speech", "lower3", "comic", "chat"]
@@ -41,14 +45,32 @@ try:
     BOUNCE = bool(CH.get("bounce", True))
     PHOTO_ZOOM = float(CH.get("photo_zoom", 0.08))
     BRAND = CH.get("name", "NY KNICKS DAILY")
+    PALETTE = CH.get("palette", {})
 except Exception as _e:
     print(f"[assemble] channel config default ({_e})")
     OVERLAY_EVERY, CLIP_OFFSET, BOUNCE, PHOTO_ZOOM = 25.0, 37, True, 0.08
-    BRAND = "NY KNICKS DAILY"
+    BRAND, PALETTE = "NY KNICKS DAILY", {}
+
+# How long the Vox-style opener runs before the hook falls back to fast cuts.
+HOOK_MAX = float(os.environ.get("HOOK_MAX", "9"))
+
+# Variety inside the body. CUTIN_RATE is how often a cut re-frames the same
+# footage instead of jumping elsewhere; SLOWMO is the speed of a punch-line
+# shot (0 turns it off) and SLOWMO_EVERY is the minimum gap between two.
+CUTIN_RATE = float(os.environ.get("CUTIN_RATE", "0.22"))
+SLOWMO = float(os.environ.get("SLOWMO", "0.6"))
+SLOWMO_EVERY = float(os.environ.get("SLOWMO_EVERY", "30"))
+AMBIENT_UNDER = float(os.environ.get("AMBIENT_UNDER", "26"))  # dB below voice
+
+# The opener opens on footage rather than on a photo. Set OPENER_FOOTAGE=0 to
+# go back to the 2.5D still.
+OPENER_FOOTAGE = os.environ.get("OPENER_FOOTAGE", "1") != "0"
 
 # The branded opener runs silent, so the video starts with a few seconds of
 # nobody talking. Set INTRO=0 and the video opens on the first spoken word.
 INTRO_ON = os.environ.get("INTRO", "1") != "0"
+
+RHYTHM = None          # (envelope, hop) once the narration has been read
 
 def run(cmd):
     subprocess.run(cmd, check=True)
@@ -97,20 +119,57 @@ class Broll:
         # start each day at a different point so consecutive videos don't
         # reuse the same clips in the same spots
         self.i = (datetime.date.today().toordinal() * CLIP_OFFSET) % max(1, len(self.clips))
+        self.recent = []
+        self.cooldown = int(os.environ.get("BROLL_COOLDOWN", "8"))
         print(f"[assemble] b-roll: {len(self.clips)} clips (offset {self.i})")
 
     def any(self):
         return len(self.clips) > 0
 
-    def pick(self, need):
-        f, d = self.clips[self.i % len(self.clips)]
-        self.i += 1
+    def pick(self, need, avoid_repeat=True):
+        """Next clip. Round-robin was perfectly cyclic, so the same footage
+        came back in the same order every time and the video felt looped.
+        Now we keep a short memory and take a clip that has not been on
+        screen recently, chosen at random among those."""
+        n = len(self.clips)
+        if not avoid_repeat or n <= 2:
+            f, d = self.clips[self.i % n]
+            self.i += 1
+        else:
+            cool = min(self.cooldown, n - 1)
+            fresh = [k for k in range(n) if k not in self.recent[-cool:]]
+            k = self.rng.choice(fresh) if fresh else self.i % n
+            f, d = self.clips[k]
+            self.recent.append(k)
+            self.i += 1
         return f, self.rng.uniform(0, max(0.0, d - need - 0.2))
 
-def broll_cut(src, start, dur, out, caption=None, big_word=None, flash=True):
-    vf = ["scale=1920:1080:force_original_aspect_ratio=increase:"
+    def last(self):
+        """The clip just used — for a cut-in to the same moment."""
+        if not self.recent:
+            return None
+        return self.clips[self.recent[-1]]
+
+def broll_cut(src, start, dur, out, caption=None, big_word=None, flash=True,
+              zoom=1.0, slow=1.0):
+    """One cut of stock footage.
+
+    `zoom` above 1 crops in tighter — cutting from a wide to a tight framing of
+    the same footage reads as a second camera and costs nothing.
+    `slow` below 1 stretches time: we pull `dur * slow` seconds of source and
+    slow them to fill `dur`, which is what an editor does on a punch line.
+    """
+    grab = dur * slow
+    wide = int(1920 * zoom) // 2 * 2
+    tall = int(1080 * zoom) // 2 * 2
+    vf = [f"scale={wide}:{tall}:force_original_aspect_ratio=increase:"
           "flags=lanczos+accurate_rnd+full_chroma_int",
-          "crop=1920:1080", f"fps={FPS}"]
+          f"crop={wide}:{tall}",
+          "crop=1920:1080" if zoom > 1.0 else "null",
+          f"fps={FPS}"]
+    vf = [f for f in vf if f != "null"]
+    if slow < 1.0:
+        vf.insert(0, f"setpts=PTS/{slow:.3f}")
     if SHARPEN:
         vf.insert(2, "unsharp=3:3:0.3:3:3:0.0")
     n_plain = len(vf)          # everything after this point is text overlay
@@ -126,7 +185,8 @@ def broll_cut(src, start, dur, out, caption=None, big_word=None, flash=True):
             f"fontsize=132:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2-60:"
             f"borderw=7:bordercolor=black@0.85:alpha='min(1,t/0.22)'")
     def _encode(filters):
-        run(["ffmpeg", "-y", "-v", "error", "-ss", f"{start:.2f}", "-i", src,
+        run(["ffmpeg", "-y", "-v", "error", "-ss", f"{start:.2f}",
+             "-t", f"{grab:.3f}", "-i", src,
              "-t", f"{dur:.3f}", "-vf", ",".join(filters), "-r", str(FPS),
              "-c:v", "libx264", "-preset", PRESET, "-crf", CRF_CUT,
              "-x264-params", "aq-mode=3:psy-rd=1.0",
@@ -318,6 +378,94 @@ def make_outro(seg_dir):
              "-crf", "19", "-an", p])
     return [p], 7.0
 
+def build_opener(out, dur, photos, broll, script, seg_dir):
+    """The first seconds: a 2.5D shot with headline pages flying across it.
+
+    Built in two stages so each can fail on its own. The moving shot comes
+    first — parallax over a real photo if the cut-out works, otherwise fast
+    stock cuts. Then the pages fly over whatever that produced. If the pages
+    fail we still ship the shot; if the shot fails we still ship the pages
+    over footage. Only a total failure sends the caller back to plain cuts.
+    """
+    base = os.path.join(seg_dir, "hook_base.mp4")
+    made = False
+
+    # The opener now starts on real footage, always. A parallax still at the
+    # very top of the video reads as a slideshow; motion from frame one is
+    # what holds a viewer. The graphics ride on top of it instead.
+    if OPENER_FOOTAGE and broll.any():
+        n = max(2, round(dur / 2.0))
+        cd = dur / n
+        parts = []
+        for k in range(n):
+            p = os.path.join(seg_dir, f"hook_base_{k}.mp4")
+            src, start = broll.pick(cd)
+            broll_cut(src, start, cd, p, zoom=1.0 if k % 2 else 1.18)
+            parts.append(p)
+        lst = os.path.join(seg_dir, "hook_base.txt")
+        with open(lst, "w") as f:
+            f.write("\n".join(f"file '{p}'" for p in parts) + "\n")
+        run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0",
+             "-i", lst, "-c", "copy", base])
+        made = True
+        print(f"[assemble] opener: {n} stock cuts", flush=True)
+
+    # Prefer a photo of somebody the opening actually names. A stadium
+    # panorama has no subject to lift off the background, so parallax on it
+    # either fails outright or looks like a wobble.
+    opening = " ".join(p.get("text", "")
+                       for sec in script.get("sections", [])[:1]
+                       for p in sec.get("paragraphs", [])[:3]).lower()
+    def _rank(path):
+        stem = os.path.splitext(os.path.basename(path))[0].lower()
+        parts = [w for w in re.split(r"[^a-z]+", stem) if len(w) > 3]
+        return -sum(1 for w in parts if w in opening)
+    photos = sorted(photos, key=_rank)
+
+    if not made and photos:
+        try:
+            import parallax
+            # the opener carries the channel name only when there is no intro
+            # card ahead of it, so the brand is never stamped twice
+            if INTRO_ON:
+                parallax.segment(photos[0], dur, base, crf=CRF_PHOTO,
+                                 preset=PRESET, fps=FPS)
+            else:
+                parallax.hero(photos[0], dur, base, title=BRAND, font=FONT,
+                              crf=CRF_PHOTO, preset=PRESET, fps=FPS)
+            made = True
+            print(f"[assemble] opener: parallax over "
+                  f"{os.path.basename(photos[0])}", flush=True)
+        except Exception as e:
+            print(f"[assemble] parallax opener unavailable ({e})", flush=True)
+    if not made:
+        if not broll.any():
+            raise RuntimeError("no photo and no b-roll for the opener")
+        n = max(1, round(dur / 2.2))
+        cd = dur / n
+        parts = []
+        for k in range(n):
+            p = os.path.join(seg_dir, f"hook_base_{k}.mp4")
+            src, start = broll.pick(cd)
+            broll_cut(src, start, cd, p)
+            parts.append(p)
+        lst = os.path.join(seg_dir, "hook_base.txt")
+        with open(lst, "w") as f:
+            f.write("\n".join(f"file '{p}'" for p in parts) + "\n")
+        run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0",
+             "-i", lst, "-c", "copy", base])
+        print("[assemble] opener: stock cuts (no usable photo)", flush=True)
+
+    try:
+        import hook
+        hook.vox_pages(base, hook.phrases(script), dur, out,
+                       palette=PALETTE, crf=CRF_CUT, preset=PRESET, fps=FPS)
+    except Exception as e:
+        print(f"[assemble] hook pages skipped ({e})", flush=True)
+        run(["ffmpeg", "-y", "-v", "error", "-i", base, "-c", "copy", out])
+    return out
+
+
 def main():
     script_path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(
         BASE, "content", "current", "script.json")
@@ -333,6 +481,14 @@ def main():
 
     rng = random.Random(datetime.date.today().toordinal() * 6151 + len(paras))
     broll = Broll(rng)
+    global RHYTHM
+    try:
+        import rhythm as RH
+        RHYTHM = RH.load(BASE)
+    except Exception as e:
+        print(f"[assemble] rhythm unavailable ({e})")
+        RHYTHM = None
+    slow_state = [-999.0]
     photos = media_lib("photos", ("*.jpg", "*.jpeg", "*.png", "*.webp"))
     pmap = photo_lookup(photos)
     print(f"[assemble] photo library: {len(photos)} ({list(pmap)[:6]}...)")
@@ -369,9 +525,27 @@ def main():
                 last_popup_t = t0
 
         if is_hook:
-            cuts = max(1, round(dur / CUT_LEN))
-            cut_d = dur / cuts
             parts = []
+            remaining = dur
+            # The opener: a 2.5D parallax shot with headline pages flying over
+            # it. This is the only place in the video where text arrives in
+            # bursts — the first seconds have to earn the rest of the watch.
+            if i == 0:
+                try:
+                    od = min(HOOK_MAX, dur)
+                    op = os.path.join(seg_dir, "hook_open.mp4")
+                    if fresh or not (os.path.exists(op) and
+                                     os.path.getsize(op) > 5000):
+                        build_opener(op, od, photos, broll, script, seg_dir)
+                    parts.append(f"file '{op}'")
+                    remaining = max(0.0, dur - od)
+                except Exception as e:
+                    print(f"[assemble] opener skipped ({e}) — plain hook cuts",
+                          flush=True)
+                    remaining = dur
+
+            cuts = max(1, round(remaining / CUT_LEN)) if remaining > 0.7 else 0
+            cut_d = remaining / cuts if cuts else 0.0
             for k in range(cuts):
                 part = os.path.join(seg_dir, f"h_{i:04d}_{k}.mp4")
                 if fresh:
@@ -407,7 +581,20 @@ def main():
                     pd = min(6.0, remaining * 0.5)
                     pp = os.path.join(seg_dir, f"b_{i:04d}_photo.mp4")
                     try:
-                        photo_segment(photo, pd, pp, caption=cap)
+                        # 2.5D first: the subject and the background move at
+                        # different speeds, which reads as depth. A flat
+                        # ken-burns push is the fallback, not the goal.
+                        try:
+                            import parallax
+                            parallax.segment(photo, pd, pp, caption=cap,
+                                             font=FONT, esc=esc,
+                                             crf=CRF_PHOTO, preset=PRESET,
+                                             fps=FPS)
+                        except Exception as pe:
+                            print(f"[assemble] flat photo "
+                                  f"({os.path.basename(photo)}: {pe})",
+                                  flush=True)
+                            photo_segment(photo, pd, pp, caption=cap)
                         parts.append(pp)
                         remaining -= pd
                     except Exception as e:
@@ -415,13 +602,43 @@ def main():
                         # give the time back to the b-roll and carry on
                         print(f"[assemble] photo skipped "
                               f"({os.path.basename(photo)}: {e})", flush=True)
-                ncuts = max(1, round(remaining / BODY_CUT))
-                cd = remaining / ncuts
-                for k in range(ncuts):
+                # Cut lengths come from the voice, not from a stopwatch: the
+                # editor cuts where the speaker breathes and moves quicker
+                # when the delivery pushes. Falls back to an even grid when
+                # the narration cannot be read.
+                seg_t0 = t0 + (dur - remaining)
+                if RHYTHM:
+                    import rhythm as RH
+                    lens = RH.cut_points(RHYTHM[0], RHYTHM[1], seg_t0,
+                                         remaining, BODY_CUT)
+                else:
+                    ncuts = max(1, round(remaining / BODY_CUT))
+                    lens = [remaining / ncuts] * ncuts
+
+                for k, cd in enumerate(lens):
                     bp = os.path.join(seg_dir, f"b_{i:04d}_{k}.mp4")
-                    src, start = broll.pick(cd)
+                    zoom, slow = 1.0, 1.0
+                    prev = broll.last()
+
+                    # A cut-in: same footage, tighter framing. Reads as a
+                    # second camera and costs nothing but a crop.
+                    if k > 0 and prev and rng.random() < CUTIN_RATE:
+                        src, d_src = prev
+                        start = rng.uniform(0, max(0.0, d_src - cd - 0.2))
+                        zoom = 1.28
+                    else:
+                        src, start = broll.pick(cd)
+
+                    # Slow motion on a punch line, rationed: more than one
+                    # every half minute and it stops being an accent.
+                    if (SLOWMO and cd >= 2.0 and para.get("card_lines")
+                            and k == 0 and seg_t0 - slow_state[0] >= SLOWMO_EVERY):
+                        slow = SLOWMO
+                        slow_state[0] = seg_t0
+
                     broll_cut(src, start, cd, bp,
-                              caption=cap if (k == 0 and not photo) else None)
+                              caption=cap if (k == 0 and not photo) else None,
+                              zoom=zoom, slow=slow)
                     parts.append(bp)
                 if ov_kind:
                     try:
@@ -496,6 +713,28 @@ def main():
             bed = bed.apply_gain(NARR_PEAK + rel - bed.max_dBFS)
             bed = bed.fade_in(2500).fade_out(3500)
             mix = mix.overlay(bed)
+
+        # A room tone under everything — crowd, distant whistles, stadium air.
+        # It is mixed far below the voice on purpose: you should not be able
+        # to point at it, you should only notice its absence.
+        amb = media_lib("ambient", ("*.mp3", "*.wav", "*.m4a", "*.MP3", "*.WAV"))
+        if amb:
+            rng.shuffle(amb)
+            room = AudioSegment.silent(duration=0)
+            ai = 0
+            while len(room) < total * 1000 + 2000 and ai < 40:
+                try:
+                    room += AudioSegment.from_file(amb[ai % len(amb)])
+                except Exception as e:
+                    print(f"[assemble] ambient track skipped: {e}")
+                ai += 1
+            room = room[:int(total * 1000)]
+            if len(room) > 1000:
+                room = room.apply_gain(NARR_PEAK - AMBIENT_UNDER - room.max_dBFS)
+                room = room.fade_in(3000).fade_out(4000)
+                mix = mix.overlay(room)
+                print(f"[assemble] ambient bed: {len(amb)} files, "
+                      f"{AMBIENT_UNDER:.0f} dB under narration")
             print(f"[assemble] music bed: {ti} track loops, "
                   f"{rel:.1f} dB under narration ({bed.max_dBFS:.1f} dBFS)")
         else:
