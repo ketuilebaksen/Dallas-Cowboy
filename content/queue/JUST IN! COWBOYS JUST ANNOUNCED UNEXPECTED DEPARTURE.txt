@@ -1,0 +1,261 @@
+Cowboys Nation, I was handed a video today that told me two things.
+
+The first is that the Dallas defense is statistically one of the worst in the National Football League by measures I had not seen before, and those numbers are the most alarming thing anybody has put in front of me all season.
+
+The second is that Micah Parsons is dominating for Dallas, Trevon Diggs is in the secondary, and Tony Pollard is leading the running game.
+
+Tony Pollard. Who I spent ten minutes on this channel yesterday analyzing as a Tennessee Titan who might be available at the trade deadline.
+
+So we have a problem. And the problem is genuinely interesting, because it is not the usual problem.
+
+Usually a source is either real or it’s garbage and I tell you which. This one is both at the same time. It is wrong about who plays for Dallas and it may be right about how badly Dallas is playing.
+
+Which means our framework needs an eighth tell, and I’m going to give it to you today, because it’s the most useful one yet and it’s the one that stops you from throwing away true things.
+
+And then I’m going to give you the biggest piece of actual news buried in this video, which nobody has connected to Thursday night, and which changes how I graded my own work yesterday.
+
+Welcome back to Dallas Cowboys Team, where we bring you every Dallas update, every single day. Hit subscribe and turn on notifications.
+
+Let’s get into it.
+
+Let’s do the corrections first, fast, because they’re substantial and you need to know what’s wrong before you can use what’s right.
+
+Micah Parsons does not play for the Dallas Cowboys. The video says he remains one of the most dominant pass rushers in the league and that he’s constantly drawing double teams for Dallas. He isn’t, because he isn’t here.
+
+Trevon Diggs does not play for the Dallas Cowboys. The video lists him in the secondary alongside the newly acquired corners. He isn’t in it.
+
+Tony Pollard does not play for the Dallas Cowboys. The video says the running game is led by him. The running game is led by Javonte Williams, who scored three rushing touchdowns against Houston, and Pollard is in Tennessee on an expiring contract, which is exactly why Adam Schefter put him on a list of names to monitor before the November tenth deadline.
+
+And Brian Schottenheimer is not the offensive coordinator. The video calls him that in its opening thirty seconds, and then later describes him as the new coordinator brought in who’s known for his offensive mind but has faced criticism on the defensive side.
+
+He is the head coach. The offensive coordinator is Klayton Adams. The defensive coordinator is Christian Parker. Those are three different men doing three different jobs, and the video has merged all of them into one person.
+
+One more, smaller. The video lists the loaded NFC offenses Dallas has to worry about as the Forty-Niners, the Eagles, the Vikings and the Chiefs. The Chiefs are in the American Football Conference. Dallas cannot meet them on the way to an NFC championship.
+
+That’s five errors in eight minutes. And now here is the thing I want to spend this video on.
+
+I still think the numbers in it matter.
+
+So let’s talk about why, because this is a real skill and almost nobody has it.
+
+Here’s tell number eight. Separate the claims from the claimants.
+
+A source with a stale roster has told you something very specific. It has told you that its information about people is out of date.
+
+Which means every single evaluative claim in it is dead. Every judgment about who is good, who is a bright spot, who is inconsistent, who is dominating. Those claims are all about people, and the people are wrong, so the claims are worthless.
+
+But aggregate claims are a different category.
+
+A number like opponents are completing over seventy percent of their passes is not a claim about a person. It’s a claim about a team. And the team is real even when the names attached to it are two years old.
+
+So the correct procedure is not to throw the video away. It’s to triage it.
+
+Discard every player evaluation. Hold the team-level statistics with tongs. And then go check them against the things you already know from sources you trust.
+
+Because here’s the thing that makes me take these numbers seriously despite everything.
+
+They agree with the head coach.
+
+Last week Brian Schottenheimer was asked about the pass rush and he answered with coverage. He said you cannot keep letting quarterbacks post passer ratings around a hundred thirty and expect the men up front to fix everything, and that somebody has to cover these receivers.
+
+That’s the head coach, on the record, describing a coverage catastrophe.
+
+And now a statistics-heavy video arrives and says Dallas has the worst opponent passer rating in the league.
+
+Those two things are the same claim, from two completely different directions, one of which is unimpeachable. When a bad source agrees with a good source, the claim gets stronger even though the source doesn’t.
+
+So let’s go through the numbers properly, because they’re worth understanding rather than just reacting to.
+
+First. Opponents are completing over seventy percent of their passes in every single game this season. Five for five. And the claim is that only one other team in history has managed that streak.
+
+Now, I cannot verify the historical part, and I’m not going to repeat the only one other team in history line as though I checked it. But let me tell you what seventy percent actually means, because the number is more damning than it sounds.
+
+Seventy percent is roughly what an elite quarterback completes on a good day. It’s a career-year number. It’s the figure a great passer in a great system posts when everything is working.
+
+Dallas is allowing it to everybody. Every week. Regardless of who’s throwing.
+
+And when you allow a career-best completion rate to every quarterback you face, you are not losing to talent. You are not contesting throws.
+
+Now, I want to be scrupulously fair here, because there is a legitimate defense of a high completion rate and I’ve made it myself on this channel.
+
+A Vic Fangio style defense, which is the family of principles Dallas is trying to run, deliberately allows completions. The whole philosophy is keep it in front of you. Rush four, cover seven, concede the short stuff, refuse the explosive play. A defense playing that correctly will have a high completion rate against it and will not care, because five-yard completions do not score points, they just take time.
+
+So on its own, a high completion rate allowed is not proof of anything.
+
+Except here’s the second number, and this is where the argument dies.
+
+The video says Dallas also allows the highest yards per play in the entire league.
+
+Stop and look at those two together, because that combination is the whole story.
+
+A high completion rate with low yards per play is a working bend-don’t-break defense. You’re letting them have the short throws and taking away the deep ones. That’s the trade you meant to make.
+
+A low completion rate with high yards per play is a gambling defense. You’re contesting everything, winning most of it, and getting burned occasionally. Also a coherent plan.
+
+A high completion rate and the highest yards per play in the league is neither. That’s giving up the short throws and the long ones. That’s not a trade-off. That’s an absence of coverage.
+
+And that’s why I believe this part. Because either number alone has an innocent explanation and the two together don’t.
+
+Third number. The worst opponent passer rating in the league.
+
+And I want to explain why that one summarizes everything, because passer rating gets dismissed as an old statistic and it’s actually perfect for this.
+
+Passer rating combines four things. Completion percentage. Yards per attempt. Touchdown rate. And interception rate.
+
+Which means to have the worst opponent passer rating in football, you have to be losing all four at once. You’re allowing completions, you’re allowing yards on those completions, you’re allowing them to end in the end zone, and you aren’t taking the football away.
+
+A defense that was failing in one direction would show up badly in one input and fine in the others. Worst in the league across a composite means there’s no compensating strength anywhere.
+
+Fourth. Defensive EPA, described as worst by a mile since last season.
+
+Now, that phrasing is ambiguous, and given that this video thinks Micah Parsons plays here, I’m not going to pretend I know exactly which span of games it’s measuring. Flag that one.
+
+But EPA is worth understanding, so briefly. Expected points added measures how much each play changes your expected scoring. A defense with terrible EPA isn’t just allowing yards. It’s allowing the specific yards that turn drives into points. Third-down conversions. Red zone completions. The plays that matter rather than the plays that pile up.
+
+And that matches what we’ve watched with our own eyes. Week One was nine of eleven third downs converted.
+
+So, taken as a group, and with the EPA number flagged. I think the picture is real. This is a defense allowing high completion rates, long gains, and points, with no single area of strength compensating.
+
+Now. The big news in this video, which is buried at two and a half minutes and which nobody has connected to anything.
+
+Joey Porter Junior did not play against Tampa Bay. He was sidelined after falling ill just before kickoff.
+
+I did not know that yesterday. And it matters enormously.
+
+Here’s why, and I need you to remember what I told you two days ago.
+
+I spent a long section of a video explaining that Porter’s arrival had restructured the entire Dallas secondary. Porter took the boundary, the short side of the field. And DaRon Bland moved to the field side, the wide side, because Dallas prefers side-based assignments rather than having a cornerback travel with a receiver.
+
+I told you that was the biggest tactical news of the week and that nobody had reported it properly.
+
+And then the man the restructure was built around got sick an hour before the game.
+
+Think about what that does.
+
+This wasn’t a player missing. This was the keystone of a brand-new structure missing, discovered just before kickoff, with zero time to reinstall anything.
+
+Because now you have two bad options. Either you move DaRon Bland back to the boundary, which throws away a full week of work and puts him in an alignment he’s spent seven days un-learning. Or you leave him on the field side and put somebody much less experienced on the boundary, in a structure designed for a player who isn’t there.
+
+Neither of those is a plan. Both of those are improvising, in a secondary that the head coach had just publicly described as the root cause of everything.
+
+And an illness before kickoff is the single worst version of an absence. An injury on Tuesday gives you three days. A positive test or a sick player at five o’clock gives you nothing. You walk out with a game plan built for eleven men and ten of them available.
+
+So let me put the numbers next to that. A defense that was already allowing seventy percent completions, playing without the cornerback its new coverage structure was organized around, found out about it an hour before the game.
+
+That is not an excuse for losing. Dak Prescott refused every excuse available and I’m not going to hand him one he didn’t ask for. Tampa Bay still won, Dallas still turned the football over three times, and a tipped interception has nothing to do with cornerback alignment.
+
+But it is a reason to be careful about what Thursday night proves. One game, missing the structural piece, is not evidence about the structure.
+
+And I owe you a correction on my own work because of it.
+
+Yesterday I graded the four-item watch list I’d given you, publicly, and I gave myself a verdict on each one. One of those items was whether Dallas would keep side-based assignments or start letting Porter travel with a number one receiver.
+
+That question could not be answered on Thursday, and I graded a list without knowing the player wasn’t on the field. So that item isn’t open, as I said yesterday. It’s void. Nothing happened that could possibly have answered it.
+
+And it slightly changes my read on DaRon Bland too. I told you his near pick six showed the recognition chain working and only the hands failing, and I stand by that. But I was evaluating him in an alignment that had just been disrupted again, in the second week of a new assignment, with the man it was built around absent. That’s a harder evening than I gave him credit for.
+
+Now let’s get to the argument at the center of this video, because it’s the right argument even though the video can’t quite make it.
+
+Schottenheimer said this defense is going through growing pains because there’s a new defensive coordinator and new players in the same unit.
+
+And the video calls that out of touch. It says the excuse is wearing thin, that there was a full off season to prepare, and that the issues have persisted for two seasons.
+
+Half of that is right and half of it is wrong, and the wrong half is the important one.
+
+The wrong half is the two seasons claim. You cannot hold a 2026 defense responsible for 2024. There’s a new coordinator, a largely new personnel group, a new head coach, and a new scheme family. That is a genuine reset, and treating it as continuous is exactly the same mistake as telling me Micah Parsons is on the roster. It’s the past presented as the present.
+
+The right half is the timing. Five games is five games. And over seventy percent completions allowed in every one of them, with no single game breaking the pattern, is not what a learning curve looks like.
+
+So instead of arguing about whether growing pains is a fair phrase, let me do something more useful. Let me make it falsifiable.
+
+Because growing pains have a signature. You can actually test the claim.
+
+Here’s the test, and I think it’s the most valuable thing I’ll give you today.
+
+A unit that is genuinely learning shows three things improving before the results improve.
+
+Number one. Communication errors go down. Blown assignments, two men on one receiver, nobody on another. Those are knowledge failures and knowledge arrives first.
+
+Number two. Explosive plays go down. Big gains are usually somebody being in the wrong place rather than somebody being beaten. Fix the place, lose the explosion.
+
+Number three. Third-down and red zone performance improves. Those are the situations with the most specific calls and the most preparation attached, so they respond to learning fastest.
+
+And the key insight is this. All three of those can improve while the raw yardage stays ugly. Because learning fixes errors before it fixes results. A defense can be in the right place and still lose the matchup, and that’s a talent problem, which is a different and slower fix.
+
+A unit that is not learning shows the opposite. Flat or worsening across all three, with the staff talking about process while the same things keep happening.
+
+So which pattern is Dallas showing?
+
+And honestly, the answer is mixed, which is why both the coach and the critic sound convincing.
+
+On the learning side, we have direct evidence, and it comes from the head coach on the record. He said communication has improved since Week One. And he gave us the specific structural proof, which is that Dallas trained multiple defenders to handle the green dot and relay calls, after admitting they didn’t have enough alternatives prepared last year when Jack Sanborn wasn’t available. He also told us this defense has been playing its highest cover three rate of the season, which is the simplification everybody asked for, actually showing up in percentages.
+
+Week One was nine of eleven third downs converted and a head coach describing basic communication breakdowns. If that’s genuinely improved, then indicator number one is moving in the right direction.
+
+On the not-learning side, we have the highest yards per play allowed in the league, which is indicator number two failing badly. Explosive plays are not going down. And the worst opponent passer rating in football, which means the situational performance isn’t carrying either.
+
+So my verdict is this, and it’s more useful than either side of the shouting match.
+
+The growing pains claim is testable, it is partially supported, and it is running out of runway.
+
+One of the three signatures is present. Two are not. And a claim that is one for three in October has to be three for three by December or it stops being a claim and becomes a habit.
+
+Which brings me to the distinction that I think is the actual heart of this.
+
+There’s a fine line between development and stagnation. The video says that, and it’s the best line in it.
+
+Here’s how you tell them apart. Development has a direction. Stagnation has an explanation.
+
+A developing unit shows you a trend and doesn’t need to narrate it. A stagnating one produces a new reason every week.
+
+So the thing to watch over the next month is not whether the coaching staff keeps saying growing pains. It’s whether they still need to.
+
+Now, I want to raise the irony in this video, because it’s genuinely instructive rather than just funny.
+
+The video’s central complaint is that the Dallas pass rush and defense are failing badly.
+
+And the video’s own roster includes Micah Parsons as a dominant pass rusher drawing double teams.
+
+Those two claims cannot both be true. If Dallas actually had that player, the four-sacks-in-four-games conversation would not exist. The video’s roster disproves the video’s thesis.
+
+And that’s a general lesson worth keeping. When a source’s facts contradict each other, you don’t have to decide which one is wrong. You already know the source isn’t checking.
+
+Alright. Let me close with the part the video gets completely wrong, which is the outlook, because it ends on vague optimism about resilience and DNA and that’s not analysis, that’s a greeting card.
+
+Here’s the actual situation.
+
+Dallas has ten days until Green Bay. The head coach told us before Thursday what that break was for. Rest, a chance to study all three units, and potentially some help coming back.
+
+All three units. Which, after a fumbled kick return became a touchdown, is now the most interesting word in that sentence, and I flagged special teams as a genuine pattern yesterday.
+
+Tyler Smith was practicing and hitting bags, and the decision came down to whether he felt ready. Ten days changes that conversation entirely.
+
+And here’s the one everybody is missing. If Joey Porter Junior was ill rather than injured, he should be back.
+
+Illness is the cheapest absence in football. There’s no rehab, no timeline, no risk of reinjury. You get sick, you get better, you play. A cornerback who missed a game with a stomach bug is not a cornerback with a problem.
+
+Which means the structure I described two days ago gets its first real test in Green Bay rather than in Tampa. The boundary and field side assignments, Bland on the wide side, Porter pressing with the sideline helping him. We have not actually seen that defense play a full game yet.
+
+That’s the honest framing. Dallas has the worst coverage numbers in the league and has not yet fielded the secondary it built two weeks ago.
+
+Both of those things are true, and anybody telling you only one of them is selling something.
+
+Here’s what I’m watching.
+
+Watch the completion percentage allowed in Green Bay specifically, because a sixth straight game above seventy percent would end the growing pains argument permanently, and a number in the fifties with Porter on the field would restart it.
+
+Watch the explosive plays rather than the total yardage, because that’s the growing pains indicator that’s currently failing and it’s the one that moves first when a defense actually learns.
+
+Watch whether Porter plays and whether Bland stays on the field side, because that tells you whether the structure survived its first disruption.
+
+And watch how the staff talks coming out of this break. If growing pains comes up again unprompted, that’s an explanation. If they talk about specific fixes to specific things, that’s development.
+
+The worst opponent passer rating in football. Over seventy percent completions allowed in five straight games. The highest yards per play in the league. A cornerback who got sick an hour before kickoff and took a brand-new coverage structure with him. And a video that told me all of it while informing me that Micah Parsons is dominating and Tony Pollard is leading the running game.
+
+Take the numbers. Leave the names. That’s tell number eight, and it’s the one that’ll serve you longest.
+
+So tell me in the comments. Growing pains or excuses, and does Joey Porter Junior missing that game change your verdict at all?
+
+Drop your take, because I read every single one.
+
+Like it, subscribe, ring the bell. This has been Dallas Cowboys Team. Now go take care of business.
