@@ -1,0 +1,243 @@
+Cowboys Nation, for two days I have been asking you for one number.
+
+I said I couldn’t judge the thirteen points at Lambeau until somebody told me how many possessions Dallas actually got. I laid out two possible explanations, I told you exactly what each one would look like in the data, and I said I’d grade myself once the number arrived.
+
+Today it arrived. Sort of.
+
+Five of thirteen on third down.
+
+And that number answers my question, it answers it against me, and then it does something I did not expect at all. It tells me both of my explanations were wrong, and points at a third one I hadn’t considered.
+
+So today is the reckoning, and I’m going to do it properly. I’ve also got the first-half score, which is worse than you think. I’ve got a detail about those thirteen points that means Dallas actually scored seven. I’ve got what Dak Prescott said, which is the second consecutive week he has refused every excuse available to him. And I’ve got a number from earlier this season that turns this from a slump into a cliff.
+
+Welcome back to Dallas Cowboys Team, where we bring you every Dallas update, every single day. Hit subscribe and turn on notifications.
+
+Let’s get into it.
+
+Let me restate my own test first, so you can hold me to it.
+
+Two days ago I said don’t look at the points, because points are the output and they’re contaminated by everything. Look at how many drives Dallas got and how many yards they averaged per drive.
+
+And I gave you two branches.
+
+Branch one. If the drive count is low and the yards per drive are healthy, that’s possession starvation. That’s an offense being kept off the field, which is the story I’d been telling for a month, and the cure is the run defense.
+
+Branch two. If the drive count is normal and the yards per drive have collapsed, then defenses have figured something out, the problem has moved to the offense, and the cure is somewhere else entirely.
+
+Now. I still don’t have the drive chart. But I have something that works almost as well, and I want to show you how, because this is the kind of thing you can do yourself every week.
+
+Dallas attempted thirteen third downs.
+
+Thirteen.
+
+And third-down attempts are a proxy for possessions. Think about it. Most drives produce one third down, some produce two, a few produce none because you convert on first and second or you score. Thirteen third-down attempts means Dallas had something in the neighborhood of ten or eleven possessions.
+
+That is a completely normal number of drives.
+
+A team starved of possessions does not face thirteen third downs. Tampa Bay held the football for nearly forty minutes and Dallas got about twenty, and that produced roughly eight possessions. This was not that.
+
+So branch one is dead. This was not possession starvation. Dallas got the football a normal number of times at Lambeau Field and scored thirteen points.
+
+Which means by my own stated test, I lose. The run defense was not the reason for this one.
+
+But here’s where it gets genuinely interesting, because branch two is dead too.
+
+Look at the conversion rate. Five of thirteen is thirty-eight and a half percent. And league average on third down sits right around that number, give or take.
+
+So Dallas was not failing to move the football. They were converting third downs at roughly a normal rate, on a normal number of drives.
+
+And they scored thirteen points.
+
+That’s not branch one and it’s not branch two. That’s a third thing, and I didn’t have it on my list, and it’s the most specific and most fixable diagnosis of the three.
+
+The drives existed. They advanced at an ordinary rate. And then they died before the end zone.
+
+That’s a finishing problem.
+
+And once you see it that way, everything in today’s material fits, so let me walk you through it.
+
+Zero points in the first half.
+
+Not six. Not three. Zero. And it was the first time all season Dallas had been shut out in an opening half.
+
+Now hold that against a normal possession count. Dallas had the football several times in those first thirty minutes, converted third downs at a league-average rate, and produced nothing.
+
+You do not get shut out in a half by failing to move the ball. You get shut out in a half by moving it and stopping.
+
+And then the detail that changes the whole box score, which I’d never have known without this source.
+
+Of those thirteen points, six came at the very end of the game, when the outcome was already decided. And the one touchdown came in a desperate late attempt to make something happen.
+
+So let me do the arithmetic nobody does.
+
+Dallas scored seven points in the competitive portion of a football game.
+
+Seven.
+
+And I want to teach this properly, because garbage-time inflation is the single most deceptive thing in a box score and almost nobody adjusts for it.
+
+When a team leads by two scores late, its defense stops playing the same sport. They rush three and drop eight. They give you the sideline. They play ten yards off, concede the catch, and tackle. The entire objective switches from preventing points to consuming clock.
+
+Points scored against that are real on the scoreboard and nearly meaningless as evidence. They tell you what an offense can do when the other team has stopped contesting.
+
+So the box score says thirteen and the football game says seven. And regular viewers will recognize the shape of this, because it’s the hidden denominator again, except this time the hidden variable isn’t opportunity. It’s context.
+
+Points are not fungible. A point scored against a defense playing to win is worth more than a point scored against a defense playing the clock, and any statistic that treats them identically is lying to you politely.
+
+Now let me give you the number that turns all of this from a slump into something more serious.
+
+From week two through week four, Dallas averaged around thirty-four points per game.
+
+Thirty-four. For three straight games.
+
+And then sixteen. And then thirteen.
+
+That is not a drift. That’s a cliff. Thirty-four, thirty-four, thirty-four, sixteen, thirteen.
+
+And a cliff has a cause. Drifts happen for a hundred small reasons. Cliffs happen because something specific changed, and the job is to find out what.
+
+So let me put the candidates on the table honestly, because there are five and I think three of them are the same thing.
+
+Candidate one. CeeDee Lamb’s quad. We learned last week it wasn’t the first week he’d been dealing with it, which means he may have been carrying it through the Houston game where he caught seventeen passes.
+
+Candidate two. Tyler Smith’s thumb. He missed time and only became a full participant this past week.
+
+Candidate three. Tyler Guyton’s back. He walked to the locker room during the final possession against Tampa Bay and was also only cleared to full participation this past week.
+
+Candidate four. The schedule. A short week to Tampa Bay, then a Sunday night road game at Lambeau.
+
+Candidate five. Defenses have solved something.
+
+And here’s what I want you to notice. Three of those five are the same category. They’re injuries to the offensive line and the number one receiver.
+
+The offense that averaged thirty-four points a game may simply have been the healthy one.
+
+Which gives us the cleanest test of the season, and it arrives on Monday night.
+
+Because this past week, for the first time in a month, all three of those men were full participants on the same injury report. Tyler Smith, full. Tyler Guyton, full. CeeDee Lamb, full, with a thigh issue the beat described as a bruise.
+
+So here’s the test, and I’m putting it on the record.
+
+If this was a health problem, Monday night against Philadelphia is when it gets fixed. A healthy left side of the offensive line and a healthy number one receiver, against a division rival, in prime time.
+
+And if Dallas scores thirteen again with everybody available, then it isn’t health, and the problem is the plan or the execution of the plan, and the conversation changes immediately.
+
+That’s falsifiable, it’s three days away, and I’ll grade it honestly either way.
+
+Now, Dak Prescott, because what he said deserves better than it’s going to get.
+
+He called it frustrating. Fine, everybody says that.
+
+But then he said this, and I want you to listen to the structure of it.
+
+Getting hit and facing blitzes is part of the game. What’s not acceptable is not executing the game plan, not making the right reads, and leaving points on the board.
+
+Read that again, because there are two remarkable things in it.
+
+First, he explicitly refused the protection excuse. Getting hit is part of the game. That’s a quarterback declining to blame his offensive line in a week when everybody was handing him the opportunity.
+
+Second, and this is the part nobody will highlight. Not making the right reads.
+
+That is a quarterback naming his own specific job description and saying he didn’t do it. Executing the game plan is everybody. Leaving points on the board is everybody. Making the right reads is him. Nobody else on that field makes the reads.
+
+And he added that managing thirteen points with one touchdown coming in a desperate late attempt isn’t good enough. He did the garbage-time adjustment himself, out loud, at a podium, which is more than most analysts will do this week.
+
+Now let me put that next to two weeks ago, because this is a pattern.
+
+After the Tampa Bay loss he said they had three or four days to prepare just like Tampa Bay did, and that Tampa Bay beat them because they outprepared them and out-executed them. And he specifically said it’s not about the schedule or the quick turnaround.
+
+So that’s two consecutive games in which Dak Prescott has been handed a full menu of excuses and taken none of them. The short week. The travel. The protection. The injuries. All available, all declined.
+
+I’ll say what I think that’s worth. It’s not a substitute for scoring points. But a locker room takes its honesty standard from the quarterback, and a quarterback who names his own reads as the problem has made it impossible for anybody else in that building to hide.
+
+And he has specifics to own, so let’s be fair about that too. He threw two interceptions against Green Bay, and one of them gave the Packers excellent field position. The source attributes it to pressure, miscommunication and some bad luck, which is probably all three.
+
+But two interceptions in a thirteen-point game is not a detail. That’s two of your eleven possessions ending in a gift.
+
+And now I have to deal with the thing I’ve been circling for three days, because today a second independent source says it.
+
+The defense has been playing pretty well lately.
+
+Yesterday I told you Dallas held Green Bay to twenty-three points at Lambeau, short-handed, without DeMarvion Overshown, without one cornerback, with Joey Porter Junior on an ankle he’d rolled two days earlier and two practice squad elevations in the secondary. And I said that looked like a step forward but I needed the yardage before I’d commit.
+
+Today a different source, with no connection to the first, says the defense has kept this team in games, made critical stops, and given the offense opportunities.
+
+And I have a rule about this. Weeks ago I said that when a bad source agrees with a good source, the claim gets stronger even though the source doesn’t. Two independent accounts pointing the same direction is the cheapest confirmation available and I’m not going to ignore it because I liked my old position better.
+
+So I’m going to say it plainly, and it is the strangest sentence I have said on this channel.
+
+The Dallas defense appears to have turned a corner, and the Dallas offense has fallen off a cliff, and both of those things happened inside the same two weeks.
+
+For a month I told you the offense was fine and the defense was the problem. The season has now inverted on me, in public, with the receipts all sitting in my own old videos.
+
+I’m not embarrassed about the original call, because through four games the evidence was overwhelming and it wasn’t close. But I’d be embarrassed to keep making it today, and that’s the whole difference.
+
+Now let me handle the title, because today’s title says what Dak Prescott said gave Jerry Jones a decision he can’t avoid.
+
+Dak said real things. They don’t create a decision for Jerry Jones. But they absolutely create one for somebody, and it isn’t the owner.
+
+If your quarterback stands at a podium and says the problem is not executing the game plan and not making the right reads, then the man who writes and calls that game plan has a question in front of him.
+
+And that man is Brian Schottenheimer, who is the head coach and who calls the plays.
+
+I raised this the day before yesterday and I’m going to restate it because I set a condition and conditions don’t expire.
+
+I said the real question isn’t whether the offensive coordinator should be fired. Klayton Adams is the offensive coordinator and he isn’t calling the plays. The question is whether the head coach should hand the call sheet to him.
+
+And I said no, not yet, because you don’t solve a problem you haven’t diagnosed, and I needed the possession data first.
+
+Well. I have it now, or close enough. A normal number of drives, a league-average third-down rate, zero first-half points, and seven points in the competitive portion of a football game.
+
+So the diagnosis has arrived, and it’s a finishing problem rather than a possession problem, and that moves the needle. Finishing drives is play design, red zone packages, situational calls and third-down concepts. Those are the play-caller’s department in a way that possession count never was.
+
+I’m still not calling for the change, and here’s my reason, and it’s the health test I just laid out. Three of the five candidate explanations are injuries that were resolved this week for the first time. It would be absurd to change your play-caller the week before you find out whether the problem was a thumb, a back and a quad.
+
+So the condition stands exactly as I set it. If Dallas scores thirteen against Philadelphia on Monday night with a healthy offensive line and a healthy CeeDee Lamb and a normal possession count, then the head coach should hand the sheet to Klayton Adams and go run the football team. That’s the third data point with the same signature, and three is a pattern.
+
+And the decision that genuinely is Jerry Jones’s, I named yesterday. November tenth. Dallas is two and four. Buyer or seller.
+
+And I’ll add one thing to that, because today’s data changes it.
+
+If the defense really has turned a corner and the offense really has collapsed, then every trade target on my board is now pointed at the wrong unit. I’ve spent three weeks saying the resources go to the defense, and I said yes to Khalil Mack at a fourth-round pick on the grounds that Dallas needed an edge rusher it could trust on first down.
+
+That logic was built on a defense ranked thirty-second and an offense leading the league. If both of those have moved, the board has to move with them.
+
+I’m not tearing it up today on two games and one source. But I’m telling you the foundation under it is shifting, and if Monday night confirms what Sunday night suggested, I’ll rebuild it in front of you.
+
+Alright. Corrections, and there are several.
+
+Micah Parsons and Trevon Diggs do not play for the Dallas Cowboys. Today’s video says the defense is led by stars like them and that they’re creating turnovers and pressuring quarterbacks.
+
+And this one is special, because Micah Parsons plays for Green Bay. The team that just beat Dallas. Two days ago. So a video published after that game credits the Dallas defense’s improvement to a man who spent Sunday night on the other sideline trying to prevent it.
+
+Mike McCarthy does not lead this coaching staff. And the video does something I’d flagged as tell thirteen two days ago, which is give two different answers to the same question. Early on it calls Brian Schottenheimer coach, correctly. Later it calls him the offensive coordinator working under Mike McCarthy. Same video, same man, two different jobs.
+
+Brandon Aiyuk, rendered in my transcript as Brandon Aayok, is listed among the Dallas receivers. He is not on this roster. And George Pickens, who is, does not appear in this video at all. That’s now something like the seventh consecutive source to describe this offense without the man who draws the opponent’s deep coverage plan.
+
+Javonte Williams, I’m pleased to say, is named correctly and is actually on the team, and the criticism of his inconsistency is at least about the right person.
+
+And one arithmetic flag. The video says Dallas has scored less than seventeen points total over the last two games, and then says they scored thirteen against Green Bay. Those cannot both be true. The real figures are sixteen against Tampa Bay and thirteen against Green Bay, which is twenty-nine. I suspect somebody meant under seventeen in each game, which is accurate and alarming enough without the arithmetic.
+
+Here’s what I’m watching on Monday night, and it’s the cleanest watch list I’ve had all season.
+
+Watch the first half, specifically, because zero is the number that has to change and a shutout half is not a small thing to fix.
+
+Watch Tyler Smith and Tyler Guyton on the left side, together, healthy, for the first time in weeks, because that pairing is three of my five candidate explanations and Monday night is the test.
+
+Watch CeeDee Lamb’s first two steps rather than his catch total, because a quad takes the half step and the half step is the whole job.
+
+Watch the red zone, because the diagnosis today is finishing rather than moving, and finishing happens inside the twenty.
+
+And watch Philadelphia’s quarterback situation, because Jalen Hurts has a blood clot in his calf and no medication lets a man play contact football through that.
+
+Five of thirteen on third down, which means Dallas got the football a normal number of times. Zero points in the first half, for the first time this season. Six of their thirteen points arriving after the game was decided, which means seven that counted. Thirty-four points a game in weeks two through four. A quarterback who refused the protection excuse and named his own reads instead. And a defense that two separate sources now say has quietly started playing well.
+
+I asked you for one number for two days so I could find out whether I’d been right or wrong for a month. The number came back and told me I was wrong, and then told me I’d been wrong about how I was wrong, which is somehow more useful.
+
+The drives were there. The third downs were ordinary. The finishing wasn’t. That’s today’s answer and Monday night gets to confirm or kill it.
+
+So tell me in the comments. Was this a health problem or a play-calling problem? And how many points does Dallas need on Monday night before you’d call the offense fixed?
+
+Drop your take, because I read every single one.
+
+Like it, subscribe, ring the bell. This has been Dallas Cowboys Team. Now go take care of business.
