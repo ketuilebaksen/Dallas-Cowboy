@@ -1,0 +1,379 @@
+Cowboys Nation, delete the first two words.
+
+The headline says blockbuster trade, Cowboys could add another big-name player.
+
+Strike the blockbuster trade part, and what’s left is: Cowboys could add another big-name player.
+
+And that is true. That’s an accurate description of this video. Dallas is being connected to several edge rushers before a deadline, by named reporters, and the video closes by saying, in its own words, that every one of these names is still a rumor and none of these trades have been confirmed.
+
+So today I want to give you the constructive half of something I showed you yesterday, because this headline accidentally demonstrates the technique.
+
+Yesterday I gave you tell twenty-five, which is that title fragments recur. Titles get built out of reusable modules. A name, an intensifier, a transaction-shaped noun, a suffix for false recency.
+
+Here’s the tool that falls out of it, and I think it’s the most practical thing on the whole list.
+
+Strip the prefix and see what’s left.
+
+Because if you delete the bolted-on module and the remaining sentence is still true, then somebody attached a lie to the front of honest work, and the work underneath might be worth your time. And if you delete the module and what’s left is also false, it’s fabricated all the way down.
+
+Today the prefix lies and the main clause tells the truth, four words apart, in the same headline. Could add is a hedge. Blockbuster trade is an assertion. Two completely different epistemic registers, bolted together, and the honest one is the part nobody reads.
+
+Now, that’s the small lesson. Today’s video is the richest thing anybody has sent me this month and it does three large things.
+
+It hands me a number I have been missing all month and that I should have been demanding.
+
+It gives me the complete accounting of what this front office has actually spent, which produces a sentence I find genuinely brutal.
+
+And it corrects me, twice, and one of those corrections is bad enough that I’m going to lead with it.
+
+Welcome back to Dallas Cowboys Team, where we bring you every Dallas update, every single day. Hit subscribe and turn on notifications.
+
+Let’s get into it.
+
+Correction one, and this is the bad one.
+
+Philadelphia is two and four.
+
+Two and four, and on a four-game losing streak, and missing Jalen Hurts.
+
+Yesterday I described the Eagles, out loud, as a division leader. I said it was remarkable that a two-and-four Dallas team was favored on the road against a division leader, and I built an argument on top of that. I said the betting market had priced the absence of Philadelphia’s starting quarterback as larger than the entire gap between these two teams’ seasons, and I said that was a remarkable statement about one man’s value.
+
+All of that was built on a false premise.
+
+There is no gap between these two teams’ seasons. They have the identical record. Philadelphia has lost four in a row. Dallas is favored by four and a half points on the road because the home team is two and four and collapsing, and the spread is completely ordinary once you know that.
+
+So the remarkable thing I identified yesterday was not remarkable. It was arithmetic I got wrong because I assumed something about an opponent instead of checking it.
+
+And I want to name how I got there, because the mechanism is worth more than the apology.
+
+I assumed Philadelphia was good.
+
+Nobody told me they were. For two weeks I’ve been handed videos describing the Eagles as one of the NFC’s top teams, loaded with talent on both sides of the ball, with a defense that’s been one of the league’s best. And those videos were, I now suspect, the same stale and templated material I’ve been dismantling for a month, except that this time the stale claim flattered my sense of how the league is arranged, so I didn’t interrogate it.
+
+That’s the lesson and it’s uncomfortable. I have spent a month building tools to catch false claims, and the one that got through was the one I already believed.
+
+I checked everything in those videos about Dallas, name by name, number by number. I did not check the sentence about the opponent, because Philadelphia being good is the kind of thing that sounds like background rather than a claim.
+
+So here’s the habit I’m adding. Check the claims about the other team with the same arithmetic you use on your own.
+
+The opponent’s record is not context. It’s a fact with a number attached, and it is exactly as checkable as everything else, and I let three videos tell me something about it that turned out to be a season out of date.
+
+Correction two, and this one’s more pleasant, but it’s still me being wrong.
+
+This video says Dallas is only a game and a half behind the division leader, and that the remaining schedule is one of the easiest in football.
+
+On Sunday I said, and I’ll quote myself because I want to be precise about what I’m walking back: alive is the honest word, within reach is a feeling. And I refused to compute a path, correctly, because I didn’t have the other teams’ records.
+
+Well, now I have a number, and the number says within reach was the honest phrase and I was the one being imprecise.
+
+A game and a half behind, in week eight, with the easiest remaining schedule in football, is not a feeling. That’s a real position. And the reason it’s real is the thing I got wrong in correction one, which is that this division is not being led by anybody good. Philadelphia is two and four. Dallas is two and four. The leader is a game and a half up on both of them, which in late October means somebody is around three and three or four and three.
+
+The NFC East, as of this week, is a division that nobody is winning. Which means somebody is going to.
+
+So I’ll restate my own position properly. Dallas is not chasing a good team. Dallas is a mediocre team in a division of mediocre teams, with a point differential of minus eight, which I computed yesterday and which says this team has played roughly even football.
+
+And a roughly even team, a game and a half back, with the easiest schedule remaining, is genuinely in it. I’d been treating two and four as a verdict. It’s a position.
+
+Alright. Now the number, and I’m annoyed with myself for not having demanded it sooner.
+
+Eight sacks in six games.
+
+That’s it. That’s Dallas’s sack total for the season. Eight.
+
+Let me scale it. Eight over six games is one point three three sacks per game. Across a seventeen-game season that’s about twenty-three.
+
+A good pass rush produces somewhere in the forties to the mid-fifties. Twenty-three would be among the worst in the league.
+
+And I have been discussing this pass rush for a month without this number. I’ve talked about the two-gap install, about the three-four conversion, about containment responsibilities, about why Dallas’s pass rush never got a snap where it was allowed to just rush because Tampa Bay never faced a third and long. All of that analysis was about the mechanism of a pass rush, and I never once had the output.
+
+That’s a real gap in my own method and it’s the same gap I’ve confessed to twice this week. My picture of this team is assembled from whatever people make videos about, and apparently nobody made a video about the sack total, because a sack total is not a thumbnail.
+
+Now let me do something with it, because there’s a symmetry here that I find almost too neat.
+
+Dallas has eight sacks in six games, which is close to the worst in the league at getting to a quarterback.
+
+And Dak Prescott has the best sack-avoidance rate in the league, at two point seven seven percent, which I verified last week.
+
+So this organization is simultaneously the worst at reaching the quarterback and the best at not being reached.
+
+Now, is that a coincidence? Probably mostly, because they’re different units with different personnel. But there’s a non-coincidental piece and I explained it on Friday, so let me reconnect it.
+
+I said the way Prescott avoids sacks is partly a route tree. The ball comes out in under two seconds, which means the rush never becomes relevant, which means the offense pays for pressure in yards instead of sacks. A league-best sack rate and a career-low yards per completion are the same behavior measured two ways.
+
+Now flip it to the defense. If Dallas’s pass rush needs two and a half seconds to matter, and it is getting one point three three sacks a game, the question is not whether the rushers are good. The question is whether they’re ever given a snap where they get two and a half seconds of pure rush. And they aren’t, because Dallas has been allowing eight hundred and ninety-nine rushing yards and conceding first downs on early downs, which means opponents live in second and five rather than second and nine.
+
+Same principle, both sides of the ball. A sack total is not a measure of rushers. It’s a measure of the situations rushers are handed.
+
+Which does not mean Dallas doesn’t need a pass rusher. It clearly does. It means eight sacks is partly a symptom of the run defense, and I’d want that in any conversation about what to buy.
+
+Now the rankings, because this video gives me three and they disagree, and that disagreement is itself informative.
+
+Thirtieth in total defense. Twenty-fifth in scoring defense. And, as the video carefully puts it, one outlet’s defensive impact metric has this unit second to last in the entire league.
+
+Credit for that phrasing, by the way. One outlet’s metric is exactly the right hedge, and almost nobody writes it.
+
+So, three rankings. Thirtieth, twenty-fifth, thirty-first.
+
+I’ve spent two weeks arguing that the gap between thirtieth in total defense and twenty-fifth in scoring defense is the signature of a bend-don’t-break design, and that judging it on the yardage column means judging it on the thing it deliberately sacrifices.
+
+A composite metric placing them second to last tells me something about the composite rather than about the defense. Those metrics typically weight per-play efficiency and pressure generation heavily, and they tend to be unkind to exactly the design I’ve been defending, because a bend-don’t-break defense looks bad on almost every per-play measure by construction.
+
+So here’s the honest reading. One metric says this defense is slightly better than its yardage. Another says it’s worse than its yardage. And the disagreement is about whether you credit a defense for the points it prevents or penalize it for the yards it concedes.
+
+My position hasn’t changed, but I want to state the limit. Twenty-fifth in scoring defense is not good. It’s just less bad than thirtieth, and the eight sacks suggest the composite metrics are picking up something real that the scoring rank hides.
+
+Now the heart of today, and this is the framework I most want you to have, because this video stacks five completely different levels of evidence and presents all of them in the same voice.
+
+Here are four trade targets, as the video lists them. Josh Sweat of Arizona. Maxx Crosby of Las Vegas. Tuli Tuipulotu of the Chargers. Kayvon Thibodeaux of the Giants. Plus a linebacker, Jordyn Brooks of Miami.
+
+Read as a list, those feel like five equivalent possibilities. They are not. Let me build the ladder.
+
+Tier one, the top of the ladder, is a named reporter saying a deal has been agreed.
+
+Nobody in this video is at tier one. Not one name.
+
+Tier two is a named reporter, describing his method, reporting what people inside football think. And that’s Jeremy Fowler of ESPN, who went on SportsCenter and said he checked with several league executives, and that they believe Dallas and Sweat would be a perfect profile fit.
+
+Now I want to stop on that phrase, because it is the single most important distinction in today’s video and almost everybody is going to skate past it.
+
+A perfect profile fit is a scouting opinion, not a transaction report.
+
+What Fowler reported is that people who work in football think that trade would make sense. That is genuinely worth more than an analyst thinking it, because those people have jobs and information. It carries real weight.
+
+But it is not a report that anybody has picked up a telephone. Executives saying that would be a good fit is the same category of statement as me saying it. The difference is credibility, not content.
+
+Tier three is a veteran insider’s sense from his sources about a possibility, and that’s Jason La Canfora, who said teams are trying to pry Sweat loose, that Jerry Jones and Stephen Jones would be at the very top of that list, and that his sense is Sweat could be the guy, possibly well before the deadline.
+
+That’s a step further than Fowler, because it describes activity rather than opinion. Teams trying to pry a player loose is a thing that is happening. But could be the guy is a hedge, and the sense from my sources is a hedge, and both of those hedges are in the original.
+
+Tier four is a writer’s analytical opinion about fit. The Athletic ranking Tuipulotu fifth on a trade deadline big board. Daniel Popper of The Athletic naming Dallas a prime destination for Brooks. Those are good writers making arguments. They are not reporting anybody’s intentions.
+
+And tier five is an aggregator floating an idea, which in this video is the suggestion that Pickens could be a sell-high candidate.
+
+Five tiers. And the practical test is one question, asked separately for each name.
+
+Whose knowledge is this claim resting on, and what does that person actually claim to know?
+
+Fowler claims to know what executives think about fit. La Canfora claims a sense from sources about activity. The Athletic claims an analytical ranking. An aggregator claims that an idea exists.
+
+None of them claims to know that a trade is happening, and the video says so explicitly at the end, which I’ll credit properly in a moment.
+
+Now, the accounting, and this is the part of today I keep coming back to.
+
+This video gives me, for the first time, the complete record of what this front office has actually spent. Let me lay it out.
+
+In August, Dallas sent a third-round pick and a sixth-round pick to Pittsburgh for Broderick Jones, and received a fourth-round pick back.
+
+On the first of October, Dallas sent a twenty twenty-seven sixth and a twenty twenty-eight second to Pittsburgh for Joey Porter Junior, with a condition attached tied to him being on the game-day roster for two games.
+
+That was the third trade between Dallas and Pittsburgh in about two years, following the deal that brought George Pickens here. Which, incidentally, is a fact I didn’t have. I have spent three weeks correcting videos about this receiver and I did not know he arrived in a trade.
+
+And the total, as the video reports it: since trading Micah Parsons, the Cowboys have invested eleven draft picks in the defense, with five of those in the first or second round.
+
+Eleven picks. Five in the top two rounds.
+
+Now put that next to today’s other number.
+
+The defense is thirtieth in total defense, twenty-fifth in scoring defense, and has eight sacks in six games.
+
+Eleven draft picks, five of them premium, and the unit is near the bottom of the league.
+
+I want to give the honest counterweight first, because that sentence is doing a lot of work and some of it is unfair.
+
+Joey Porter Junior arrived on the first of October. That’s three or four games ago. Kenny Clark and Quinnen Williams are interior defensive linemen, and interior linemen produce value that mostly doesn’t appear in a sack column. The two-gap install I diagnosed weeks ago takes time to teach. And you genuinely cannot judge a defensive rebuild six games into its first season. All of that is true and all of it argues for patience.
+
+But the structural problem doesn’t go away, and it’s the sunk-cost trap operating at the scale of an entire organization.
+
+A front office that has spent eleven picks on a problem and still has the problem faces exactly two options. Spend a twelfth, or admit the diagnosis was wrong.
+
+And spending a twelfth is the easier one, because it’s action, and action looks like competence, and admitting a diagnosis was wrong looks like failure even when it’s the single most valuable thing a decision-maker can do.
+
+Which brings me to the question I think this whole season turns on, and I want to put it as plainly as I can.
+
+What if the problem was never talent?
+
+Here’s the case, and I’ve been assembling it for three weeks without quite saying it in one sentence.
+
+Christian Parker is a first-year defensive coordinator. The team brought in Mike Pettine to help him, which is an organization acknowledging a coaching gap rather than a talent gap. Multiple analysts have described this defense’s problem as missed assignments, confused coverage, and defenders who are thinking too much. I’ve argued the three-four conversion and the two-gap install explain the run defense, the pass rush and a defensive tackle’s September misuse all at once. And last week I gave you the line I still think is the most useful trade principle of the season.
+
+You cannot trade for assignment clarity.
+
+The market sells players. It does not sell communication. If two defenders think they have the same receiver, there is no acquisition at any price that resolves it, because the problem is in the install and the install is taught on a practice field.
+
+So Dallas may have spent eleven draft picks trying to buy its way out of a coaching and install problem.
+
+And if that diagnosis is right, a twelfth pick does not help. It makes the roster more expensive and the problem identical.
+
+Now, I believe in falsifiable conditions, so let me make that one testable rather than leaving it as a clever sentence.
+
+Here’s the test. If this defense improves meaningfully over the next three to four weeks without any new acquisition, then the problem was never primarily talent, and every pick spent at this deadline would have been wasted.
+
+And if the defense stays exactly where it is while the install gets more repetitions and Pettine’s input accumulates, then the talent case strengthens considerably and Jerry Jones should buy.
+
+That’s a real condition with a date on it, and the deadline is the tenth of November, which gives roughly two more games of evidence before the decision has to be made.
+
+Which, I’d point out, is exactly the right amount of time to find out, and exactly the kind of patience that nobody in football ever has in late October.
+
+Now, something in this video that I think is the most expensive sentence any owner can say.
+
+The video reports that at training camp, Jerry Jones said he’d be willing to give up future assets for a defensive playmaker. And that he has said repeatedly that talent acquisition is a year-round job. And that one report this week says he has a strong relationship with the Raiders owner and will be talking to him.
+
+And the video’s own framing is that Jerry Jones has been teasing it for weeks.
+
+Here’s why that costs money.
+
+Last week I gave you the timing principle. You are never trading into a neutral market. The moment you’re comfortable enough to sell, buyers know you don’t have to, so the price is low. The moment you need to buy, sellers know you have to, so the price is high. And the steeper version: the more visible your need, the steeper the tilt.
+
+An owner publicly announcing that he is willing to give up future assets for a defensive playmaker is making his need maximally visible.
+
+Every general manager in the league heard that. It is now priced in. And the four names in this video are, as the video itself notes, part of a market that could become crowded, and if multiple teams are bidding, the cost goes up.
+
+So Dallas has arrived at a deadline as a known buyer, with limited draft capital, in a market with multiple bidders, at a position of visible desperation.
+
+That is the worst possible configuration for a purchaser, and the owner built it himself by talking.
+
+Now let me do the arithmetic catch, because there’s one in here and it’s a good one.
+
+The video says Maxx Crosby is under contract on a three-year extension of sixteen point five million dollars, that averages about thirty-five point five million a year.
+
+Three years at thirty-five and a half million a year is a hundred and six and a half million dollars.
+
+So sixteen point five cannot be the total. The digits dropped. The real figure is almost certainly a hundred and six point five million, which is exactly thirty-five point five times three, and the transcript lost a one off the front.
+
+Same repair I’ve made four times this month. A Heisman finalist’s passing yards, a sack rate of two hundred and seventy-seven percent, a twenty-four and four record, and now a contract. Numbers fail by corruption and you fix them with arithmetic, which is the rule I gave you last week.
+
+And while we’re on Crosby, I want to credit this video for the single most trustworthy thing in it.
+
+It says, and I’m quoting: here’s the reality check, and I promise to always give you the honest version. Crosby is a long shot.
+
+And then it gives three specific reasons. The Raiders owner has said in the past he never wanted Crosby to leave. The Raiders have had a better start than expected, which may have slowed any plans to sell. And Crosby would cost significant draft capital that Dallas has already largely spent.
+
+That is a video talking its own most exciting name down, with reasons, in the middle of selling you a blockbuster.
+
+And notice the mechanism in that second reason, because it’s my own framework arriving from somebody else. Desperate teams sell cheap. Hopeful teams don’t sell. The Raiders starting better than expected is precisely the thing that takes a player off the market, because a team that thinks it can win does not trade its best defender.
+
+So the Crosby story is dead for a structural reason rather than a sentimental one, and the video gets it right.
+
+Now, Sweat on the merits, because he’s the realistic one and the case is genuinely good.
+
+The contract details matter here, and I’ve taught this mechanic. He signed a four-year, seventy-six million dollar deal with Arizona in twenty twenty-five. The video says it includes a void year stretching into twenty twenty-nine, which lets an acquiring team spread the cap hit, and a potential out ahead of twenty twenty-seven.
+
+Void years are the mechanism I explained when we talked about signing bonus proration and dead money. You can push charges into years in which the contract no longer exists, which lowers the current cap hit and raises a future one. It is borrowing, and like all borrowing it’s a good idea if the thing you’re buying is worth more now than the payment will cost later.
+
+And the out ahead of twenty twenty-seven is the part that makes it defensible, because it means Dallas would not be acquiring a problem it cannot escape. Which is the single question I’d ask about any acquired contract.
+
+Now the football argument, and the video makes the right one so let me extend it.
+
+It says Kenny Clark, Quinnen Williams and a third interior lineman give Dallas a solid interior defensive line, and asks you to imagine an edge rusher working outside while those three clog the middle.
+
+That’s correct, and here’s the geometry that makes it correct.
+
+Interior pressure and edge pressure do opposite things to a quarterback, and that’s why you need both.
+
+Interior pressure collapses the pocket forward. It takes away the quarterback’s platform, shortens his throwing space, and removes the option of stepping up. Edge pressure comes from behind and outside, and it forces him to step up into the pocket to escape it.
+
+Now notice the trap. If you only have edge pressure, the quarterback steps up into clean space and throws. If you only have interior pressure, he slides and escapes to the edge. Each one has an escape hatch, and the escape hatch is the other one.
+
+Which means the two kinds of pressure are not additive. They are multiplicative. And a team with a genuinely good interior and no edge is not halfway to a pass rush. It’s close to nowhere, which is exactly what eight sacks in six games looks like.
+
+That’s the case for Sweat, and it’s a better case than the one about his sack total, because it’s about what his presence does to three other players.
+
+And the video adds a detail I like, which is the schedule twist. Arizona comes to Dallas the week after Philadelphia. So if a deal happens before that game, Sweat faces his own team in a Dallas uniform, and if it doesn’t, Arizona keeps him and tries to win the game. Arizona is also two and four. Both teams are chasing the same thing.
+
+That’s a genuinely interesting piece of timing and it’s the kind of thing I’d never have thought to look for.
+
+Now, the piece of this video that I have to handle most carefully, because it would be very easy to turn it into a story and I don’t think the evidence supports one.
+
+The video reports that George Pickens is playing on the franchise tag, and that trade chatter has linked him to the Rams, and that one aggregator floated him as a sell-high candidate.
+
+Now, I covered a different story yesterday. The head coach publicly asked Pickens to improve his run blocking, and praised his team-first mindset in the same answer.
+
+So I have three facts, from three different sources, on three different days. He’s on a one-year tag. His coach asked him to block better. Somebody floated a trade.
+
+And connecting those three into a narrative requires an assumption that nobody has evidenced.
+
+I’m not going to do it. Three true things arriving in the same week is a week, not a story. And the specific temptation here is the one I’ve been warning about all month, which is that a narrative feels like a finding when it’s really just three facts standing near each other.
+
+But there is one connection that I think is legitimate, and it isn’t about anybody’s feelings. It’s about incentives, and I think it’s the most interesting thing in today’s video.
+
+A franchise tag is a one-year contract.
+
+Which means a player on one is playing for his next deal, in public, in a single season, with no safety net. And the market pays receivers for measurable production. Catches. Yards. Touchdowns. Those are the numbers that go into a negotiation.
+
+Run blocking is invisible. There is no column for it. It appears in no box score, it is not in any contract conversation, and the only people who can see it are coaches watching film.
+
+So without anybody doing anything wrong, Dallas has asked a man to do the unmeasured part of the job, in the one year where only the measured part gets him paid.
+
+That is not a character problem. It’s a structural misalignment, and it exists whether or not anybody involved feels anything about it. And the way you fix a structural misalignment is not by asking harder in a press conference. It’s by making the unmeasured thing visible internally, which coaches do, or by changing the contract, which front offices do.
+
+I think that’s the honest and interesting version of the Pickens story, and it doesn’t require me to invent a single feeling.
+
+Two more quick things from this video.
+
+The first is a payoff on something I said weeks ago. This video mentions that Khalil Mack was floated as a trade candidate, which I covered at the time, and that I said yes to at the price of a fourth-round pick after working through it.
+
+And now it reports that the Chargers have been turning aside trade inquiries.
+
+So my verdict was conditional on availability, and availability now looks unlikely. I’m not going to claim that as either right or wrong. The condition I attached was the correct condition and the condition probably isn’t being met, and that’s what it looks like when a conditional judgment gets resolved by the world rather than by argument.
+
+The second is the closing of this video, which I want to read because it’s the opposite of its own title.
+
+One last thing. Every one of these names is still a rumor. None of these trades have been confirmed.
+
+That’s tell eighteen for about the seventh time this month, and I’ve stopped finding it surprising. The body disclaims the title. The title says blockbuster trade, the body says every one of these is a rumor and nothing is confirmed, and both of those shipped together in the same file.
+
+Which is tell twenty-two. The title is not a property of the video. And today it’s demonstrated by a video that spends eleven minutes being careful and then sells itself with two words it has explicitly contradicted.
+
+So, my own verdict on the deadline, because I’ve spent three weeks criticizing other people’s and I owe you mine.
+
+I would not buy a pass rusher before the tenth of November.
+
+And my reason is not that the roster doesn’t need one, because it clearly does, and the multiplicative argument I made earlier is the strongest case I know for exactly that acquisition.
+
+My reason is the configuration. Dallas is a known buyer with limited capital in a crowded market, whose owner has publicly announced he’ll spend future assets, at a position of visible need, having already spent eleven picks on this unit without fixing it. Every single one of those facts raises the price, and none of them raises the value.
+
+And underneath that, I have a live diagnosis that says the problem may not be the one a trade can solve, and I have two games before the deadline to find out.
+
+Now, the honest counter to my own position, because I promised to always give you that and today’s source did it first.
+
+If the install is the problem, the install will not be fixed this season either, and a two-and-four team a game and a half out with the easiest schedule in football has a real path right now that will not exist next year. Which means the case for buying isn’t about fixing the defense. It’s about buying a season that is unexpectedly available.
+
+That’s a good argument. I think it loses, but not by much, and if you believe this team is genuinely in the race then you should buy and I shouldn’t pretend you’re being foolish.
+
+Names, and today’s list is long and valuable.
+
+Jason La Canfora, which arrives as Leanfor, then Lanfora, then Lock and Fora. Three spellings. Maxx Crosby, with two x’s. Tuli Tuipulotu, who arrives as Tweulu, then Twe Palotu, then Twi Palotu. Kayvon Thibodeaux, who arrives as Kavon Tibido. Jordyn Brooks, with a y. Jeremy Fowler and Daniel Popper, both correct. Mark Davis and the Bidwill family, both correct. Broderick Jones, who arrives as Brick Jones for about the fifth time this month. Mike Pettine as Mike Patine. Stephen Jones as Steven.
+
+And one I can’t resolve. The third interior defensive lineman, rendered as Otto Abania. Given the room, my best guess is a name I’d recognize if somebody spelled it for me, and I’m not going to assert it. Onto the flagged list, which now has the cornerback at thirteen appearances, a starting linebacker, two safeties, a linebacker, an Eagles defender, and now an interior lineman on it.
+
+One figure I can’t check. The video says Jordyn Brooks’s contract carries a fifty-one million dollar price tag. I can’t verify that and it matters enormously for the trade arithmetic, because the difference between a contract you’re absorbing and a contract that’s nearly expiring is most of what determines the pick cost. So that one goes in with a question mark.
+
+And a nice piece of arithmetic that does check out. The video says this fan base has been waiting thirty-one years for a championship. Nineteen ninety-five plus thirty-one is twenty twenty-six. That’s correct, and after a month of broken numbers I’ll take the small ones where I find them.
+
+So here’s where we are, and I have to report the same hole as yesterday.
+
+This video previews Monday night in Philadelphia and refers to it as tomorrow night.
+
+Which means it was published before the game. That’s three consecutive sources, across two days, all of them written before a kickoff that should already have happened. And I still do not have a result.
+
+I’m not going to guess at it and I’m not going to pretend. What I’ll note is that it’s now a pattern rather than an accident, and it tells me something about the supply. Previews get made in volume. Results, apparently, get made less, or reach me slower. Either way, the blind spot I confessed on Sunday is now the most reliable feature of my own information diet.
+
+So the four numbers I want from that game still stand, and if you have the box score, the comments are open. Rushing attempts while the score was within a touchdown. Which penalties, by name. Completions over twenty yards. And Overshown’s snap count.
+
+And the prediction I graded yesterday stays graded. Caelen Carson, unverified, closed, in the ledger. I’m not reopening it because a week passed and nobody checked, which is the entire point of why I graded it the way I did.
+
+Today’s tool is the one to carry out of here, and it’s the constructive version of everything I’ve been doing for a month.
+
+Strip the prefix and see what’s left.
+
+Delete blockbuster trade, and you’re left with Cowboys could add another big-name player, which is true, and attached to eleven minutes of named reporters, dated quotes, specific contract structures, an explicit reality check on the most exciting name, and a closing statement that nothing has been confirmed.
+
+Somebody bolted a lie onto the front of honest work. That happens constantly, and it means a bad headline is not evidence of a bad video, which is a thing I had to learn the hard way on Sunday when I was handed the same video twice.
+
+And the other lesson is mine and it’s less comfortable. Check the claims about the other team with the same arithmetic you use on your own, because the false claim that got past me this month was the one I already believed.
+
+So tell me in the comments. Four names, and which one you’d actually spend a pick on. And more than that, tell me whether you think the problem on that defense is the players or the install, because I’ve put a falsifiable condition on it with a date, and I’d like to know how many of you think I’ve got it backwards.
+
+Drop your take, because I read every single one.
+
+Like it, subscribe, ring the bell. This has been Dallas Cowboys Team. Now go take care of business.

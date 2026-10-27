@@ -1,0 +1,391 @@
+Cowboys Nation, Dak Prescott is not leaving the Cowboys.
+
+A man on a podcast said he would trade him. That’s it. That’s the entire event.
+
+And the video underneath that headline says so, explicitly, in its own words, about sixty seconds in. Let me read it, because it’s unusually clear. This is Bayless expressing his opinion on a podcast. There is no indication that the Cowboys or Commanders are discussing a trade, and this is not a report that a deal is being considered. It is a provocative hypothetical.
+
+A provocative hypothetical. Those are the video’s words, not mine.
+
+So the headline says a quarterback is leaving, and the body says nobody is discussing anything. Fifth time this week from this same template, and I’ll give you tell twenty-six on it, because the grammar of that headline is doing something I haven’t broken down yet and it’s the cleverest version of the whole family.
+
+But that’s the small story today.
+
+The big story is that this video handed me the richest set of statistics anybody has given me in a month. Raw numbers, for both quarterbacks, enough that I could check them against each other with a calculator.
+
+And three things came out of that arithmetic.
+
+The first is that a thesis I built last week out of a single reported figure is now confirmed from the raw numbers, to two decimal places.
+
+The second is that the same arithmetic corrects me on something I argued about with another analyst on Saturday, and the correction is substantial. I was arguing about the wrong variable.
+
+And the third is that the actual comparison in this video, the one the whole thing is built on, falls apart the moment you divide. These two quarterbacks are, as passers, almost statistically identical, and I can show you exactly where the gap between them comes from and exactly how much of it is real.
+
+Welcome back to Dallas Cowboys Team, where we bring you every Dallas update, every single day. Hit subscribe and turn on notifications.
+
+Let’s get into it.
+
+Tell number twenty-six. The undated prediction.
+
+Look at the grammar of that headline. Dak Prescott leaving the Cowboys.
+
+Leaving. Present progressive. The -ing form, which in English means a process already in motion. Not should leave. Not could leave. Not might be traded. Leaving, right now, as you read it.
+
+And there’s no agent in that sentence. Nobody is doing it. Nobody is named, no date is given, no mechanism is described. A process is asserted and no actor is supplied, which is a trick I flagged weeks ago in a different form when I told you an unanchored pronoun in a headline is armor rather than an oversight.
+
+But here’s the part that makes it the cleverest one yet, and it took me a while to see it.
+
+That headline is eventually true.
+
+Dak Prescott will leave the Dallas Cowboys. Every player leaves every team. Every coach gets fired or retires. Every contract ends. It is a certainty, and the only question is when.
+
+And the headline doesn’t say when.
+
+So a headline with no date cannot be wrong. It can only be early.
+
+That is the purest version of the engine I’ve been describing for three weeks, and let me lay the whole family out now because I think it’s finally complete.
+
+Tell nineteen was the unfalsifiable adjective. Furious. Sinister. Nobody can check a mood.
+
+Tell twenty-three was the unfalsifiable noun. Move. Decision. Development. Words with no truth conditions, because no state of the world makes them false.
+
+Tell twenty-four was the undateable content. The rich history, the passionate fan base, the marathon not a sprint. Sentences that are free to produce and never expire.
+
+And tell twenty-six is the undated prediction. An inevitability announced without a deadline, which claims credit in advance for something that time will deliver on its own.
+
+Four different ways of saying nothing, and the unifying theory holds for all four. Content that cannot be wrong never has to be good.
+
+And the test for this one is as cheap as all the others. Ask what the deadline is. By when? If there is no date, there is no claim, because a prediction without a date is just a description of eventually.
+
+Now, the second thing about today’s headline, and it’s about the source rather than the grammar.
+
+What is a pundit’s hypothetical actually worth?
+
+Skip Bayless, on a podcast with Aqib Talib, said that if Washington offered Jayden Daniels straight up for Dak Prescott, he would take it. And the video says he didn’t hedge or soften it.
+
+Fine. That’s a man doing his job, and his job is to generate discussion, which is a legitimate occupation and he’s extremely good at it.
+
+But here’s what that sentence is and isn’t, and I want to be precise rather than sneering.
+
+A pundit’s hypothetical is evidence about the pundit. It is not evidence about the world.
+
+It tells you, accurately, what Skip Bayless thinks. It tells you nothing whatsoever about what the Dallas Cowboys or the Washington Commanders are doing, because he isn’t in either building and isn’t claiming to be.
+
+And the format itself is worth noticing, because I would trade X for Y is unfalsifiable by construction.
+
+It will never be tested. That trade is not going to happen, which means the opinion can never be graded, which means the person expressing it bears no risk whatsoever. Compare that to Saturday, when an analyst predicted a specific final score and will be publicly graded by a scoreboard.
+
+Same medium, same week, opposite relationship to being wrong.
+
+Alright. Now the numbers, and this is why today matters.
+
+Here is Dak Prescott’s season, as this video reports it. Six games, all starts. One hundred and sixty-three completions on two hundred and forty-six attempts, for one thousand six hundred and thirty-nine yards, with ten touchdowns and five interceptions. A completion rate of sixty-six point three percent and a passer rating of ninety point one.
+
+First thing I did was check whether those numbers agree with each other, because for three weeks every figure I’ve been handed has needed arithmetic repair before I could use it.
+
+One hundred and sixty-three divided by two hundred and forty-six is sixty-six point two six percent. The video says sixty-six point three.
+
+That matches. For the first time in a month, a transcript handed me a percentage and a raw count that actually agree.
+
+Second check. The video says Dallas is sixth in the National Football League in passing yards per game, at two hundred and seventy-three point two.
+
+One thousand six hundred and thirty-nine divided by six games is two hundred and seventy-three point one seven.
+
+That matches too.
+
+So I have a set of internally consistent numbers, which means I can start dividing things and trust the answers. And the first division I did is the one I’ve been waiting a week for.
+
+One thousand six hundred and thirty-nine yards, divided by one hundred and sixty-three completions.
+
+Ten point zero five yards per completion.
+
+Last week I was handed a single reported figure, which was that Prescott’s yards per completion had dipped to just over ten and was the lowest of his career. And I built an entire video on it. I told you that number measures one thing and one thing only, which is how far the ball travels when it’s caught. I told you it removes accuracy from the equation completely, because it only counts throws that worked. I said it was a statement about the shape of this offense rather than about anybody’s arm, and I called it the most useful single statistic anybody had given me this season.
+
+And I had exactly one source for it.
+
+Today I can reconstruct it from the raw counts, independently, and it comes out to ten point zero five.
+
+That’s the number. It’s real. And I’m going to take thirty seconds to be pleased about that, because for three weeks I have been building arguments on figures I couldn’t verify, and today one of the load-bearing ones held up under arithmetic.
+
+Now, the two numbers that I think tell the entire story of this season, and they’re both in this video.
+
+Dallas is sixth in the league in passing yards per game, at two hundred and seventy-three.
+
+Dallas is thirty-first in the league in rushing, at about seventy-six a game.
+
+Sixth and thirty-first. In the same offense. In the same six games.
+
+That is not a balanced football team having a bad year. That is a team doing one thing almost exclusively and the other thing essentially not at all. And when I talked last week about the tightrope, and about how a ten-yard-per-completion offense needs seven or eight consecutive clean plays to score, that gap is the mechanism. All the volume, none of the balance.
+
+Now here’s where today’s arithmetic corrects me, and it’s a real correction on a real argument, so let me do it properly.
+
+On Saturday I had a genuine disagreement with an analyst about the shape of this passing offense. He wanted it shorter, arguing that five easy yards helps more than a difficult throw downfield. I had wanted it longer, because of the career-low yards per completion.
+
+And we resolved it, or I thought we did. I conceded that I’d treated an average like a target, I laid out the difference between a flat distribution and a bimodal one, and I said the thing we were both actually against was the middle. I also conceded he was right about sequence, because the short game is the price of the deep ball.
+
+Today this video gives me the two most recent losses, game by game, and the arithmetic says something neither of us accounted for.
+
+Here is the Tampa Bay game. Twenty-four of forty-two, for three hundred and sixteen yards. One touchdown, two interceptions.
+
+Twenty-four completions into three hundred and sixteen yards is thirteen point two yards per completion. Twenty-four of forty-two is a fifty-seven percent completion rate.
+
+Now here is the Green Bay game. Thirty-four of fifty-four, for two hundred and fifty-eight yards. One touchdown, two interceptions.
+
+Thirty-four completions into two hundred and fifty-eight yards is seven point six yards per completion. Thirty-four of fifty-four is a sixty-three percent completion rate.
+
+Stop and look at those two games next to each other, because they are not the same offense. They’re not even close.
+
+Against Tampa Bay, Dallas threw it deeper and completed fewer. Fifty-seven percent, thirteen yards a catch.
+
+Against Green Bay, Dallas threw it much shorter and completed more. Sixty-three percent, seven and a half yards a catch.
+
+Those are precisely the two offenses I described on Saturday. The deeper, less accurate one and the shorter, more accurate one.
+
+Dallas played both. And lost both.
+
+Twenty-four to sixteen, and then twenty-three to thirteen.
+
+So here’s the correction, and I don’t think there’s a way to soften it. The depth of the throws changed dramatically between those two losses, and the result did not change at all. Which means the depth distribution was probably not the variable that decided either game.
+
+I was arguing about the wrong thing. So, to be fair, was the analyst, and neither of us had this data on Saturday. But I’d rather say the arithmetic beat my argument than quietly move on to the next one.
+
+And then the obvious follow-up question, which is the useful part. What did stay the same across both games?
+
+Two things.
+
+Two interceptions in each one.
+
+And a non-existent running game in both.
+
+The variable I was arguing about moved and the result didn’t. The variables I wasn’t arguing about stayed fixed and so did the result. That is about as clear a signal as you can get from a two-game sample, and it points away from route depth and toward turnovers and the run game.
+
+Now let me do the interceptions properly, because the arithmetic here is genuinely surprising and it cuts both ways.
+
+Prescott has five interceptions in six games.
+
+Two against Tampa Bay. Two against Green Bay.
+
+Which means four of his five interceptions arrived in the last two games. One interception across the first four games of the season.
+
+So the next question is whether five in six games is a lot, and you can only answer that with a rate.
+
+Five interceptions on two hundred and forty-six attempts is an interception rate of two point zero three percent. League average sits somewhere around two point two to two point five percent, depending on the year.
+
+So his season interception rate is at or slightly better than league average.
+
+Which produces a conclusion I did not expect when I started dividing.
+
+Dak Prescott does not have a season-long interception problem. He has a two-game interception problem.
+
+And those are completely different claims with completely different causes and completely different remedies. A season-long problem is mechanics, or decision-making, or vision. A two-game problem is something that changed two games ago.
+
+And look at what else changed exactly two games ago. The offense averaged in the mid-thirties per game across weeks two through four and has averaged fourteen and a half across the last two. The scoring collapse and the turnover collapse are the same two games.
+
+I’ve been describing those two things separately for a week. They’re one event, and I should have noticed sooner, because the arithmetic was available.
+
+Now, the number in this video I find most important, and nobody is talking about it because it doesn’t fit either narrative.
+
+The video says the offense has averaged twenty-five point two points per game, and that the defense is allowing twenty-six point five.
+
+Multiply both by six.
+
+Twenty-five point two times six is a hundred and fifty-one points scored.
+
+Twenty-six point five times six is a hundred and fifty-nine points allowed.
+
+Which makes Dallas’s point differential, through six games, minus eight.
+
+Minus eight. Over six games. That’s about a point and a third per game.
+
+And they’re two and four.
+
+Now, point differential is one of the better predictors of a team’s future record, and it is frequently a better predictor than the record itself, because a record is a small number of binary outcomes and a differential uses every point of every game.
+
+A team with a minus eight differential is, in broad terms, playing roughly even football. Not good football. Even football.
+
+So Dallas’s record is meaningfully worse than its play.
+
+And I want to be careful about what that does and doesn’t mean, because this is exactly the kind of number people misuse.
+
+What it does not mean is that this team is secretly good. Even football at two and four is still even football, and even football does not win anything in January.
+
+What it does mean is that the gap between mediocre play and a two-and-four record is where all the frustration lives, and that gap is usually made of close losses, turnovers at the wrong moment, and a handful of plays.
+
+And it has a blind spot I should name, which is garbage time. A minus eight built out of blowout wins and close losses means something different from a minus eight built out of close wins and close losses, and I don’t have the game-by-game margins to tell you which. What I can reconstruct is that the two most recent losses were by eight and ten, and that twenty-nine of Dallas’s hundred and fifty-one points came in those two games. Which means a hundred and twenty-two points arrived in the first four games, at about thirty and a half a game, while the team went two and two.
+
+So the honest shape of the season is this. Four games of a good offense and a two-and-two record, followed by two games where the offense fell off a cliff and the interceptions doubled.
+
+That’s not a team that has been bad all year. That’s a team that broke two weeks ago.
+
+Now let me do the comparison this whole video is built on, because when you divide it, it collapses.
+
+Here is Jayden Daniels, as this video reports him. Four starts. Seventy-five completions on a hundred and sixteen attempts, for seven hundred and fifty-nine yards, five touchdowns, zero interceptions. A passer rating of ninety-seven point six. And two hundred and thirteen rushing yards with two touchdowns.
+
+Now let me put the two passers next to each other, same arithmetic, same categories.
+
+Completion percentage. Daniels, seventy-five of a hundred and sixteen, is sixty-four point seven percent. Prescott is sixty-six point three.
+
+Prescott is higher.
+
+Yards per attempt. Daniels, seven hundred and fifty-nine over a hundred and sixteen, is six point five four. Prescott, sixteen thirty-nine over two forty-six, is six point six six.
+
+Prescott is higher.
+
+Yards per completion. Daniels, seven fifty-nine over seventy-five, is ten point one two. Prescott is ten point zero five.
+
+Those are the same number. Within seven hundredths of a yard.
+
+So as passers, this season, by every efficiency measure I can compute from the numbers in this video, these two quarterbacks are essentially identical, and Prescott is marginally ahead on two of the three.
+
+Which raises the obvious question. Where does the passer rating gap come from? Ninety-seven point six against ninety point one is a real gap.
+
+It comes almost entirely from one column.
+
+Touchdown rates are nearly the same. Daniels has five touchdowns on a hundred and sixteen attempts, which is four point three percent. Prescott has ten on two hundred and forty-six, which is four point one percent. Basically identical.
+
+So the gap is the interceptions. Zero against five.
+
+And now I have to say the thing that makes the comparison fall over.
+
+Zero interceptions in a hundred and sixteen attempts is not a skill. It’s a sample.
+
+At a league-average interception rate of around two point two percent, a hundred and sixteen attempts would be expected to produce about two and a half interceptions. Zero is a good start and it is not a sustainable property of a quarterback, because nobody in the history of the position has sustained zero. Zero-interception stretches end, always, and they end with a regression that looks dramatic and isn’t.
+
+So the entire statistical case for the swap rests on an interception count from a four-game sample at a rate nobody holds.
+
+That’s the demolition, and I want to be clear it’s a demolition of the statistical argument, not of the player. Because the argument for Jayden Daniels is real and strong and it has nothing to do with passing.
+
+Let me make it properly, because this is the steelman and it’s better than anything in the video.
+
+Two hundred and thirteen rushing yards in four starts is fifty-three rushing yards per game, from the quarterback.
+
+Now put that number on this specific offense.
+
+Dallas rushes for seventy-six yards a game and ranks thirty-first in the league.
+
+Seventy-six plus fifty-three is a hundred and twenty-nine.
+
+A quarterback with those legs would, by himself, take Dallas from thirty-first in rushing to somewhere in the middle of the league, without Dallas changing one thing about its offensive line, its running backs, or its scheme.
+
+That is the argument. Not that he’s a better passer, because the arithmetic says he isn’t, this season, by these measures. The argument is that a running quarterback would single-handedly repair the one structural hole that everything else in this season flows out of.
+
+And it’s bigger than the yardage, because of the mechanism the video correctly describes. On third and long, a defense has to cover receivers while also accounting for a quarterback who can escape. Which means light boxes get heavier, spot-drop zones get compromised, and the free coverage depth I’ve been talking about all week stops being free.
+
+So I’ll say it plainly. The statistical case in this video is weak and the structural case underneath it is strong, and the man making the argument didn’t make the strong version.
+
+And there are two more things that belong in the comparison, and both of them are missing from the video.
+
+The first is the one that actually drives these conversations and nobody says out loud.
+
+Age and contract.
+
+Jayden Daniels is in his third season, which means he’s on a rookie contract, which I’ve explained before is the most valuable asset class in football. Dak Prescott turned thirty-three this season and is on an enormous deal.
+
+That’s the real argument. A team trading a thirty-three-year-old on a maximum contract for a twenty-five-year-old on a rookie deal is not making a football argument, it’s making a balance-sheet argument, and it would be a defensible one on those grounds alone even if the two players were identical, which as passers this season they roughly are.
+
+Nobody in this video says that, and it’s the strongest version of the case.
+
+And the second thing is the counterweight, and it’s one I don’t think anybody wants to hear.
+
+Availability.
+
+Prescott has started all six of Dallas’s games. Daniels has started four.
+
+Which means Daniels has missed two, and I know a little about one of them, because one of Dallas’s two victories this season came in a game where Washington’s quarterback got injured.
+
+So the man Skip Bayless would trade for is, partly, the man whose absence handed Dallas one of its two wins.
+
+I’m not saying that as a gotcha, and I want to be careful not to make it one, because a quarterback getting hurt is not a character flaw. But availability is part of value, and it is the part that gets ignored in every one of these conversations, and there’s a structural reason it matters here specifically.
+
+A quarterback who rushes for fifty-three yards a game is taking contact fifty-three yards’ worth of times a game that a pocket passer doesn’t. That is the price of the thing that makes him valuable. You cannot buy the run threat and decline the exposure, because they are the same product.
+
+So the honest ledger on this hypothetical looks like this.
+
+As a passer, this season, they’re the same, and Prescott is marginally better on efficiency. The passer rating gap is interceptions, four-fifths of Prescott’s came in two games, and Daniels’s zero is not sustainable.
+
+As a runner, Daniels adds something Dallas does not have and desperately needs, and the magnitude is large enough to move a league ranking by itself.
+
+On contract and age, it isn’t close, and that’s the real argument.
+
+On availability, Prescott is six for six and Daniels is four for six, and the style that creates the value also creates the risk.
+
+That’s four separate questions, and the answer is different on each one, which is why reducing it to would you take that trade is a worse question than it sounds.
+
+Now, credit where it’s due, because this video does something I want to point at.
+
+It handles the sample-size problem properly, unprompted, at length. It says Daniels has started four games while Prescott has played all six, that the sample sizes are different, that the two are operating in different situations with different teammates and opponents and game plans, and that a ninety-seven point six rating through four starts is a strong beginning but does not automatically prove Daniels would solve every problem Dallas has.
+
+And then the sentence I’d put on a wall. The comparison is compelling, but it is still a comparison built on a limited stretch of the season rather than a full career or a direct test of how either player would perform in the other team’s offense.
+
+That is a video arguing against the very thing its own headline is selling, and doing it carefully. Which is tell eighteen for about the sixth time this month, and it’s starting to feel less like a tell and more like a description of how this entire industry is organized.
+
+One more number I want to flag, because it resolves a confusion I’ve had for two weeks.
+
+The video says Dallas went seven, nine and one last season.
+
+A tie. Seven wins, nine losses, one tie.
+
+I have been doing arithmetic on this team’s recent history for a fortnight and that tie was not in my records, which means some of my sums have been off by a game in ways I couldn’t locate. It’s in the ledger now.
+
+And while I’m on the ledger, a note about triangulation, because something good happened today.
+
+The passing yards in this video are one thousand six hundred and thirty-nine. Divided by six games, two hundred and seventy-three point two, which the video independently states. Against Green Bay, two hundred and fifty-eight passing yards, and from a separate source last week, forty-eight rushing yards in that game, which sums to three hundred and six total. And a third source, the week before, gave me three hundred and three total yards for that game.
+
+Three hundred and six and three hundred and three. Three yards apart, and the difference is almost certainly how a sack was accounted for.
+
+For a month, every number I’ve received has contradicted every other number by factors of ten. Today three independent sources agree within three yards. I don’t want to make too much of it, but it’s the first time all month I’ve been able to triangulate anything, and it means the figures I’ve been building on are probably real.
+
+Corrections, and today’s are mostly names.
+
+Skip Bayless, who arrives in this transcript as Skip Bis, then Bayis, then Bailis, then Bis again. Four spellings, one man, which has to be a record.
+
+Aqib Talib, who arrives as Akib Talib.
+
+Jayden Daniels, who arrives as Jaden Daniels, and the Washington Commanders, which arrive in the singular as Washington Commander.
+
+And the record, which arrives as twenty-four and as two-four and as a two for four start, and is two and four. And last season’s, which arrives as seven ninety-one and is seven, nine and one.
+
+So here’s where we are, and I have to be honest about a hole.
+
+Dallas should have played Philadelphia last night. I spent four days building a preview of that game, with a Fangio thesis, a watch list, and an amended set of metrics.
+
+And no source has told me what happened.
+
+Everything I was handed today was written before kickoff. It describes a two-and-four team six games into the season, coming off Green Bay, with no mention of a Monday night result.
+
+So I don’t have it, and I’m not going to pretend I do, and I’m not going to guess. This is the fourth time in a week I’ve run into the limitation I confessed on Sunday: my picture of this season is assembled entirely out of videos people chose to make, which means it’s detailed where content gets made and blank everywhere else. Apparently the thing people made content about this morning was a podcast hypothetical rather than a football game.
+
+If you’ve got the result and the box score, the comments are open, and I want four numbers from it. Rushing attempts while the score was within a touchdown. Which penalties, by name. Completions over twenty yards. And Overshown’s snap count.
+
+And now the thing I have to do, which is grade myself.
+
+Seven days ago I made a falsifiable prediction on this channel. I said Caelen Carson would clear waivers and return to the Dallas practice squad within the week. And I set a grading rule in advance, before I knew the answer, specifically so I couldn’t be generous with myself afterward.
+
+Here was the rule. No news by Tuesday and I score it unverified, not correct.
+
+It’s Tuesday. No news reached me.
+
+So the prediction is unverified. Not right. Not wrong. Untested.
+
+And I want to be clear that unverified is a worse outcome than being wrong, which sounds backwards, so let me explain why I think it.
+
+If I’d been wrong, I’d have learned something. The mechanism I described would have failed, and I’d have to go find out why, and the next version of my understanding would be better.
+
+Unverified teaches me nothing. It’s a claim that went out into the world and came back with no information attached, and the reason is that nobody made a video about the fourth cornerback on a two-and-four team, which is exactly the blind spot I’ve been describing all week.
+
+I’ve spent three weeks telling you that content which cannot be wrong never has to be good. A prediction nobody checks is in that same family, and the fact that it’s mine doesn’t exempt it. So it goes in the ledger as unverified, and I’d rather carry that than quietly let it expire.
+
+Tell twenty-six is the one to carry out of here, and I think it’s the sharpest one on the list.
+
+The undated prediction. Ask what the deadline is.
+
+Dak Prescott leaving the Cowboys is a true statement with no date attached, and a headline with no date cannot be wrong. It can only be early. Which means it isn’t a prediction at all. It’s a description of eventually, dressed up in the present tense, and it will be quietly correct in two years or six, and somebody will remember the headline and not the hypothetical it came from.
+
+So when somebody tells you a thing is happening, ask by when. And if they can’t answer, they haven’t told you anything you didn’t already know about how time works.
+
+So tell me in the comments, and the real questions are stacking up. What happened last night. The score column from those thirty-seven plays. Which week the bye was. And the cornerback’s name, which is now thirteen videos deep and which somebody out there knows instantly.
+
+And one more, which I’d actually like your opinion on rather than your information. Knowing the arithmetic now, that they’re the same passer and the gap is a rookie contract and a pair of legs, would you take that trade?
+
+Drop your take, because I read every single one.
+
+Like it, subscribe, ring the bell. This has been Dallas Cowboys Team. Now go take care of business.
