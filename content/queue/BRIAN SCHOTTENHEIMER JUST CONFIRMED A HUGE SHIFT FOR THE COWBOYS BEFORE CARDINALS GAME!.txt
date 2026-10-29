@@ -1,0 +1,407 @@
+Cowboys Nation, Dallas won.
+
+They beat Philadelphia. On the road, on Monday night.
+
+And I have spent three consecutive videos telling you that I did not have the result, that every source I was handed had been published before kickoff, and that I was not going to guess.
+
+So here’s how I found out. It arrived today in a subordinate clause, in a video about a coach’s facial expression at a press conference. After that huge victory over the Philadelphia Eagles.
+
+That’s it. That’s how the biggest piece of information in a month reached me, and I think it’s the perfect confirmation of the thing I confessed on Sunday, which is that my picture of this season has exactly the shape of whatever people choose to make videos about. Previews get made in volume. A mood piece about a press conference gets made. The result arrives as context inside it.
+
+Now, I owe you a lot today.
+
+I built a four-day thesis about this game and I got it wrong, and I want to show you precisely where the error was, because the mechanism I described turned out to be right and the conclusion I drew from it was wrong, and that’s a more interesting failure than just being incorrect.
+
+I also have a watch list with five items on it that I published before kickoff, and today I can grade four of them, so let’s do that properly.
+
+And the single most important sentence in this video is a methodological one about how to judge a team after a win, and it’s the thing I most want you to take away, because this is exactly the week where it matters.
+
+Welcome back to Dallas Cowboys Team, where we bring you every Dallas update, every single day. Hit subscribe and turn on notifications.
+
+Let’s get into it.
+
+Before anything, the headline, and I want to do this quickly because something nice happened.
+
+Brian Schottenheimer just confirmed a huge shift for the Cowboys before the Cardinals game.
+
+I don’t need a new tell for that. Not one. For the first time in a month, I can classify a headline completely using things I’ve already given you, and I think that’s worth thirty seconds because it means the framework is finished.
+
+Confirmed. That’s the inverse law from Sunday. The strength of the certainty word is inversely related to the strength of the evidence, and nobody who actually has something confirmed needs to tell you so, because they can just tell you what it is.
+
+A huge shift. That’s tell twenty-three, the transaction-shaped noun with no object. A shift has no truth conditions. There’s no state of the world in which a football team is not shifting, so the claim can’t fail.
+
+Before the Cardinals game. That’s tell twenty-five, the suffix module, bolted on to supply recency.
+
+Three patterns, all of them already named, in one headline. No additions required.
+
+And strip the prefix, which was Tuesday’s tool, and what’s left is that the coach said something about standards before the next game. Which is true.
+
+Right. Now the real work.
+
+Let me grade my watch list, because I published it before kickoff and that’s the point of publishing it.
+
+Five items. Here they are again.
+
+Run rate while the score was within a touchdown. Which penalties, by name, not how many. Completions over twenty yards. On third down with more than six to go, where the ball gets caught. And Overshown’s snap count.
+
+Item one. The run game.
+
+This video says Dallas had a productive running game. It says the offensive line created movement. And then it says the thing I actually wanted, which is about commitment rather than yardage. Williams gave this offense a reason to keep handing him the ball, and I like that commitment, because a running game needs opportunities, not just a couple of carries before everybody gets impatient.
+
+Opportunities. Commitment. Carries.
+
+That’s attempts, and attempts was the whole point of the item. So I’ll call that one answered qualitatively.
+
+Item two. Which penalties.
+
+I have exactly one, and it’s a good one. Quinnen Williams was offside, and the penalty wiped out a potential takeaway in the first half.
+
+Offside is a procedure penalty. It’s pre-snap, it’s alignment and timing, and it belongs to the install column rather than the discipline column.
+
+So my decomposition has its first entry and it lands on procedure. I’ll come back to this.
+
+Item three. Completions over twenty yards.
+
+Partial. The video says George Pickens had one of the night’s standout catches and scored a touchdown, and that both receivers finished drives in the end zone, so CeeDee Lamb scored too.
+
+A standout catch and a touchdown is suggestive, but it isn’t a number, and the number was what I asked for.
+
+Item four. On third and long, where does the ball get caught.
+
+And this one got answered in a way I did not anticipate at all, which is that the ball wasn’t thrown.
+
+Dallas ran the football on third and eight. Twice.
+
+I’ll do that properly in a minute because it’s the most interesting football in this video.
+
+Item five. Overshown’s snap count.
+
+Don’t have it. What I have is that he played and he intercepted a pass, which is a real contribution in a first game back after five weeks with a hamstring.
+
+But the snap count was the actual test. I said it would tell you more about this organization’s medical honesty than any podium would, and it’s the one item I most wanted and the one I still don’t have.
+
+So that’s four of five answered qualitatively, zero of five answered numerically, which is a result in itself and I want to name it.
+
+I built a watch list out of numbers specifically so that I couldn’t move the goalposts afterward. And what came back was a qualitative account of a win from a man describing a press conference. I don’t have the final score. I don’t have rushing attempts. I don’t have penalties beyond one. I don’t have snap counts.
+
+Which means the discipline I designed for myself survives contact with the world only when somebody makes a video containing numbers, and nobody did.
+
+That’s not a complaint about this source, who did his job well. It’s a limitation of mine and it’s the fourth time this week I’ve run into the same one.
+
+Now, the part I owe you most, which is where I was wrong.
+
+I spent four days building a thesis about this football game, and it went like this.
+
+Philadelphia’s defense is coached by Vic Fangio. A Fangio defense plays two safeties deep, keeps the box light, rushes four, doesn’t blitz much, and operates on bend-but-don’t-break. And the central deal that design offers you is: take the run, take four yards, take the clock, and I will make sure nothing goes seventy yards over my head.
+
+And then I said, and I’ll quote myself because I was pleased with it at the time: the one thing a Fangio defense gives you is the one thing this offense cannot do. Dallas is thirty-first in rushing. It cannot take the run.
+
+I called it the tightest matchup argument I’d been able to build all season.
+
+Dallas ran the ball productively and won the game.
+
+So let me be precise about what was right and what was wrong, because the split matters.
+
+The mechanism was right. Fangio offered the run. Everything I said about what that design does and why it does it holds up, and the video describes exactly the game I predicted the shape of. Dallas established the run, Philadelphia had to deal with the ground game while still accounting for receivers, and the offense didn’t have to ask the quarterback to rescue every possession.
+
+That’s my thesis, running forward, happening.
+
+The conclusion was wrong. I said Dallas couldn’t take what was being offered. Dallas took it.
+
+And here is the specific thing I missed, and when I tell you what it is you’ll see why it stings.
+
+Dallas used Broderick Jones as an extra offensive lineman.
+
+A sixth lineman. An additional big body on the field, giving the defense a different blocking surface to handle.
+
+Now watch what that does to my own argument.
+
+A light box is not a philosophy. It’s a bet on arithmetic. Fangio keeps fewer defenders near the line of scrimmage because he’s wagering that your blockers can’t convert the numbers advantage into enough yards to beat him.
+
+Put a sixth offensive lineman on the field and you have changed the arithmetic of that bet. Not the talent. The count.
+
+And I should have seen this coming, because I gave you the tool on Tuesday and then failed to apply it to my own prediction forty-eight hours later.
+
+On Tuesday I explained the difference between zone and gap running. Zone asks five men to each win an individual battle while moving laterally. Gap scheme pulls a blocker across the formation and buys you a numbers advantage at one point. And I said, in those words: zone requires winning, and gap requires arithmetic. If your line can’t consistently win laterally, you stop asking five men to each beat a man and you start buying a two-on-one at one location.
+
+An extra offensive lineman is that same principle, applied with personnel instead of with a pulling guard. It’s arithmetic rather than victory.
+
+So I had the correct framework in hand on Tuesday, used it to argue that Dallas should run counter and power, and then on Thursday and Friday told you Dallas couldn’t run against a light box. Those two positions don’t fit together and I didn’t notice.
+
+That’s the error, and it’s not a data error. I had all the facts. It’s a failure to carry my own reasoning across three days, which is a less forgivable kind of mistake than being handed bad numbers.
+
+Now, the thing that was vindicated, and I think it’s the sharpest distinction I made all month, so I’m going to claim it.
+
+On Sunday I said this. Rushing rank measures outcome. Run rate measures intent. Thirty-first in rushing yardage tells you what happened. It cannot tell you whether you can’t run or whether you don’t run, because both produce low yardage.
+
+And I said the conditional out loud: if the one-carry-in-thirty-seven distribution reflects how this offense behaves in competitive game states, then being thirty-first in rushing is not primarily an offensive line failure, it’s a decision.
+
+Well, Dallas decided to run, and the run worked.
+
+Which means thirty-first in rushing was substantially a choice, and my own pessimistic conclusion about capability was built on a statistic I had already explained cannot measure capability.
+
+So the distinction held and the person who most needed to apply it was me.
+
+Now the piece of this that I think is the biggest story of the month, and nobody is going to frame it this way.
+
+Last week I identified something I called a four-source convergence, and I said at the time that a pattern that consistent stops being a coincidence and becomes the story.
+
+Kurt Warner, on the Rich Eisen Show, said Dallas lines up and says we’re better than you without adding complexity or variability, and asked for more formation and motion variance.
+
+Saturday’s analyst said move Pickens around and give him opportunities that fit what he does well.
+
+Tuesday’s analyst asked for counters, power runs and pulling blockers, to give the defense something else to react to.
+
+And Klayton Adams, the offensive coordinator, said this offense is still finding an identity.
+
+Four people, four vocabularies, one hole. Motion. Displacement. Manufactured advantage. Scheme is what you buy when you can’t win the matchup.
+
+And then Dallas put a sixth offensive lineman on the field and ran the ball productively against Vic Fangio.
+
+That is the convergence producing a visible change in one week, and it is the single largest payoff of anything I have covered this month. Four independent voices described a specific structural gap, and the structural gap got addressed with a specific structural answer.
+
+I want to be careful not to claim too much. I don’t know whether anybody in that building heard any of those analysts, and I’d assume not, because coaches have film and we have transcripts. The convergence probably identified something that was already being worked on, rather than causing it.
+
+But that’s still the useful version. When four unconnected people watching the same team describe the same hole, they’re usually describing something real, and it’s worth more than any one of their opinions.
+
+Now, the offensive line detail that I think is genuinely insightful, and it’s the kind of thing I’d never have thought to say.
+
+The video says of Tyler Guyton that he wasn’t being asked to spend the entire night retreating and protecting the pocket. He could attack, get into defenders, and help open lanes. And it calls that a different kind of evening for an offensive tackle.
+
+That’s a real observation and let me extend it.
+
+A tackle who gets to attack is a different player from a tackle who only retreats.
+
+Pass protection is reactive. You’re moving backward, your base is compromised, you’re absorbing force rather than delivering it, and you lose by any single mistake over two and a half seconds. It is the hardest thing offensive linemen do and it has almost nothing in common with the other half of the job.
+
+Run blocking is proactive. You go forward, you initiate contact, you’re the one delivering force, and you win by displacement.
+
+Those are nearly opposite athletic tasks, and an offense that only ever passes has put every one of its tackles in the harder of the two, all night, every night.
+
+So a run-heavy plan does not only help the running back. It changes what you’re asking five men to do with their bodies, and it lets a tackle who’s good at one half of the job spend some of the evening doing that half.
+
+And it has a compounding effect, because the pass protection gets better too. A defensive end who has to honor a run cannot take his widest, deepest, most aggressive rush angle off the snap. I priced that last week at a tenth or two of a second, which is maybe eight percent of a pocket.
+
+Which means the thing the video reports — a productive running game and protection for Dak Prescott, in the same sentence — isn’t two achievements. It’s one achievement and its consequence.
+
+Now, the most important sentence in this video, and it’s methodological.
+
+The source criticises two specific play calls. And then he says this: that’s a fair debate even after a win. You can appreciate the overall game plan and still dislike an individual decision. For me, the standard shouldn’t change just because the final score makes everything feel better afterward.
+
+The standard shouldn’t change because of the final score.
+
+I want to make that as sharp as I can, because this is the week it matters and it’s the hardest discipline in all of sports analysis.
+
+A win is the most dangerous moment for honest evaluation.
+
+Here’s why. After a loss, every decision gets examined, and most of them get examined too harshly. After a win, every decision gets retroactively validated, and nobody examines anything, because the scoreboard appears to have answered all the questions.
+
+But a play call doesn’t know the final score. The decision was made with the information available at that moment, and its quality was fixed at that moment, and nothing that happened in the fourth quarter reaches backward to improve it.
+
+And notice this is the exact companion to a principle I gave you last week. I called it asymmetric luck accounting: if you’re going to discount wins for luck, you have to discount losses for luck too, and almost nobody does, because the appeal of the method is that it only points one direction.
+
+Today’s version is the same shape pointed at decisions instead of results. If you’d have criticised a call after a loss, you have to criticise it after a win, and almost nobody does.
+
+So let me actually do it, on the two calls this source raises, because that’s the honest exercise.
+
+Call one. Dallas is backed up near its own goal line. After an incomplete pass to Pickens, they hand the ball to Javonte Williams on third and eight, and then punt.
+
+Now, I want to steelman that harder than the video does, because there’s a real argument for it that’s about more than field position.
+
+A third-and-eight run from your own end zone is a punt with extra steps, and sometimes a punt with extra steps is the correct play. The downside scenarios from inside your own ten are catastrophic and asymmetric. A sack is a safety. A strip is a defensive touchdown. An interception is points. The distribution of outcomes on a pass from there has a fat tail on the wrong side, and a handoff truncates that tail at the cost of a conversion you probably weren’t getting anyway.
+
+Third and eight converts somewhere around a third of the time at best. So you’re declining a one-in-three chance to eliminate a small probability of handing over seven points. Depending on the score and the time, that can absolutely be right.
+
+And the video’s criticism is sharper than it first appears, because it doesn’t say the call was wrong. It says Dallas accepted a conservative way out of a difficult spot, and that’s different from saying the offense had no other option.
+
+That’s the correct version of the complaint. Not that the decision was indefensible, but that it was a decision, and it should be named as one rather than treated as the only thing available.
+
+Call two is the one I’d actually argue with, and the video does too.
+
+Dallas is near Philadelphia’s goal line. Third and eight. They hand the ball to Hunter Luepke, a fullback. He gains three. They kick a field goal.
+
+That one’s harder to defend, and here’s why the arithmetic is different.
+
+Near the opponent’s goal line, the catastrophic outcomes mostly disappear. A sack is not a safety. An incompletion costs you nothing but the down. The interception risk is real but the geometry is cramped and the field is short.
+
+So you’ve eliminated almost none of the downside, because the downside was already small, and you’ve paid for it with a conversion attempt you declined to make.
+
+And the difference between a touchdown and a field goal is four points, which in a one-score game is the whole game.
+
+The video puts it exactly right: I get the appeal of protecting those points, but what I question is how much chance that call gave you to extend the drive.
+
+So, for the record, and after a win: I think the first call is defensible and the second one isn’t, and I’d have said the same thing about both if Dallas had lost by three.
+
+Now the operational detail, which is the kind of thing that only somebody watching closely ever catches.
+
+Before halftime, Dallas moved the ball without immediately using a timeout, and CeeDee Lamb helped get the offense into scoring position. And the video reports a twenty-five second gap between snaps on consecutive completions.
+
+Twenty-five seconds. In a two-minute situation.
+
+Let me explain why that number is bad, because it sounds small.
+
+In a two-minute drill, the play clock is your opponent. The reason you push tempo is that every second between snaps is a second subtracted from the number of plays you’ll get, and the number of plays is the only thing that determines whether you reach the end zone or settle for three.
+
+Twenty-five seconds between snaps on a completion means the offense was not operating at tempo. And it compounds, because two of those is fifty seconds, which at the end of a half is an entire possession’s worth of time, converted into nothing.
+
+And the video’s framing is right: getting points was good, whether Dallas gave itself the best chance at a touchdown is a separate question.
+
+Those are two different questions and the scoreboard answers the first one and tells you nothing about the second.
+
+Now the penalty, and my decomposition, which has its first entry.
+
+Quinnen Williams was offside, and it wiped out a potential takeaway in the first half.
+
+So let me do the accounting I set up on Sunday. I said the eleven penalties from the Green Bay game needed to be split into two categories with two different diagnoses, because I’d been treating one number as one problem.
+
+Illegal formation, false start, illegal shift, offside, delay of game. Those are procedure penalties and they belong to the install.
+
+Unnecessary roughness, unsportsmanlike conduct, post-whistle contact. Those are discipline penalties and they belong to the culture.
+
+Offside goes in the first column.
+
+Now, one penalty is not a decomposition, and I want to be clear about how thin this is. I have one named penalty from one game and I’m not going to pretend that tells me what the eleven at Lambeau were made of.
+
+But it’s the right kind of information and it’s the first of it I’ve had, and the video makes the correct football point about it, which is worth repeating.
+
+You can disrupt a play and still lose the benefit because you weren’t lined up or timed correctly.
+
+That’s the whole thing. A defense that gets a takeaway and gives it back to a pre-snap penalty is not being beaten by an opponent. It’s beating itself, and that’s the only category of problem that’s fully inside a building’s control.
+
+Now, the piece of news in here that I think matters most for the rest of the season, and nobody is going to lead with it.
+
+Shemar James took the green dot.
+
+Let me explain what that is, because I covered it weeks ago and it deserves a second pass.
+
+One defensive player on the field wears a helmet with a green dot on the back. That dot means he has the radio receiver, which means the coordinator’s voice comes to him, and he relays the call to the other ten men. He’s the one who hears the adjustment, repeats it, and makes sure everybody is lined up before the snap.
+
+It is the single most important non-physical job on a defense, and it has nothing to do with how fast anybody runs.
+
+And the video says James handled that responsibility in place of Jaishawn Barham, and that Schottenheimer praised his command.
+
+Two things about that.
+
+The first is that Barham is a rookie, which I learned on Tuesday. Putting the radio on a rookie is a vote of confidence and also a heavy load, because a man who is still learning his own assignment is now also responsible for everybody else’s.
+
+The second is that this is a direct intervention on exactly the problem I’ve been describing for three weeks.
+
+Everything I’ve said about this defense has come back to communication. Missed assignments. Two defenders who think they have the same receiver. A young defender thinking too much. And the line I keep repeating: you cannot trade for assignment clarity, because the market sells players and it does not sell communication.
+
+Moving the green dot is one of the very few things a team can do about that in October. It costs nothing, it requires no draft picks, and it changes who is responsible for organizing ten men before every snap.
+
+And the video says the exact right thing about what to watch next, which is that for James the job goes beyond getting himself to the football — he has to help teammates get organized when the offense changes its look.
+
+That’s the test. Not tackles. Whether the defense is lined up correctly when an opponent shows them something unexpected.
+
+And it bears on a falsifiable condition I set last week. I said that if communication errors and blown assignments go down over three weeks, the Pettine arrangement worked and I was right to walk back my two-cooks concern.
+
+I now have to add a confound to my own test, and I’d rather name it than quietly benefit from it. If the communication improves, I will not be able to tell whether that was Pettine, the install settling, or a new man wearing the green dot. Three candidate explanations, one observation, and the condition I wrote can’t distinguish them.
+
+That’s a badly designed test and it’s mine. The best I can do is report all three and refuse to credit any one of them.
+
+Now the defensive performance, where my own longest-running claim survived.
+
+The video says Philadelphia opened the second half with a long touchdown drive, and that’s too much football to spend watching an opponent move the chains. It credits Christian Parker’s unit for responding afterward and keeping the Eagles from scoring again. And then it says the thing I’ve been saying since the middle of October, in different words.
+
+The next step is making opponents work for everything from the opening possession, instead of needing a long stretch of the game to settle down.
+
+Needing a long stretch of the game to settle down.
+
+That’s the organizational signature. I’ve argued for two weeks that this team is consistently worse early and better late, that an opening plan is the premeditated and teachable part of coaching while in-game adjustment mostly isn’t, and that a team with that shape has a planning problem rather than a coaching-in-the-moment problem.
+
+A win did not erase it. The defense struggled early, gave up a long drive to open the second half, and then shut the opponent out for the rest of the game. That is the same shape, in a victory.
+
+Which is the whole reason the standard shouldn’t move with the scoreboard. If I’d stopped at the result, I’d have deleted a pattern that’s still there.
+
+And a small thing that made me laugh, so I’ll share it.
+
+Dak Prescott spoke.
+
+For three consecutive days last week I was handed headlines claiming Dak Prescott had said something explosive about his head coach. Furious, bombshell, sinister message. And in all three, across about twenty-five minutes of material, the man said nothing at all, because nobody had asked him anything.
+
+This week he actually spoke about Schottenheimer, and what he said is that he noticed the edge, and he described a hungry, angry version of his coach.
+
+Which is a compliment.
+
+So when the quotation finally arrived, it was the opposite of everything three headlines had invented out of nothing, and it was in a video whose own title is about a shift that hasn’t been defined.
+
+One more credit, because it’s a genuinely underrated observation and it connects to something I built last week.
+
+The video mentions Brandon Aubrey in the kickoff coverage, and makes the point that field position helps a defense. When the coverage team gets downfield and limits the return, the opponent has farther to travel.
+
+Last week, when KaVontae Turpin went out with a rib injury, I argued that losing a returner hurts this particular offense more than most, because field position is the hidden input to every drive statistic, and an offense averaging ten yards per completion needs an extra completion and a half for every fifteen yards of field it has to make up.
+
+This is the same argument from the other end. A kickoff that limits a return does to the opponent what losing Turpin did to Dallas. It’s the cheapest fifteen yards in football and nobody notices it, because it shows up as the absence of a problem.
+
+Now, my own open positions, briefly, because I have two live conditions and today touches both.
+
+The first is my deadline verdict. Two days ago I said I would not buy a pass rusher before the tenth of November, and I attached a falsifiable condition: if this defense improves meaningfully over the next three to four weeks without any new acquisition, the problem was never primarily talent.
+
+Today’s evidence is one game and it’s mixed. The defense responded after halftime and shut out an opponent for a long stretch, which is improvement. It also gave up a long opening drive in the third quarter and donated a takeaway to a pre-snap penalty, which is the old problem. And Overshown’s return is an addition, which means the unit that improved was not the same unit.
+
+So the condition is live and unresolved, and I have roughly one more game of evidence before the deadline.
+
+The second is the Pickens situation, and today changes the market rather than the story.
+
+I was careful on Tuesday not to build a narrative out of three facts standing near each other: he’s on a franchise tag, his coach asked him to block better, somebody floated a trade. I said three true things in one week is a week, not a story, and I stand on that.
+
+What I’ll add is a market observation. He caught a touchdown and one of the night’s standout catches, having dealt with a shoulder issue during the week without a final injury designation.
+
+Which makes any sell-high conversation more expensive, not less. My own principle says a player’s price rises when he produces and a team’s willingness to sell falls when it wins. Both of those moved in the same direction on Monday night.
+
+And here’s the condition I want to set for next week, because the source hands me the right frame and I want to put a number on it.
+
+The video closes by saying Dallas has to carry this into the next game without needing the emotion of a rivalry to get there.
+
+That’s exactly the question. Was Monday night a structural change or a rivalry game?
+
+And it’s answerable with one number against Arizona.
+
+Rushing attempts while the score is within a touchdown.
+
+If Dallas commits to the run against a non-rival in a game nobody’s emotional about, and if the six-man line shows up again, it was structural and the identity the coordinator said they were still looking for has arrived. If the attempts collapse back toward one in thirty-seven, Monday night was a week of good preparation against a team on a four-game losing streak, and nothing has changed.
+
+One number, one game, and I’ve said in advance which answer means what. That’s the whole method and it’s the only thing I actually have to offer.
+
+Names, and today’s crop is good.
+
+Shemar James, confirmed and now carrying the green dot. Jaishawn Barham, who arrives as Jaan Barham. Tyler Guyton as Tyler Gayton. Tyler Booker as Tyler Booger. Broderick Jones as Brderick Jones, which is at least closer than Brick Jones, where he’s been for five videos. Javonte Williams, CeeDee Lamb, George Pickens, Terence Steele, Tyler Smith, Quinnen Williams, Kenny Clark, Christian Parker, DeMarvion Overshown, Klayton Adams. All mangled, all correct in substance.
+
+Hunter Luepke, who manages two separate manglings in one video, arriving as Hunter the Weekka and then as Hunter Lewepy.
+
+Brandon Aubrey, with the e.
+
+And two new ones. Connor Riley, the offensive line coach, who I didn’t have and who the video credits alongside the coordinator. And Justin Baron, still in the linebacker mix, still a name I can’t place, now on his third appearance.
+
+And the one that’s driving me up a wall. The interior defensive lineman alongside Quinnen Williams and Kenny Clark, who arrived two days ago as Otto Abania and today arrives as Otito Obana.
+
+Two renderings, two different sources. Both of them point at something sounding roughly like oh-TEE-toh oh-BAH-nah, which is a distinctive enough shape that somebody watching this knows it instantly. I’m not guessing.
+
+Which goes on a flagged list that now reads: a cornerback at fourteen appearances who was involved again on Monday, a starting linebacker with an Achilles, a safety whose practice window is open, another safety, a linebacker, an Eagles defender, and an interior lineman.
+
+Seven names. On a team I’ve covered every day for a month.
+
+So here’s where we are.
+
+Dallas is three and four. They beat Philadelphia on the road. The run game showed up, with a sixth offensive lineman on the field, against a defense specifically designed to dare you to run, which is the exact thing I said four days ago they couldn’t do.
+
+A rookie’s green dot moved to Shemar James and the head coach praised his command. Overshown returned and intercepted a pass. A takeaway was erased by an offside penalty. The defense gave up a long drive to open the second half and nothing afterward.
+
+Arizona is next, at home, and both teams were two and four coming in.
+
+And I still don’t have the score. Which, after three days of asking for a result, feels like the appropriate punchline. If anybody has the box score, the comments are open, and the four numbers I want have not changed since Sunday.
+
+The thing to carry out of here isn’t a tell today. It’s the sentence this analyst wrote and the one I’d put above all twenty-six of them this week.
+
+The standard shouldn’t change just because the final score makes everything feel better afterward.
+
+A win is the most dangerous moment for honest evaluation, because a loss gets everything examined and a victory gets everything excused. The third-and-eight handoff that led to a punt is exactly as debatable today as it would have been in a defeat, because the play did not know how the game was going to end.
+
+And the version of that I have to apply to myself is simpler. I was wrong about this game, in a specific way, using a tool I’d already built and failed to pick up. Dallas winning doesn’t change that and neither does the fact that my mechanism was right. The conclusion was the part I published, and the conclusion was wrong.
+
+So tell me in the comments. Does the six-man line show up against Arizona, or was Monday night a rivalry?
+
+Drop your take, because I read every single one.
+
+Like it, subscribe, ring the bell. This has been Dallas Cowboys Team. Now go take care of business.
