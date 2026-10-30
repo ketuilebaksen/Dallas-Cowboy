@@ -1,0 +1,361 @@
+Cowboys Nation, somebody wrote the sentence I’ve been trying to write for a month, and he did it in six words.
+
+A roster spot opening is a signal, and a signal isn’t a transaction.
+
+That’s it. That’s the whole thing. Twenty-eight tells, four weeks, a unifying theory about unfalsifiability, and a man on a channel I’d never heard of put it in six words better than I have managed in any of them.
+
+And I want to spend today on that sentence, because once you have it, almost everything on my list turns out to be a special case of it.
+
+But I have to start with something uncomfortable, because this video is the most rigorous thing anybody has sent me since I started doing this, its own stated brand is facts and straight talk, nothing inflated and nothing made up, and the title on it says Cowboys get huge news.
+
+Two players were cut. They had five carries and zero appearances between them.
+
+So today I think I finally understand what I’ve been looking at for a month, and it’s not what I thought it was.
+
+Welcome back to Dallas Cowboys Team, where we bring you every Dallas update, every single day. Hit subscribe and turn on notifications.
+
+Let’s get into it.
+
+Let me take the title first, because it’s the last piece of a puzzle I’ve been assembling since Friday.
+
+This channel’s opening pitch is explicit. It says, in the first thirty seconds, that the channel is about facts and straight talk, nothing inflated and nothing made up.
+
+And then it delivers eight minutes of the most careful roster work I have been handed in four weeks. It cites a team transaction log. It cites Yahoo Sports, NBC Sports, Pro Football Rumors, the Dallas Morning News and the Cowboys’ own site, separately, for separate claims. It corrects a major outlet on a mechanic, with reasoning. It refuses, out loud, to guess about something it doesn’t know. It states its central claim with a date attached. And it names the exact deadlines, to the day, for two players’ seasons.
+
+And it’s called Cowboys get huge news.
+
+Now, for a month I have been cataloguing headlines as if they were deceptions committed by people who didn’t care about the truth. And a lot of them were exactly that. The video with no trade in it. The video where Dak Prescott said nothing. The same nine minutes published twice under two different titles.
+
+But here’s a channel whose entire identity is built on not inflating things, doing genuinely excellent work, and the title is still inflated.
+
+Which means the inflated title is not a lie somebody tells. It’s a toll somebody pays.
+
+You cannot get the video seen without it. The person who made this did the rigorous thing in the body and paid the toll at the gate, and I’d bet he knows exactly what he did and didn’t enjoy it.
+
+And that reframes the whole month for me, so let me say it plainly.
+
+The tells are a property of the distribution system, not of the people.
+
+Which is both more forgiving and more depressing than what I’d been saying. More forgiving, because it means most of these people are not frauds, they’re paying a tax. More depressing, because a tax everybody has to pay is much harder to fix than a few bad actors.
+
+And it’s the strongest possible version of tell twenty-two, which was that the title is not a property of the video. Here’s the proof: a channel that explicitly promises nothing inflated, with an inflated title, over the least inflated body I’ve seen. The gap has never been wider and the person responsible is the same person.
+
+Alright. Now the sentence.
+
+A roster spot opening is a signal, and a signal isn’t a transaction.
+
+Let me show you how much of my own list collapses into that.
+
+Tell seventeen was the headline that names the wrong transaction. Trade, when nothing changed hands. That’s a signal being reported as a transaction.
+
+Tell twenty was the headline that converts a proposal into a decision. Parker could consider becomes Schottenheimer decides. A signal being reported as a transaction.
+
+Tell twenty-three was the transaction-shaped noun with no object. Move. Decision. Shift. A signal dressed as a transaction.
+
+Tell twenty-six was the undated prediction. Dak Prescott leaving. A signal, with no date, reported as an event in motion.
+
+Four separate tells, four separate tests, and all of them are asking the same question, which is the one this man asked in six words. Did something happen, or did something become more likely?
+
+And those are completely different states of the world. A roster spot opening makes an activation more likely. It is not an activation. A reporter saying executives think a fit makes sense makes a trade more likely. It is not a trade. A man saying he’d welcome a conversation makes a conversation more likely. It is not a job.
+
+So here’s the test, and I think it’s the best single test I can leave you with, because it subsumes about half of what I’ve been doing.
+
+Ask whether the thing described is an event or a probability.
+
+Events have dates and documents. Probabilities have neither, and they get reported in the grammar of events, because the grammar of events is more exciting.
+
+And notice what this video does with its own signal, which is the part that makes it exemplary rather than just correct.
+
+It says: here’s the line I’m holding for the whole video. As of Thursday, October twenty-ninth, neither player has been activated. Both are still on injured reserve.
+
+As of Thursday, October twenty-ninth.
+
+He dated it. Which is the cure for tell twenty-six, the undated prediction, applied by somebody who has presumably never heard of my tells list and simply understands that a claim without a date isn’t a claim.
+
+Now, the thing in this video that I genuinely did not expect, and which is the single best validation of anything I’ve taught this month.
+
+This man corrects Yahoo Sports on a roster mechanic, and he’s right, and the reasoning is mine.
+
+Here’s the situation. Dallas waived two players on Tuesday. A running back and a rookie tight end. And some outlets, Yahoo among them, wrote that Dallas had opened two roster spots.
+
+And this video says that’s not how it works, and explains why. The tight end was on injured reserve. A player on injured reserve doesn’t count against the fifty-three man roster. So cutting him doesn’t open an active spot, because he wasn’t occupying one.
+
+Only one spot opened on Tuesday.
+
+That is the zero-sum ledger, used as a tool, to catch an error at a national outlet.
+
+I have said some version of every addition is a subtraction in probably fifteen straight videos this month. The fifty-three is a fixed count. Injured reserve sits outside it. Which means the only moves that change your active roster are moves involving men who are actually on it.
+
+And a major outlet got that wrong, and a small channel caught it, and the catch required nothing except knowing how the ladder works.
+
+That’s what the mechanics are for. Not trivia. You learn the ladder so that when somebody tells you two spots opened, you can count.
+
+Now the arithmetic I’m most pleased about, because it verifies something I explained on Monday and I was slightly nervous about.
+
+On Monday I taught the twenty-one day practice window. When a player on injured reserve is designated to return, the team opens his practice window, and from that moment it has twenty-one days to either activate him to the fifty-three or lose him to injured reserve for the rest of the season.
+
+Today this video gives me the actual dates.
+
+Dallas opened the first player’s window on Thursday the twenty-second of October. It opened the second player’s window on Friday the twenty-third.
+
+And it says the hard deadlines are about the twelfth of November for the first and the thirteenth of November for the second, and that if either deadline passes without an activation, that player’s season is over.
+
+Let me check it.
+
+The twenty-second of October plus twenty-one days is the twelfth of November.
+
+The twenty-third of October plus twenty-one days is the thirteenth of November.
+
+Both exact. To the day.
+
+So the mechanic I explained four days ago is correct, and I can now verify it against two real cases with real dates rather than asking you to take my word for it. And the consequence is as brutal as I said it was: a practice window is not a return, it’s a clock, and when the clock runs out the man’s season ends whether he’s healthy or not.
+
+Now, here’s my own contribution today, and it’s a calendar observation that this video sets up perfectly and does not make.
+
+Look at these three dates together.
+
+The trade deadline is the tenth of November.
+
+The first activation deadline is the twelfth of November.
+
+The second is the thirteenth.
+
+The trade deadline comes first. By two days and three days.
+
+And now look at what this video says about how Dallas can clear a second roster spot, because it lists three methods and it’s a complete list. Teams usually clear a spot one of three ways. They waive or release somebody. They move an injured player to injured reserve. Or they trade a player away.
+
+Three mechanisms. And one of them expires on the tenth of November, before either of the deadlines it would serve.
+
+So Dallas has eleven days in which all three options are available, and then it has nine days of the activation window remaining with only two.
+
+And the one that expires is the only one that returns anything.
+
+Waiving a man gets you a roster spot and nothing else. Moving somebody to injured reserve gets you a roster spot and costs you that player for a minimum of four games. Trading a man gets you a roster spot and a draft pick.
+
+Which means if Dallas intends to activate both of these players, and needs two spots to do it, the cheapest version of that plan has a deadline of the tenth of November, and after that date the same plan costs strictly more.
+
+Nobody is talking about the trade deadline this way. Everybody, including me for the last three days, has been discussing it as a question about whether to buy a pass rusher. It is also a question about roster arithmetic, and the arithmetic has a date on it, and the date is eleven days away.
+
+I don’t know that Dallas is thinking about it that way. But it’s checkable, it’s the kind of thing front offices absolutely do think about, and the calendar is the calendar.
+
+Now let me do the player who I think is the best teaching case I will ever get.
+
+The running back Dallas waived on Tuesday. The transcript renders his name about five different ways, including as Democrat and as Democrats, which I’m fairly sure is an automatic caption system giving up. It’s Emari Demercado.
+
+And this video gives me his complete transaction history, from a team log, and it is a full tour of the ladder I drew for you two weeks ago, including both branches.
+
+Here it is.
+
+Dallas claimed him off waivers from Kansas City on the thirty-first of August.
+
+Dallas waived him on the eighth of October.
+
+Nobody claimed him. He cleared.
+
+Dallas re-signed him to the fifty-three man roster on the twelfth of October.
+
+Dallas waived him again on the twenty-seventh of October.
+
+And this time, on Wednesday, the Houston Texans claimed him, and according to the reporting he goes onto Houston’s active roster. He didn’t even reach free agency.
+
+Now look at what that one man demonstrated in under three months.
+
+He arrived as a waiver claim, which is the mechanism I described where another team’s cut becomes your addition for free.
+
+He got waived and cleared and came back to the same roster four days later, which is the branch I told you is overwhelmingly the most common. Although note that he came back to the fifty-three rather than to a practice squad, which is an even stronger version of the point.
+
+And then he got waived again and was claimed, which is the other branch, the one I said happens less often but is exactly why the twenty-four hour window exists in the first place.
+
+Both branches. Same player. Three weeks apart.
+
+So if you’ve been watching this channel and wondering whether the ladder I keep describing is real or an abstraction, there’s your answer, documented in a transaction log, with dates.
+
+And the video does the right thing with his production too. According to Yahoo Sports, he ran five times for fifteen yards in two appearances, and he was inactive for the Green Bay loss and inactive again in Philadelphia.
+
+Five carries. Fifteen yards. Inactive for the last two games.
+
+Which is the honest framing, and the video says it plainly: on the field, this isn’t a surprise.
+
+Now, something I’m genuinely delighted about, because today the Monday night rushing total finally reconciles.
+
+This video says Tyler Goodson carried ten times for thirty-eight yards against the Eagles.
+
+So let me assemble what I have. Yesterday I had the team total at two hundred and four. The day before I had Javonte Williams at a career-high hundred and fifty-five. And yesterday’s source gave me Hunter Luepke’s three-yard fullback dive on third and eight, the one I criticised.
+
+A hundred and fifty-five, plus thirty-eight, plus three, is a hundred and ninety-six.
+
+The team total is two hundred and four.
+
+Eight yards unaccounted for, which is one scramble or one more carry.
+
+That’s the first time all month I’ve been able to reconstruct a team statistic from its components and have it close to within eight yards. For four weeks I’ve been handed numbers that contradicted each other by factors of ten. Today three separate sources on three separate days add up.
+
+Which means two hundred and four is real, a hundred and fifty-five is real, and the figures I’ve been building on are the actual figures.
+
+And Goodson’s line is interesting on its own. Ten carries for thirty-eight yards is three point eight a carry, which is unremarkable, and it’s also ten carries, which is the thing I was arguing for on Monday when I corrected my own insurance framework.
+
+I said then that insurance at running back is overpriced for quality and underpriced for load. That you don’t need a backup as good as your starter, you need somebody good enough to absorb eight touches so your starter arrives in December intact.
+
+Ten carries for the backup. That’s the thing I asked for, happening, four days after I asked for it.
+
+Now, the roster decision itself, which the video reads correctly and which I want to extend.
+
+It points out what Dallas didn’t do. The Cowboys didn’t cut a defender to make room for a defender. They took the spot from the offense, from a running back who had slipped behind Goodson.
+
+And then: that tells me the staff decided the active roster could do without him more easily than it could do without help on defense.
+
+That’s right, and here’s the general principle, which I think is the most useful thing in this section.
+
+A roster cut is a revealed preference.
+
+Everything an organisation says about its priorities is cheap. Press conferences are cheap. We believe in this team is cheap. We’re always looking to improve is cheap.
+
+The transaction log is not cheap. It’s a record of what somebody actually chose when the choice was forced, and the fifty-three man roster forces a choice every single time, because it’s a fixed count.
+
+And yesterday I made a point about this in a different context. I said mood is unfalsifiable and adjustments are observable. The transaction log is the observable version of a stated priority. If a staff says the defense needs help and then takes a roster spot from the offense to get it, those two things agree, and the agreement is evidence in a way the statement alone never was.
+
+Now the names, and today is the best day I’ve had.
+
+I keep a list of players I cannot identify because the captions mangle them, and I have refused to guess at any of them for four weeks. Today that list moves.
+
+The safety, who arrives as P J Lockach and then as Lock and then as locks.
+
+Here’s what I now know about him, and it’s a complete profile. He’s a safety. He tore the plantar fascia in his foot in week two against Washington, left that game early, and went on injured reserve on the twenty-sixth of September. He has missed five straight games. Dallas opened his practice window on Friday the twenty-third of October and he practised Friday and Saturday, both times as a limited participant. He was listed as questionable for the Eagles game and the team announced he wouldn’t travel. He has played two games this season and taken thirty-one snaps. He had been out of a walking boot and working with the rehab group. And his hard activation deadline is the thirteenth of November.
+
+That is more detail than I have on half the players whose names I know. And I still can’t tell you who he is, and I’m still not going to guess.
+
+The second one I think I can resolve, with a label on it.
+
+The player who arrives as Merist Lufa, then Lufell, then Luff, then Luf, and at one point simply as L F O.
+
+My best reading of that sound shape is Marist Liufau, who is a Dallas linebacker, and the context fits, because the video calls both of these men defenders and the other one is a safety.
+
+I’ll offer that as a probable identification rather than a correction, which is the same standard I used when I said a name was probably Jakorian Bennett last week. If I’m wrong, tell me and I’ll say so.
+
+And the third one, where the profile has become enormous.
+
+The defensive back who arrives as Caleb D S.
+
+He’s a rookie. That’s new and it changes everything. He mostly lines up at slot corner and in the box, but he had logged ninety-two snaps at free safety as of last week, covering for other people’s injuries. He has bounced between the box, the slot and safety. Green Bay attacked him for ninety-four yards on seven catches in week six. And he turned up on Wednesday’s injury report as limited with an ankle injury.
+
+Now, that’s a lot, and there’s a real argument in it that I want to build out, because the video raises it via a writer named Mauricio Rodriguez and then doesn’t take it far enough.
+
+The argument is that this rookie is the real beneficiary of the safety coming back, because it would let him play the versatile role he was drafted for instead of filling whatever hole opens.
+
+Here’s the principle underneath that, and I think it’s one of the better ideas I’ve had this month.
+
+Versatility is an asset when you choose it and a liability when it’s forced.
+
+A player who can play three positions is valuable because it gives a coordinator options. He’s a solution to a problem that hasn’t happened yet.
+
+A player who must play three positions because of injuries is being asked to master three jobs at once, which means mastering none of them. The same flexibility that made him valuable is now the reason he never settles anywhere.
+
+And the rookie part makes it considerably worse, because of something I’ve said repeatedly about young defenders.
+
+A rookie’s problem is recognition. And recognition is position-specific.
+
+Slot corner recognition is reading a receiver’s release and the leverage of a route combination from two yards away. Box recognition is reading a guard’s first step and fitting a run. Free safety recognition is reading a quarterback’s eyes and the depth of three routes from fourteen yards away.
+
+Those are three different skills that share no actual content. Which means a rookie bouncing between three spots is accumulating experience at roughly a third of the rate he would at one, in the only skill that determines whether he becomes good.
+
+And now look at the number. Ninety-four yards on seven catches is thirteen point four yards per reception.
+
+That’s not a quickness problem. Thirteen and a half yards a catch is intermediate and deep, which is depth judgment and angle discipline, which is exactly what a slot corner playing free safety would be worst at. A slot corner’s instincts are built for short, quick, horizontal things. Free safety is long, slow, vertical, and about managing space behind you rather than in front of you.
+
+So the ninety-four yards is not evidence that this rookie is bad. It’s evidence that he was playing a position he isn’t trained for, and the shape of the damage tells you so.
+
+And the video attaches the right caveat, which is that it wouldn’t hang too much on one game. Correct. One game, seven targets.
+
+And then the thing that makes this worse. The man covering for everybody else’s injuries is now himself limited with an ankle.
+
+Which is how thin rosters actually fail. Not all at once. The depth gets used to cover the starters, and then the depth gets hurt because it’s playing more snaps at harder positions than it was built for, and then you find out there was never a third layer.
+
+Now I have to update something I said last week, and I’d rather do it properly than quietly.
+
+Quinnen Williams was added to Wednesday’s injury report with a hamstring, limited.
+
+So let me count the hamstrings on this roster this month. DeMarvion Overshown, five games. The cornerback whose name I still don’t have, four games. Drew Shelton, the rookie offensive lineman. The safety on injured reserve since the thirtieth of September, whose name I also don’t have. And now Quinnen Williams.
+
+That’s five.
+
+Last week, when I had three, I said this, and I’ll quote myself: what I will not do is tell you Dallas has a training staff problem. Three hamstrings is not a sample, it’s a Tuesday in late October.
+
+Five is more than three, and I’m not going to pretend I didn’t notice. So here’s the honest update.
+
+I still can’t conclude anything, and I can now tell you exactly what number would let me.
+
+The league average. If the typical roster has two soft tissue injuries active in late October and Dallas has five, that’s a signal worth investigating. If the typical roster has four, this is noise and I’ve been counting a normal thing and feeling clever about it.
+
+I don’t have the league average. Which means the only honest statement available is that the count has gone up, it’s higher than I’d like, and I cannot distinguish bad luck from a systematic problem without a comparison I don’t possess.
+
+That’s unsatisfying and it’s where the evidence actually leaves me, and I’d rather hold that than pick whichever conclusion sounds more confident.
+
+Two more credits for this video, because it does two things I’d want to do myself.
+
+The first is that it refuses to inflate the man coming back, in a way I found almost startling.
+
+It says: let’s be honest about what he’s given Dallas so far. He’s played two games and taken thirty-one snaps. That’s a very small sample. When people talk about him like he’s a savior, I get the excitement, but he’s barely been on the field. What he gives the Cowboys is depth.
+
+Thirty-one snaps. And the video leads with it rather than burying it.
+
+That’s a channel declining to sell its own story, and it’s the opposite of everything I’ve been taking apart for a month.
+
+The second is this. Discussing how Dallas might clear a second roster spot, it says nobody has said who, and then: I’m not going to guess.
+
+And then it lists the three mechanisms and says any of those would show up on the transaction list.
+
+That is exactly the method I’ve been trying to demonstrate. Refuse to guess. Name what would settle it. Name where the evidence would appear.
+
+I’ve had seven unresolved names for four weeks for precisely that reason, and it’s nice to see somebody else pay the same cost rather than filling a gap with something plausible.
+
+Corrections and names, which today is mostly a list of good news.
+
+Markquese Bell, which arrives as Marquilles Bell, confirmed again as a safety. Juanyeh Thomas, which arrives as Wany Thomas. Malik Hooker, who missed two games in September and returned in week four. Tyler Goodson, with his first real statistical line. Javonte Williams. Quinnen Williams, as Quinnon.
+
+Emari Demercado, who arrives as Demarcado, then Democrac, then Demarcato, then Democrat, then Democrats. Five renderings of one name in one video, which breaks the record Skip Bayless set at four on Tuesday.
+
+The rookie tight end as D J Rogers, which I’ll report as given since I can’t confirm it.
+
+And waived, which arrives as waved roughly a dozen times, and waivers, which arrives as waiverss with two esses every time, which is at least consistent.
+
+Still on the flagged list, and the list is now better documented even where it isn’t shorter. The safety rendered as P J Lockach. The defensive back rendered as Caleb D S. The safety on injured reserve rendered as Jaylen Thompson. The cornerback rendered as Kobe Durant, who appears again in this video and who is also apparently working his way back, which makes fifteen appearances. The linebacker rendered as Justin Baron. The interior defensive lineman rendered as Otito Obana or Otto Abania depending on the day. And the Eagles defender rendered as Jonathan Greener.
+
+Seven names. One probable resolution added today. Nothing guessed.
+
+So here’s where we are.
+
+Dallas is three and four and plays Arizona at home on Sunday the first of November.
+
+One roster spot is open, created by waiving a running back who has since been claimed by Houston. Two defenders are on injured reserve with open practice windows and hard deadlines on the twelfth and thirteenth of November. Neither has been activated as of Thursday. Activating both requires a second move that nobody has made and nobody has announced.
+
+A rookie defensive back who has been covering three positions is limited with an ankle. Quinnen Williams is limited with a hamstring. The trade deadline is the tenth of November, two days before the first activation deadline, which means the only spot-clearing method that returns value expires first.
+
+And my question for Sunday is unchanged from Tuesday, because nothing this week has touched it.
+
+Does Dallas throw the football out of heavy personnel?
+
+The six-man line is on film. Arizona has the tendency chart. Game-level balance doesn’t resolve it. One throw out of that grouping is the whole difference between a trick and an identity, and we find out on Sunday.
+
+The sentence to carry out of here isn’t mine, and I’d rather give the credit than pretend otherwise.
+
+A signal isn’t a transaction.
+
+Ask whether the thing you’ve been told is an event or a probability. Events have dates and documents. Probabilities have neither, and they get written in the grammar of events because the grammar of events is more exciting.
+
+A roster spot opening is a signal. A reporter saying executives like a fit is a signal. A man saying he’d welcome a conversation is a signal. A practice window opening is a signal, and it’s a signal with a twenty-one day fuse on it, which is the most honest kind, because at least it tells you when it expires.
+
+And the other thing I’m taking from today, which has changed how I think about all of this.
+
+The inflated title is not a lie somebody tells. It’s a toll somebody pays.
+
+A channel whose stated brand is nothing inflated and nothing made up, doing the best roster work I’ve seen in a month, still called it huge news. Which means the problem isn’t that these people don’t care about the truth. Most of them do. It’s that the gate charges a fee, and everybody pays it, and then the honest ones go and do honest work on the other side of it.
+
+So watch past the gate. That’s the whole month, in one instruction.
+
+So tell me in the comments. Does Dallas activate one or both before the twelfth? And if it’s both, who’s the second move?
+
+Because the man who made today’s video refused to guess, and I’m going to hold the same line.
+
+Drop your take, because I read every single one.
+
+Like it, subscribe, ring the bell. This has been Dallas Cowboys Team. Now go take care of business.
