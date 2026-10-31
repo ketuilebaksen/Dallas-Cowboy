@@ -1,0 +1,417 @@
+Cowboys Nation, I want to start today with a count.
+
+I went through this video line by line. Eight and a half minutes of material about the Arizona Cardinals.
+
+Jerry Jones is mentioned zero times.
+
+Not once. He does not appear. There is no decision, no bombshell, no quote, no report, no meeting, no phone call, no owner in this video at all. There is a game preview about tackling well and establishing the run and a tight end named Trey McBride.
+
+And the title says Jerry Jones made a bombshell decision that shocked the National Football League.
+
+So today’s lesson is the cleanest one I’ve ever been handed, and I’ve been building this list since the summer.
+
+Welcome back to Dallas Cowboys Team, where we bring you every Dallas update, every single day. If you want the actual football separated from the packaging it arrives in, you’re in the right place. Subscribe and turn on notifications.
+
+Let’s get into it.
+
+Here’s the new tell, and it’s number 29 on our list.
+
+The headline’s protagonist is absent from the body.
+
+Not exaggerated. Not softened. Not mischaracterized. Absent.
+
+And I want you to feel why that’s different from everything else we’ve catalogued, because it is a different kind of failure.
+
+Tell 17 was a headline naming the wrong transaction. There was a transaction. It was the wrong one. Tell 19 was a headline supplying an emotion a quote didn’t contain. There was a quote. Tell 20 was a title converting a proposal into a decision. There was a proposal. Tell 21 was a headline inverting a sentiment. There was a sentiment. Tell 23 was a transaction-shaped noun with no object. There was at least a noun.
+
+Every one of those is a distortion of material that exists. You can hold the title next to the body and measure the gap.
+
+This one has nothing to measure. The body does not contain the thing the title is about. There is no gap, because there’s nothing on the other side of it.
+
+So here’s the principle, and it’s the sharpest diagnostic I can give you.
+
+A name in the title that never appears in the body is not a claim about football. It’s casting.
+
+And the test is embarrassingly easy. Watch the video. Count the mentions. If the person in the title shows up zero times, you have not watched a video about that person with a bad title. You have watched a different video entirely, wearing his name.
+
+Now the honest counter, because I owe you one every time.
+
+I cannot prove who wrote that title or when. We established this five days ago with tell 22, when I was handed the same body twice under two different titles twenty-four hours apart. Titles get changed after upload. A video can be retitled by somebody chasing a search term on a Tuesday, and the person who recorded the audio may have had nothing to do with it.
+
+So I’m not accusing the narrator of lying about Jerry Jones. I’m telling you that the sentence at the top and the eight minutes underneath it are not connected, and that the top one is the part the algorithm sells.
+
+Which is the thing I said at the start of all this and still believe. The inflated title is not a lie somebody tells. It’s a toll somebody pays.
+
+And while we’re here, look at the structure of it, because this title fills out a grammar I built five days ago and I’ve never seen a cleaner specimen.
+
+Tell 25 was the recurring title fragment, and I broke it into four slots. A name. An intensifier. A transaction-shaped noun. And a suffix that manufactures recency.
+
+Jerry Jones. Bombshell. Decision. Before Cardinals Game.
+
+Name. Intensifier. Transaction-shaped noun. Recency suffix.
+
+All four slots, in order, with nothing left over. And then a bonus clause on top of it, Shocks The NFL, which is an unfalsifiable reaction to an unspecified event. Nobody can check whether the National Football League was shocked, because the National Football League is not a person and cannot be interviewed about its feelings.
+
+And apply tell 23 to the middle of it. A decision. Which decision? Decision is a transaction-shaped word. It has the grammar of an event without the content of one. Strip the prefix and see what’s left, and what’s left is a man deciding something, unspecified, at a time, unspecified.
+
+So that’s the packaging. Let’s talk about what’s actually in the box, because there’s more in here than I expected and some of it is good.
+
+And I want to be fair to what this video is, because I think it’s easy to be snobbish about a game preview.
+
+This is a preview. Its job is not to break news. Its job is to tell you what to watch for on Sunday, and that’s a legitimate thing for a football channel to do. Nobody is obligated to have a scoop every day. A week where nothing happens is a normal week in a football season, and a channel that manufactures news on those days is worse than one that talks about the upcoming game.
+
+So the body is honest work. The problem is that a lot of it is empty, and I want to give you a tool for spotting that, because it’s more useful than any amount of complaining.
+
+Here’s the tool. I’m calling it the inversion test.
+
+Take a claim. Negate it. If the opposite is something nobody would ever say, then the claim carried no information.
+
+Let me run it on this video, and I’m using real sentences.
+
+The offensive line has to communicate, sustain blocks, and avoid unnecessary penalties.
+
+Invert it. The offensive line should miscommunicate, release its blocks early, and commit as many penalties as possible.
+
+Nobody has ever said that. Which means the original sentence told you nothing. It is not wrong. It is not even arguable. It’s a description of what football is.
+
+Again. Receivers must finish routes and secure catches.
+
+Invert it. Receivers should quit on routes and drop the ball.
+
+Again. Defenders need to tackle securely.
+
+Invert it. Defenders should miss.
+
+Again. The quarterback needs to make sound decisions and protect the football.
+
+Invert it. The quarterback should make unsound decisions and throw it to the other team.
+
+Four sentences. Zero information. And there are probably fifteen more like them in here.
+
+Now, this is not a scandal and I don’t want to pretend it is. Every analyst on earth produces sentences like this, including me, and some of them are necessary connective tissue. You cannot write eight minutes of pure insight.
+
+But here’s why the tool matters.
+
+A sentence that survives inversion is a sentence somebody could disagree with. And disagreement is where the information lives.
+
+Compare. Dallas should establish the run. Invert it. Dallas should throw on first down regardless of the box count.
+
+That’s a real argument. People argue about it for a living. Which means the original sentence has content, because its opposite is a position somebody holds.
+
+So the inversion test doesn’t tell you whether an analyst is right. It tells you whether he said anything.
+
+And when you run it across a whole video and almost nothing survives, you’ve learned something about where that video sits in the hierarchy, which brings me to the most interesting thing in this entire transcript.
+
+Twice, the narrator says the phrase the source material.
+
+The source material raises the possibility of getting Tyler Goodson involved.
+
+The source material points toward players such as DeMarvion Overshown.
+
+Now, your first instinct is that this is a slip. That somebody left scaffolding in the script and you can see the seams.
+
+And I’d argue almost the opposite, and I’d argue it on a principle I built four days ago.
+
+I gave you a five-tier source hierarchy. Primary documents and quotes at the top. Named reporters. Unnamed reports. Analyst speculation. And at the bottom, aggregation of other people’s aggregation.
+
+And then I added a second dimension, which was this. Honesty about your tier is itself a quality signal.
+
+A video that says the source material raises the possibility is telling you, in the plainest language available, that it is not reporting. It is passing along somebody else’s suggestion and labelling it as a suggestion. It does not say Dallas will give Tyler Goodson a bigger role. It says the possibility was raised, elsewhere, by someone else.
+
+That is a more honest sentence than ninety percent of what I’m sent in a week.
+
+So I’ll say it clearly. The phrase that looks like a mistake is the most trustworthy thing in the video, and the title is the least trustworthy thing in the video, and they are both products of the same upload.
+
+Which tells you that quality isn’t a property of a channel. It’s a property of a sentence. You evaluate line by line or you don’t evaluate at all.
+
+Alright. Now the football, and I’m going to start with the thing in this video that nobody has flagged, including the video.
+
+The single most important fact in these eight minutes is sitting inside a mangled name, and the video walks past it four times.
+
+The transcript refers to Arizona’s quarterback, and it renders him four different ways. Jacobe Brricette. Briset. Briette. And Britt.
+
+That’s Jacoby Brissett.
+
+And here is why I stopped the tape.
+
+To the best of my knowledge, Arizona’s starting quarterback is Kyler Murray.
+
+Now, I am not going to make the mistake I made four days ago. Four days ago a transcript named Rashan Gary as a Dallas defender and I said he plays for Green Bay and raised it as a question rather than a verdict. Dallas traded for him in March. The careful source was right and my knowledge was out of date, and the lesson I took was that when a name surprises me I should ask instead of doubt.
+
+So I’m asking.
+
+If Jacoby Brissett is taking the snaps for Arizona on Sunday, that is the biggest piece of information about this football game, and this video mentions it only as a name in a sentence about pressure. It never says he is the starter. It never says why. It never says a word about who is not playing.
+
+And a different quarterback is not a small adjustment to a game plan. It is a different offense.
+
+Here’s the mechanism, because this is the part that matters more than the name.
+
+A quarterback is not a slot you fill. Everything around him is calibrated to him. The route depths are set to his arm. The protection scheme is set to how long he holds it. The run game is set to whether a defense has to account for him pulling the ball. Kyler Murray, if he’s the man you’re preparing for, forces you to leave somebody responsible for a quarterback who can run, and that costs you a defender in the pass rush or a defender in coverage on every single snap.
+
+Jacoby Brissett is a very different proposition. A pocket quarterback who is not going to beat you with his legs gives you back the defender that a mobile quarterback takes away. Your containment rules change. Your rush lanes change. Your spot-drop depths change.
+
+I taught the containment principle weeks ago. Turn inward at the quarterback’s depth. The reason that instruction exists is mobile quarterbacks, and the reason it costs you something is that a rusher who turns inward has stopped running at full speed in a straight line.
+
+So if Arizona’s quarterback situation has changed, Dallas gets to rush differently, and it’s the best news this defense has had all year, and the video does not know it has told me.
+
+And if I’m wrong, and Brissett has been the starter for weeks and I simply don’t have it, then tell me in the comments and I’ll say so on camera, the same way I did with Rashan Gary, because I’d rather be corrected than be comfortable.
+
+Either way, that’s the Sunday question nobody is asking. Who is playing quarterback for Arizona, and what changes because of it?
+
+Next. The streak, and I’ve got arithmetic on this that I don’t think anybody has done.
+
+The video says Dallas hasn’t beaten Arizona since 2017, and that the streak has become part of the conversation every time these two teams meet.
+
+First, note what kind of claim that is, because we have a tool for it.
+
+Tell 24 was prefer the perishable. Content that expires fast is expensive, because somebody has to go and get it. Content that stays true forever is free, because it can be written once and used any time.
+
+Dallas hasn’t beaten Arizona since 2017 has been true for nine seasons. It was true in 2019 and it was true in 2022 and it is true today. It costs nothing to say. It could appear in a video from any year in that range and nobody would notice.
+
+So it’s free content, and free content is not a reason to be worried about Sunday.
+
+But here’s the part that actually matters, and it’s a schedule question.
+
+Arizona is in the NFC West. Dallas is in the NFC East. Those two divisions are not scheduled to play each other every year. Under the rotation, a team plays an out-of-division conference opponent roughly once every three seasons.
+
+So count the meetings. If they played in 2017, the next scheduled meetings would fall around 2020 and 2023, and then this season.
+
+Which means the streak the video is treating as a weight on this franchise is approximately two football games.
+
+Two games. One played six years ago and one played three years ago.
+
+And I’ll flag my own uncertainty properly. I don’t have the full schedule history in front of me, and there may have been an extra meeting I’m not accounting for. If somebody has the actual list, put it in the comments and I’ll correct the number. But the structure of the point doesn’t depend on whether it’s two games or three.
+
+Because here’s the structure.
+
+A streak made of two games played six years apart by four different coaching staffs is a coincidence with a label on it.
+
+Think about what’s changed. Different head coach. Different coordinators. Different quarterback situations on both sides. Almost no overlapping players. The 2020 Cardinals and the 2026 Cardinals share a logo and a city and very little else.
+
+So when a streak spans nine years and two games, the word streak is doing work the facts don’t support. A streak implies continuity, something persisting, a pattern that has a cause. Two results separated by six years and two complete roster turnovers have no mechanism connecting them.
+
+Compare that to a real streak. Losing to the same divisional opponent six times in three years means playing largely the same people in largely the same building with largely the same scheme. That might have a cause. You can go looking for it.
+
+This one can’t. And the test I’d offer you is simple.
+
+Ask whether the streak has a mechanism. If you can’t name one, it’s a number, not a problem.
+
+Now. Tyler Goodson, and this is the one that made me laugh.
+
+The video says, and I’m quoting, the source material raises the possibility of getting Tyler Goodson involved, particularly as Dallas looks for ways to add another dimension to the offense.
+
+The possibility.
+
+Tyler Goodson ran for thirty-eight yards last week.
+
+I have it in my own notes from Monday night. Dallas rushed for two hundred and four yards in that game. Javonte Williams had a hundred and fifty-five of them. Tyler Goodson had thirty-eight. Hunter Luepke had three. That’s a hundred and ninety-six of the two hundred and four accounted for, and I verified that arithmetic on camera at the time.
+
+So Tyler Goodson’s involvement is not a possibility to be explored. It is a thing that happened four days ago and produced the second-highest rushing total on the team.
+
+This is tell 16, and it’s the one I keep coming back to because it keeps paying.
+
+Check the roster you already have.
+
+You do not need a source to catch this. You need last week’s box score. If somebody tells you a player might get involved, and that player got involved last Monday, then the person talking either hasn’t seen the most recent game or is working from notes written before it.
+
+And that second possibility is the serious one, because it’s diagnostic. A video published this week that treats last week’s rotation as a hypothetical was probably assembled from material older than the most recent game. Which tells you how to weight every other claim in it.
+
+Now, the fair version, because I’ll always give you one.
+
+There is a legitimate argument in the neighbourhood of what the video is saying. Thirty-eight yards is a complementary role, and you could coherently argue for giving Goodson more than that, or for using him differently, as a change of pace or in the passing game. That’s a real opinion.
+
+But the video doesn’t say give him more. It says raise the possibility of getting him involved. And those are different sentences, and only one of them survives contact with the box score.
+
+Alright. Establishing the run, because the video leads with it and I want to do this carefully, since I’ve got a correction of my own to make.
+
+The video’s argument is that establishing the run should be a priority because it influences everything Arizona wants to do defensively. Manageable second and third downs. Keeps the defense from focusing on the pass. Controls tempo. Lets the line be physical instead of asking the quarterback to carry every possession.
+
+Now, the orthodox criticism of that, which I have made on this channel, goes like this.
+
+Establishing the run is mostly a myth about causation. Teams don’t win because they ran early. They run late because they’re winning. The statistics that appear to show a link between rushing attempts and victory are contaminated by game script, because a team with a lead runs the ball to spend time, and a team that’s behind throws it. The arrow points backwards.
+
+And play-action does not require you to have accumulated carries. It requires a credible run threat, which is a property of your personnel and your formation, not of your history in the current game. A defense reacts to a run fake because of what it is looking at, not because of what happened in the first quarter.
+
+All of that is true, and I stand behind it.
+
+And here’s my correction, which I owe you because I got burned on exactly this last week.
+
+On Thursday I built a prediction on the Fangio thesis. The argument was that a two-high, light-box defense offers you the run and dares you to take it, and that Dallas lacked the personnel to accept that offer. Dallas then ran for two hundred and four yards behind a six-man offensive line.
+
+I had the right mechanism and the wrong conclusion. And the specific thing I failed to do was carry my own tool from one day to the next. On Tuesday I had explained that zone running requires winning your matchups while gap running is arithmetic, and that adding a sixth offensive lineman is arithmetic rather than victory. Then on Thursday I predicted a team couldn’t run, having already explained the exact method by which it could.
+
+So when this video says establish the run, I’m not going to roll my eyes, because last week’s evidence supports it and my own theory got there second.
+
+But I’ll sharpen the instruction, because establish the run is vague and the thing that worked was specific.
+
+What worked was not establishing the run. It was adding a blocker. That’s a formation decision, available on the first snap, which does not require any prior carries to function. The video gives the right instruction for the wrong reason, and the right instruction for the wrong reason is still better than the reverse.
+
+And the version I’d actually give the offense is this. Don’t establish the run. Win the box count, and when you’ve won it, take what that buys you.
+
+Which leads directly to the thing I’m watching on Sunday, and it’s the same thing I said I’d watch after the last game.
+
+Does Dallas throw the football out of heavy personnel?
+
+Because the six-man line is now on film. Arizona has a tendency chart. And a tendency chart is organized by personnel grouping, not by game, which means balance across the afternoon does not fix a tell inside a grouping. If every snap with six linemen is a run, that grouping announces itself, and heavy personnel announces itself anyway because eleven men is zero-sum and a sixth lineman costs you a receiver.
+
+One throw out of that grouping is the difference between a trick and an identity.
+
+That’s the whole Sunday question for me, and it hasn’t changed since I set it.
+
+Now Arizona’s offense, and the tight end, because this is where the video identifies a real problem and then describes it imprecisely.
+
+Trey McBride. The video says Dallas needs to be aware of where he lines up, how Arizona creates favorable matchups for him, and whether he’s being used to attack the middle of the field or the space underneath. And it says the Cowboys cannot allow him to catch the ball freely and turn short completions into significant gains.
+
+That’s correct as far as it goes. Let me tell you the actual mechanism, because once you see it you’ll never watch a tight end the same way.
+
+A tight end is hard to cover because of who is available to cover him.
+
+Put a linebacker on him and you have a man who is big enough and not fast enough. Put a safety on him and you have a man who is fast enough and not big enough, and who was probably needed somewhere else. Put a corner on him and you’ve taken your corner away from a receiver.
+
+Every option costs you something, and there is no defender on a football field whose job description is cover a two-hundred-and-fifty-pound man who runs like a receiver.
+
+And here’s the part the video gestures at without naming.
+
+A tight end’s real weapon is his alignment. He can line up attached to the offensive line, which invites a linebacker. He can line up in the slot, which invites a safety or a nickel. He can line up out wide, which invites a corner and tells you the offense is trying to isolate somebody.
+
+So he chooses his defender before the ball is snapped.
+
+Which is why awareness of where he lines up, which sounds like empty advice, is actually the whole battle. The decision is made during the pre-snap, and if you’re still deciding at the snap, you’ve lost.
+
+So I’d put it like this.
+
+You don’t cover a tight end. You decide in advance which mismatch you’re willing to live with.
+
+And that is a real, concrete thing to watch on Sunday. When McBride moves, watch who moves with him. If a safety travels, Dallas has chosen speed and conceded size. If a linebacker travels, Dallas has chosen size and conceded speed. If nobody travels and the defense just re-sets, Dallas is playing zone and McBride is going to sit down in the first open window he finds.
+
+That tells you what Dallas decided, and it tells you before anything happens.
+
+Now the pass rush, and here the video says something genuinely good and I want to build the arithmetic underneath it.
+
+It says pressure has to be coordinated, that Dallas should not blitz on every other snap or send extra defenders simply for the sake of being aggressive, and that if Dallas can create pressure without constantly sacrificing coverage by blitzing, it can make life difficult while keeping defenders available in the passing game.
+
+That is correct, and it is more sophisticated than most of what I’m sent. So let me give it the arithmetic, because the arithmetic is the reason it’s correct.
+
+A blitz is not free aggression. It’s a loan.
+
+There are eleven defenders. Rush four and seven are left to cover. Rush five and six are left. Rush six and five are left, which against a spread formation means somebody is covering grass and somebody is alone with no help.
+
+So every extra rusher is borrowed from coverage, and the interest you pay is time. A blitz has to arrive, because if it doesn’t, the thing you took the defender away from is now uncovered and the quarterback has an extra half-second to find it.
+
+Which gives you the real rule. Blitzing is not a measure of how aggressive you are. It is a bet that your extra rusher gets there before your missing defender gets exposed.
+
+And here is the hard diagnosis for this specific team, and it’s the one that runs straight into the trade deadline.
+
+Dallas has eight sacks in seven games.
+
+Three of them belong to a defensive tackle. One belongs to an edge rusher the team traded for in March.
+
+Now, I defended the defensive tackle four days ago and I’ll defend him again, because interior linemen don’t accumulate sacks. That’s geometry, not failure. Their value is pocket collapse and absorbed double teams. Three in seven games projects to about seven across a season, which for that position is respectable.
+
+But the consequence is brutal, and it follows from a principle I built last week.
+
+Interior pressure and edge pressure are multiplicative, not additive. Each one’s escape hatch is the other. Interior pressure takes away the step-up and funnels the quarterback outward. Edge pressure comes from outside and funnels him up into the interior. A team with a good interior and nothing on the edge is not halfway to a pass rush. It’s close to nowhere.
+
+So when this video says create pressure without blitzing, it is prescribing the exact thing this defense has been unable to do all season. A four-man rush that generates nothing means every pressure must be borrowed, and a defense that has to borrow every pressure cannot keep seven in coverage against a tight end who chooses his own defender.
+
+That is the structural hole, and it is why I changed my deadline answer yesterday. At a second-round pick I said no. At a fourth, with a sixth if that’s what it takes, I said yes, and I’d be comfortable with it, because a verdict that doesn’t move when the price moves was never a verdict.
+
+And I’ll give you a second thing to watch Sunday, because it’s directly testable.
+
+Does Dallas’s four-man rush produce a single pressure that changes a throw?
+
+Not a sack. A pressure. A quarterback who moves off his spot, or releases early, or throws from a platform he didn’t want. If that happens repeatedly with four rushers, the deadline argument weakens considerably. If every disruption requires five or six, then the problem is talent and the problem has a price tag.
+
+Which brings me back to a condition I set on Tuesday, and I’ve got about one game of evidence left.
+
+I said that if this defense improves over the next few weeks without a new acquisition, then the problem was never talent. The deadline is Tuesday the tenth of November at four o’clock Eastern. That’s two games away. Which means Sunday is not just a football game, it’s one of the last two data points before a decision that costs real assets.
+
+And remember what I worked out about that calendar, because the collision is still there.
+
+The trade deadline is the tenth. Dallas has two defenders on injured reserve whose hard activation deadlines are the twelfth and the thirteenth, and activating both requires clearing a roster spot. There are three ways to clear one. Waive somebody. Move somebody to injured reserve. Or trade somebody away.
+
+The only method that returns value expires two days before the first deadline it would serve.
+
+So the tenth of November at four o’clock is at least three decisions arriving at once, about eighteen hours after a Monday night football game. The deadline gives you the most information at the moment you have the least time to use it.
+
+Two more things from the video, then where we are.
+
+The video names Michael Wilson as another receiver Dallas has to account for, and then it says something I want to praise, because it’s rare.
+
+The answer is not to eliminate every possible target on every play. That is unrealistic.
+
+Thank you. That sentence passes the inversion test, because the opposite of it is a position plenty of people hold, which is that a good defense stops everybody.
+
+It doesn’t, and it can’t, and the arithmetic is the same arithmetic as the blitz. Five eligible receivers, eleven defenders, and some of those defenders have run responsibilities. You cannot double-team everyone. Every coverage is a decision about who you’re willing to let catch it.
+
+A coverage is a shape, not an outcome. I’ve said that for weeks. The shape tells you which completions you’ve agreed to allow. Giving up a five-yard completion is not a failure if you chose it, and the video’s version of this is good too. Giving up a short completion is one thing. Allowing it to become a routine source of explosive plays is another.
+
+That’s the real distinction, and it’s about tackling, not coverage. A five-yard throw that becomes a five-yard gain is a defense working. A five-yard throw that becomes a twenty-yard gain is a tackling failure wearing a coverage costume.
+
+And the situational version I taught earlier this month still applies. A five-yard completion on first down is progress. On third and eight it’s a punt. So when you watch Dallas concede the short stuff, don’t ask whether they gave up a catch. Ask what down it was and where the sticks were.
+
+The last thing is accountability, and I want to be careful here because I’m criticizing a structure, not a man.
+
+The video says Christian Parker and the defensive staff have an important job, and that a good game plan must identify Arizona’s primary threats but also adapt when the Cardinals change their approach.
+
+Christian Parker works with Dallas’s defensive backs. And what strikes me about that sentence is who isn’t in it.
+
+The video assigns the defensive game plan to a position coach and the defensive staff, as a collective noun, and never names a defensive coordinator at all.
+
+Now, that’s probably just the video being vague rather than making a claim. But it illustrates something I built a few weeks ago and keep using, which is the four-ledger framework.
+
+If you want to evaluate a football team rather than just react to it, you have to know which ledger a failure belongs in. The head coach owns the opening plan, the penalty count, the install and the play-calling. The coordinator owns the structure and the adjustments. The front office owns the roster composition. The quarterback owns his throws and his reads.
+
+And the whole framework collapses if you don’t know who holds the pen.
+
+I had to learn that the hard way two weeks ago. I spent a video criticising an offensive decision and assigned it to the wrong person, and then I was handed the other half of a quote and found out that the head coach calls the offensive plays and the coordinator builds the plan. I had the ledger right and the name wrong, which meant my criticism landed on somebody who didn’t make the decision.
+
+So when a video says the defensive staff, that’s not analysis. That’s a shrug with a job title attached. And if this defense allows three hundred and eighty-two yards again on Sunday, the first question is not whether somebody should be fired. It’s which ledger the three hundred and eighty-two yards belongs in. Structure, or execution, or personnel.
+
+Because a clever scheme doesn’t help if defenders miss tackles, and effort doesn’t help if the structure keeps handing the opponent the same favorable matchup. The video says both of those things and it’s right about both, and the two of them are different ledgers.
+
+Names, and today is a mixed bag.
+
+CeeDee Lamb, who arrives as C D Lamb. George Pickens, rendered as George Pickkins. DeMarvion Overshown, who arrives as Marbayan Overshon, which is a new and impressive corruption of a name I’ve had corrupted several ways already.
+
+Jacoby Brissett, rendered four separate ways in one video. Jacobe Brricette, then Briset, then Briette, then Britt. Four spellings, one quarterback, which ties the record and makes it the second time this week a single name has produced four versions.
+
+Trey McBride, Michael Wilson, Tyler Goodson and Christian Parker all arrive correctly, which is worth saying because I spend a lot of time on these corrections and the source deserves credit when it gets them right.
+
+Two I can’t resolve.
+
+A linebacker rendered as Shamar James. I think that’s probably Shemar James, and if so he’d be a young player I don’t have much on. I’m labelling that probable rather than confirmed.
+
+And Jeremiah Love, named as an Arizona running back who could create a challenge for Dallas. The only Jeremiah Love I know of is a running back from Notre Dame. If he was drafted by Arizona this year then this is a rookie I simply don’t have, and given what happened to me with Rashan Gary I am not going to doubt it. I’m asking. If Jeremiah Love is an Arizona running back, tell me, and tell me what he’s done, because a rookie running back is exactly the kind of player who doesn’t appear in anybody’s preseason notes and then runs for ninety yards against you.
+
+So the flagged list stands at nine now. The safety rendered as P J Lockach. The rookie defensive back rendered as Caleb D S. The safety on injured reserve rendered as Jaylen Thompson. The cornerback rendered as Kobe Durant. The linebacker rendered as Justin Baron. The interior lineman rendered as Otito Obana. The Eagles defender rendered as Jonathan Greener. An ESPN reporter rendered as Jimmy Balor. And now an Arizona running back I can’t place.
+
+Nine flagged, and still nothing guessed. That’s the rule and it hasn’t moved.
+
+So here’s where we are.
+
+Dallas is three and four, second in the NFC East, two games behind the Giants in the loss column. Arizona comes to town Sunday at two and five. Indianapolis follows, also at two and five and reportedly selling. The deadline is Tuesday the tenth of November at four o’clock Eastern, about eighteen hours after the Monday night game, and the activation deadlines land on the twelfth and thirteenth.
+
+Dallas has eight sacks in seven games and has allowed three hundred and eighty-two and a half yards per game, which is third worst in football.
+
+Last week Dallas rushed for two hundred and four yards behind a six-man offensive line and won by thirty-eight to twenty-one, and Tyler Goodson had thirty-eight of those rushing yards, which is the thing today’s video thinks might happen.
+
+And three things are live. The question of whether this defense improves without an acquisition, which has about one game of evidence left. Whether Dallas throws out of heavy personnel. And now whether a four-man rush can disrupt anybody at all.
+
+What I want you to take out of here is the count, because it’s the easiest tool I’ve ever handed you and it requires no football knowledge whatsoever.
+
+A name in the title that never appears in the body is not a claim. It’s casting.
+
+Jerry Jones is in the title of this video and he is not in this video. He said nothing, decided nothing, and was not mentioned. Whatever shocked the National Football League is not in these eight and a half minutes, because nothing in these eight and a half minutes could shock anybody.
+
+And the thing underneath that title is a perfectly reasonable game preview with a good sentence about blitzing and a genuinely useful observation about a tight end’s alignment, which nobody is going to click on, which is exactly why the title says what it says.
+
+So here’s my question for you, and I want real answers.
+
+Who is playing quarterback for Arizona on Sunday, and who is Jeremiah Love?
+
+Because I’ve got two holes in my preparation and both of them came out of a video about a decision that doesn’t exist, which is a reasonably good summary of this entire month.
+
+Drop it in the comments, because I read every single one, and the corrections you send me end up on camera.
+
+Like it, subscribe, ring the bell. This has been Dallas Cowboys Team. Now go take care of business.
