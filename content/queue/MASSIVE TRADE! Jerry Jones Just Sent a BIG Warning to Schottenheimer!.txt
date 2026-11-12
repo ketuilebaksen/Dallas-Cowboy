@@ -1,0 +1,556 @@
+Cowboys Nation, nobody has been fired.
+
+The title says Jerry Jones has done it, that he is furious, and that he unexpectedly fired him. Three claims. Nobody is fired, Jones is not described as angry anywhere in this video, and the pronoun him has no referent, because there is no person the title is about.
+
+What’s actually in here is Jerry Jones on the radio, in a measured mood, saying the phone wasn’t ringing.
+
+And there’s a new tell in that, so let’s start there.
+
+Welcome back to Dallas Cowboys Team, where we bring you every Dallas update, every single day. Subscribe and turn on notifications.
+
+Let’s get into it.
+
+Here’s tell 45.
+
+The headline supplies the emotion the quote contradicts.
+
+I catalogued something close to this two weeks ago as tell 19, where a headline supplied an emotion a quote didn’t contain. The quote was neutral and the title added a feeling.
+
+Today is worse than that, and the difference is worth a number of its own.
+
+Because today’s title says furious. And what the man actually said, when asked about the trade deadline, was this.
+
+When that phone’s not ringing, that’s me calling.
+
+That’s a line from an old country song. He used a joke. He then said the phone was really not ringing, that he’d said similar things before, that he didn’t expect a significant trade, and that Dallas hadn’t had meaningful dialogue in two or three weeks about anybody.
+
+That’s not fury. That’s a man in a relaxed mood making a music reference about a quiet afternoon.
+
+So the diagnostic, and it’s one question.
+
+Does the quote support the emotion, contradict it, or say nothing about it?
+
+Three outcomes, and they’re not equally bad. A title that adds an emotion to a neutral quote is inflating. A title that inverts the emotion in the quote is fabricating, and it’s harder to catch, because you have to actually read the words to know.
+
+And furious against a country music joke is about as wide as that gap gets.
+
+Alright. Now the substance, which is genuinely interesting and has one piece of real news in it that nobody will lead with.
+
+Let’s take the Prescott answer first, because it’s the headline act and it’s less than it sounds while still being worth something.
+
+Jones was asked on 105.3 The Fan whether teams had called over the years about trading for Dak Prescott. He said, no, no, not really. And he explained that for roughly two-thirds of Prescott’s contract, and two-thirds of his time in Dallas, the team had him in a position where trading him wouldn’t make any sense.
+
+Now, I want to do something with that two-thirds, because it’s the only number in the answer and it’s doing more work than people will notice.
+
+Two-thirds is an admission about the other third.
+
+Think about what that sentence concedes. He did not say a trade never made sense. He said it didn’t make sense for about two-thirds of the time. Which means, by his own arithmetic, there was a third of that period where it might have.
+
+And that’s not a gotcha, because the explanation is almost certainly contractual rather than sentimental. A quarterback with years remaining on a deal, no-trade protections, or a cap structure full of prorated bonus money is close to immovable, and a quarterback approaching the end of a contract is not. So the two-thirds is probably a description of contract windows rather than of willingness.
+
+But it’s still the owner of this football team saying, in public, that there was a window.
+
+Now the honest framing, and the video gets this right so I’ll use its own language. Jones did not describe a long list of teams pursuing Prescott, and he did not identify any offer Dallas considered. His comments do not give Prescott a trade value, and they do not confirm any team made a serious proposal.
+
+So what you have is an absence being reported, which is unusual and which I think is the most useful kind of answer available.
+
+Because here’s the thing about this specific answer. It’s falsifiable in the one direction that matters.
+
+If Jerry Jones says calls have been rare and a reporter produces a team that called, he’s wrong and it’s checkable. An owner claiming he turned down enormous offers is unfalsifiable. An owner saying the phone didn’t ring is a claim somebody could contradict tomorrow.
+
+Which is the thing I’ve been building all month and which is worth repeating.
+
+A claim about an absence is more checkable than a claim about an event, because one leak destroys it.
+
+So I’d weight that answer fairly highly, not because Jerry Jones is a neutral source about Jerry Jones, but because it’s the kind of statement that costs you something if it’s false.
+
+Now the deadline comments, because the structure of them is better than the reporting of them.
+
+He said the phone was really not ringing. He said he’d said similar things before. He said that’s when you make a trade, but don’t count it out, and that a lot can happen on the final day. And then he said he did not expect Dallas to make a significant trade that day, and that the team had not had meaningful dialogue over the previous two or three weeks about a player it would be interested in.
+
+Now run my tool on that, because I’ve built it over three weeks and this is a clean case.
+
+Step four of the tool is count the names. And the answer here is zero. He named no player, no team and no target.
+
+Step five is who has to do the thing. And the answer is nobody, because nothing is being done.
+
+So this is a non-statement in the technical sense, and that is exactly what it should have been, because nothing was happening. A man asked about a quiet market described a quiet market.
+
+And I’d note the one phrase that is genuinely informative, because it has a timescale attached.
+
+No meaningful dialogue over the previous two or three weeks about a player it would be interested in.
+
+Two or three weeks. That’s a date range, and a date range is the most useful thing an executive can give you, because it’s checkable against the calendar.
+
+Two or three weeks before the deadline puts you in mid-to-late October, which is precisely the period when I was being sent four videos a day about Dallas buying a pass rusher. Mike Florio urging contenders to call about George Pickens. Reported prices moving from a second-round pick to a fourth. Maxx Crosby. Josh Sweat. The entire deadline conversation I spent eleven days analysing.
+
+And the owner’s account is that for that whole period there was no meaningful dialogue about anybody.
+
+So let me say the thing I’m obliged to say, because I was part of that conversation.
+
+I gave you a deadline verdict twelve days running and the answer was no every time, and the final answer turned out to be the right one for a reason I had not identified. I said Dallas shouldn’t buy. The owner’s account is that there was nothing to buy.
+
+Those are different claims and only one of them was mine. I was arguing about whether a trade was wise. The thing that actually determined the outcome was that there wasn’t a trade available, and I spent eleven days analysing prices for a market that, by this account, had no participants.
+
+Which is a lesson about my own work rather than about this football team.
+
+Before you argue about whether a decision is wise, check whether the decision exists.
+
+And I’d soften that slightly in my own defence, because the analysis wasn’t wasted. Working out what Dallas should pay for a pass rusher produced the pick ledger, the proration mechanics, the round-trip principle and the six-edge-rushers problem, all of which turned out to matter. But the conclusion was reached about a hypothetical, and I should have said so more clearly than I did.
+
+Now the one piece of actual news in this video, which almost nobody is going to lead with.
+
+Tyler Goodson has been ruled out for the next few weeks, and Jerry Jones said Dallas would add running back depth, probably through free agency, and would do it that day.
+
+His exact words, asked whether running back depth could become a priority. Yeah, it will be and we will do that today.
+
+Now, that’s the only forward-looking commitment in nine minutes. Run my tool on it and it scores well. An action, a timescale, and a decision-maker speaking about his own decision. Not a name, which is fair, because you don’t name a free agent before you sign him.
+
+And here’s why it matters more than it looks, and this is the part that connects to a story I’ve been running for a week.
+
+Dallas’s backfield was already thin, and I’ve been documenting exactly how thin.
+
+Javonte Williams has had a hundred and thirty-four of this team’s hundred and ninety-nine carries, which is sixty-seven percent of every rushing attempt. Tyler Goodson was the next man with eighty-six yards. Dallas waived Emari Demercado last week. Dallas then signed Jashaun Corbin to the practice squad after working out three men, and Corbin hasn’t played a regular season game since 2023. Phil Mafah and Jaydon Blue, both 2025 draft picks, were waived in the offseason.
+
+So the room was Williams, Goodson, and a practice squad body.
+
+Take Goodson out for a few weeks and it’s Williams, a man who hasn’t played a league game in three years, and whoever Dallas signs off the street.
+
+Which means that Yeah, we will do that today is the most consequential sentence in this video, and it’s buried in the middle of a nine-minute piece whose title is about a firing that didn’t happen.
+
+And I’d put the general version of that plainly, because it’s the whole lesson of this fortnight.
+
+The only forward-looking sentence in an interview is the one worth keeping.
+
+Everything else Jones said was about the past or about an absence. Calls have been rare. The phone wasn’t ringing. There was no dialogue. All true, all backward-facing, all unactionable. One sentence described a thing that would happen, with a day attached to it, and that’s the sentence.
+
+Now Rashan Gary, because this is the most specific accountability item in the video and it needs careful handling.
+
+Jones said that Gary had received a stern conversation, following a costly performance.
+
+And the video does exactly the right thing with it, which I want to credit. He did not provide further details about what was said, so there is no basis for assuming anything beyond that.
+
+Correct. A stern conversation is a fact about a conversation and nothing else. It isn’t a benching, it isn’t a trade signal, and it isn’t a public rebuke, because Jones didn’t say what was said.
+
+But I’ll tell you why that name makes me sit up, because this is a man I have been wrong about and then wrong about again.
+
+Two weeks ago I was handed a transcript naming Rashan Gary as a Dallas defender and I said, publicly, that to the best of my knowledge he played for Green Bay, and I raised it as a question rather than a verdict. I was wrong. Dallas traded for him in March.
+
+Then I built an argument on him having one sack in seven games, and I used that to say Dallas’s edge was empty. That was also wrong, or at least badly incomplete, because I later learned the team sack total I was working from was understated and that Dallas has fifteen, twenty-fourth in the league.
+
+So I have been wrong about this man’s employer and wrong about the conclusion I drew from his production, and now the owner says he’s had a stern conversation after a costly performance.
+
+Which means the thing I’d want is the one thing nobody has given me. What was the costly performance? Because a stern conversation after a specific play is a coaching note, and a stern conversation after a pattern is a different thing entirely, and the word costly implies something identifiable happened.
+
+I’m not going to guess at it.
+
+And the thing worth noting is that this is now the fourth specified accountability item out of that building in two weeks, after a fortnight in which everybody said everyone.
+
+Christian Parker named himself. Parker named DaRon Bland. Klayton Adams named himself. Stephen Jones named a behaviour and a number. And now Jerry Jones has named a player and a conversation.
+
+So whatever happened inside that organisation after the Arizona collapse, the vocabulary has changed. Three weeks ago it was an indictment of the whole show, a criticism of everyone, none of us have it done, and the entire organisation. Now there are names in sentences.
+
+I said at the time that when everybody agrees everybody is responsible, nothing is going to change, and that you should count how many of them named a person. The count has gone from zero to five in a fortnight.
+
+That is the single most encouraging thing about this team and it has nothing to do with football.
+
+Now Quinnen Williams, because Jones praised him and it closes a loop I opened three weeks ago.
+
+Jones expressed confidence in the direction of the defense and praised Williams, who the video notes arrived after Dallas gave up two premium draft picks.
+
+And I have spent three weeks on that trade. A 2027 first, a 2026 second and Mazi Smith, for a defensive tackle, by a team that was three, five and one at the time. I built the round-trip argument on it. I defended Williams twice when his three sacks in seven games were being used against him, on the grounds that interior linemen don’t accumulate sacks, that it’s geometry rather than failure, and that their value shows up as pocket collapse and absorbed double teams.
+
+And then on Sunday he knocked the football out of Jonathan Taylor’s hands at the moment Indianapolis was about to score.
+
+So the owner praising him this week is not news, but it is consistent, and the play that justifies it is the kind that never appears in the column everybody was quoting at him.
+
+Which is the thing I’d keep from the whole Quinnen Williams saga. The argument for a player and the statistic about a player are frequently in different places.
+
+Now the standings, because the video gives me the number and it’s the one that matters.
+
+Dallas is four and five, second in the NFC East, behind a Giants team at five, two and one.
+
+That’s two games back in the loss column with eight to play, which is exactly where Dallas was a fortnight ago. Dallas has won and the Giants have won, so the gap hasn’t moved, and I said this on Monday and it’s still true. A leader winning is never a break.
+
+And the video’s framing is the right amount of hope, which is a rare thing. A possible path to the postseason remains, but Dallas has little room for further setbacks.
+
+Which brings me to Sunday, and the thing I said in advance yesterday and will say once more because setting the standard before the result is the entire job.
+
+San Francisco at home. Six and one when I was last given their record.
+
+Eleven days ago I did the arithmetic on this team’s inability to win two in a row and told you that with three wins in eight games, twenty of the fifty-six possible orderings contain no two consecutive wins, which is thirty-six percent. So the streak everybody treated as a character flaw was something a coin with this win rate produces better than one time in three.
+
+Indianapolis was the first half of the answer. San Francisco is the second half, and it’s the hardest possible circumstance in which to settle it.
+
+So, in advance. If Dallas loses, that tells you very little, because losing at home to a six-and-one team is the most ordinary result in this sport. If Dallas wins, it is the most significant thing this team has done this season.
+
+Asymmetric, on purpose, because the opponent’s quality determines what a result is allowed to mean.
+
+So here’s where we are.
+
+Dallas is four and five, second in the NFC East behind the Giants at five, two and one, two games back in the loss column with eight to play.
+
+Jerry Jones says teams have rarely called about Dak Prescott, and that for roughly two-thirds of his contract and two-thirds of his time in Dallas a trade wouldn’t have made sense. He named no team and no offer.
+
+He said the phone was really not ringing at the deadline, that he didn’t expect a significant trade, and that there had been no meaningful dialogue in two or three weeks about a player Dallas wanted. He left the door open and did not walk through it.
+
+Tyler Goodson is out for the next few weeks. Jones said Dallas would address running back depth that day, most likely through free agency. That is the only thing in this video that was going to happen rather than had happened.
+
+He praised Quinnen Williams and the direction of the defense, and said Rashan Gary had received a stern conversation after a costly performance, without saying what either was about.
+
+Nobody has been fired. Nobody is furious. The pronoun in that title has no referent.
+
+San Francisco comes to Dallas on the fifteenth of November.
+
+Three things I’m watching.
+
+One. Who Dallas signs at running back, because the owner committed to it with a day attached, and a free agent signed in mid-November is a man you’re trusting with a backfield that is already sixty-seven percent one player.
+
+Two. Two in a row, against the best team left on the schedule.
+
+Three. The penalty count. Fourteen for a hundred and fifty-three yards on Sunday, and I’ve asked four days running for the split between procedure and discipline and nobody has sent it. Whether fourteen becomes six on Sunday is the measurable version of everything two Joneses have said this week.
+
+What I want you to take out of here is the emotion check, because it’s today’s tell and it takes less time than reading the headline.
+
+Does the quote support the emotion, contradict it, or say nothing about it?
+
+Today’s title said furious. The man quoted in it made a country music joke about a telephone, said he didn’t expect anything to happen, and said he’d said the same thing before.
+
+Those are not two readings of one mood. They’re opposites, and the only way to know is to read the words, which is the entire reason the word furious works.
+
+So tell me in the comments, and I need one thing today.
+
+What was Rashan Gary’s costly performance? The owner of this football team used the word costly about a specific player and then said nothing else, and I’ve been wrong about this man twice, so I’d rather be told than reason my way into a third.
+
+Drop it below, because I read every single one.
+
+Like it, subscribe, ring the bell. This has been Dallas Cowboys Team. Now go take care of business.
+
+KAPAK: JERRY JONES
+Yan: DAK PRESCOTT, TYLER GOODSON, RASHAN GARY
+
+MASSIVE TRADE! Jerry Jones Just Sent a BIG Warning to Schottenheimer!
+
+document:
+ Trade deadline implications
+0:000 secondsGuys, Jerry Jones just sent Brian Shottenheimimer a pretty big message without even saying a word. I mean, we've watched the Cowboys struggle all
+0:088 secondsseason. And while other teams were busy making moves at the trade deadline, Dallas chose to stay quiet. Now, you might think Jerry simply didn't see a
+0:1616 secondsdeal worth making. But I think there's a lot more to it than that. So, let me explain why Jerry's quiet trade deadline could be a big warning to Brian Shottenheimer. What's up, Cowboys?
+0:2727 secondsWelcome to the NFL Playbook, Cowboys. If you're new here, don't forget to hit that subscribe button. Look, I really thought the Cowboys might make one more
+0:3535 secondsmove to help this team compete. We're sitting at four and five. The stretch that worries me most is still ahead, and we're still dealing with problems on
+0:4343 secondsboth sides of the ball, but Jerry Jones and Steven Jones decided not to make another trade. Now, I'm not saying we should have given away valuable draft
+0:5151 secondspicks just to add somebody. And that brings me to Jerry Jones. I can't tell you what he said behind closed doors.
+0:5858 secondsAnd I'm not claiming he gave anybody an official warning on 105 three. The fan Steven Jones said things were quiet and
+Chapter 2: Coaching and roster scrutiny
+1:051 minute, 5 secondsJerry said Dallas hadn't had any serious talks about a player they wanted. To me, that puts the pressure right back on Shottenheimimer. He's got eight games to show what he can do with this group.
+1:151 minute, 15 secondsNow, compare that with what other teams did. Jacksonville went out and got Jordan Davis. Denver added Dean Henley. And Kansas City made a move for Josh DS.
+1:241 minute, 24 secondsI know not every deal fits our situation. Still, when other front offices are willing to back their plans with trades, Dallas staying quiet stands
+1:321 minute, 32 secondsout because let's be fair about the talent. George Pickkins was brought in to help this offense. Quinnon Williams was added to strengthen the defensive front and the trade for Joey Porter Jr.
+1:431 minute, 43 secondswas another serious investment. We've got Dak Prescott leading the offense, CD Lamb on the other side of the receiving group, and Devonte Williams in the
+1:521 minute, 52 secondsbackfield. But I don't buy the idea that Shottenheimer needs a perfect lineup before we can judge the coaching. And offense is where that becomes really
+2:002 minutesfrustrating for me. How do we have Dak Prescott, George Pickkins, and CD Lamb, yet still end up watching drives where
+2:072 minutes, 7 secondsthe plan feels confused? Some drives look dangerous, others leave me wondering why the right guys aren't getting the ball. When Pickkins is out
+Chapter 3: Defensive and discipline woes
+2:152 minutes, 15 secondsthere, I don't want to see us go away from him when we need a big play. I want better game management, smarter calls, and somebody taking control when the
+2:232 minutes, 23 secondsfirst idea doesn't work. That's asking the staff to make the talent count. And on the offensive line, Tyler Gayton, Terrence Steel, Tyler Booker, Tyler
+2:312 minutes, 31 secondsSmith, and Cooper BB give this team pieces to work with. We need more from them. And on defense, Shottenheimimer helped choose Christian Parker to run
+2:392 minutes, 39 secondsthe defense. I can respect giving a young coach an opportunity. Parker has ability and room to grow, [snorts] but he's learning in a job where every
+2:472 minutes, 47 secondsmistake matters. And Shottenheimimer knew that when the decision was made, if the defense keeps struggling with communication or execution, we can't act
+2:562 minutes, 56 secondslike the head coach had nothing to do with putting this staff together, he has to own those choices, too. Then look at the players on that side. Rashan Garry
+3:053 minutes, 5 secondshasn't always given us the impact we hope for, but I still think there's a useful player there if the system gets more out of him. Caleb DS has been a
+3:123 minutes, 12 secondsreal bright spot making tackles and getting after the quarterback against Indie. He got a sack and then picked off Daniel Jones to seal it. We also have
+3:203 minutes, 20 secondsKobe Durant PJ Lock and others who need to fit together better. Though Lockach is expected to miss time and discipline
+3:283 minutes, 28 secondsmatters just as much as talent. What bothered me about that Colts game was that De Marvian Overshon wasn't even playing and he still cost us 15 yards when he ran onto the field to celebrate.
+3:403 minutes, 40 secondsBrian Shottenheimimer said he talked to Overshon one-on-one and then addressed the whole team. Dallas had 14 penalties
+3:463 minutes, 46 secondsfor 53 yards that day. A coach can't control every player's decision, but he can set the standard for how everyone responds when those mistakes keep
+3:553 minutes, 55 secondshappening. Now, Dallas did make a smaller roster move. Joseph Hoy of the Dallas Morning News had Dallas bringing
+Chapter 4: Recent roster adjustments
+4:024 minutes, 2 secondsin former Saints running back Kendra Miller for the practice squad. I get this move. With Tyler Goodson hurt, we
+4:094 minutes, 9 secondsneed another back. As for the backfield, Goodson ran for 77 yards on 12 carries against the Colts. He'd started giving
+4:174 minutes, 17 secondsthis backfield a useful second option behind Javvante Williams, and now he's expected to miss multiple weeks with that knee injury. Malik Davis is already
+4:254 minutes, 25 secondson injured reserve, while Hunter Lewki is a fullback. Israel Abony is another option from the practice squad. Miller
+4:334 minutes, 33 secondsgives us a back with NFL experience. He caught nine passes for New Orleans this season, but he also fumbled twice and
+4:404 minutes, 40 secondslost one. At least he knows Derek Foster from their time with the Saints. Dallas also released Ready Stewart from the practice squad, but that signing
+4:484 minutes, 48 secondsshouldn't distract us from the bigger trade deadline question. Sometimes keeping your players and your picks is smarter than chasing a name. And after
+4:564 minutes, 56 secondswatching how the Mazy Smith pick worked out, I'm not celebrating a pick until I see who we get with it. I can live with Dallas holding on to its assets instead
+Chapter 5: The challenge ahead
+5:055 minutes, 5 secondsof making a desperate deal. What I can't accept is using that decision as another excuse if the same problems keep showing
+5:125 minutes, 12 secondsup. That's why the next part of the season matters so much for Brian Shottenheimimer. He doesn't need a speech from Jerry Jones to know people
+5:195 minutes, 19 secondsare losing patience. He needs to put a better team on the field. There are eight games left and everyone is another chance to prove the staff can adjust,
+5:285 minutes, 28 secondsprepare, and finish. I don't expect every game to be perfect. I do expect signs that this group is improving instead of making the same mistakes with
+5:375 minutes, 37 secondsdifferent opponents. And look at who's coming. San Francisco is first, followed by Tennessee and Philadelphia. After that, Dallas has Seattle, the Rams,
+5:465 minutes, 46 secondsJacksonville, the Giants, and Washington. The 49ers, Seahawks, Rams, Jaguars, and Giants are the games that
+5:545 minutes, 54 secondsworry me. I can understand why some fans look at the Titans, Eagles, or Commanders and see chances to win, but after what we've watched, I'm not
+6:026 minutes, 2 secondshanding Dallas any victory before kickoff. Even teams were supposed to beat can take advantage when we keep giving them opportunities. Which brings
+Chapter 6: Analyzing the difficult path
+6:106 minutes, 10 secondsus straight to the 49ers. I respect Kyle Shanahan because his teams usually have a plan and know how to attack weak
+6:186 minutes, 18 secondsspots. San Francisco has dealt with receiver injuries, but they just went out and got Keenan Allen. I don't want us winning only because somebody else is
+6:256 minutes, 25 secondsmissing players. I want to see Shanheimer match the adjustments, make smart decisions, and give Dak Prescott a chance to control the game. If we beat a
+6:336 minutes, 33 secondsteam like that by playing solid football, I'll feel better about what comes next. Still, can we actually build a winning streak? That's the part I
+6:426 minutes, 42 secondsstruggle with. We haven't won back-to-back games this season, and now we're supposed to believe we'll suddenly handle this schedule at four and five.
+
+Cowboys Nation, there was no massive trade.
+
+The title says massive trade and the video says the opposite, in its own words, three separate times. Dallas chose to stay quiet. Jerry Jones and Stephen Jones decided not to make another trade. The phone wasn’t ringing.
+
+And the warning in that headline is explicitly disclaimed by the man who made the video. His own sentence is this. I can’t tell you what he said behind closed doors, and I’m not claiming he gave anybody an official warning.
+
+So the title announces a trade that didn’t happen and a warning the author says he isn’t claiming.
+
+Welcome back to Dallas Cowboys Team, where we bring you every Dallas update, every single day. Subscribe and turn on notifications.
+
+Let’s get into it.
+
+Here’s tell 46, and it’s the cleanest version of something I’ve been circling for a fortnight.
+
+The headline announces what the body disclaims.
+
+Not exaggerates. Disclaims. The video contains a sentence explicitly refusing the claim its own title makes.
+
+And the diagnostic is one question.
+
+Does the body contain a sentence that would be a correction if somebody else had written it?
+
+Because that’s what’s happening here. I’m not claiming he gave anybody an official warning is a retraction, written in advance, by the person being retracted.
+
+Which tells you everything you need to know about who wrote the title, and it’s the forty-sixth piece of evidence I’ve collected for the same conclusion. Titles and bodies are assembled independently.
+
+Alright. Now the argument underneath it, because it’s a real one and it deserves a serious treatment.
+
+The thesis is that Dallas doing nothing at the deadline is itself a message to Brian Schottenheimer. No reinforcements, eight games left, go and win with what you have.
+
+And I think that’s half right, so let me separate the halves.
+
+Here’s the part that holds. A front office that declines to add has removed an excuse. If you asked for help and didn’t get it, you can point at that. If nobody asked and nothing happened, the group in the building is the group you’re being judged on.
+
+But here’s the part I’d push back on, and it matters because it’s the difference between analysis and reading tea leaves.
+
+Inaction is only a message if action was available.
+
+And by the owner’s own account, which I covered yesterday, it wasn’t. Jerry Jones said the phone was really not ringing, that he didn’t expect a significant trade, and that there had been no meaningful dialogue in two or three weeks about a player Dallas wanted.
+
+So the question is whether Dallas declined to help its coach or whether nobody offered Dallas anything worth having. Those produce the identical transaction sheet and they are completely different events.
+
+And the video, to its credit, actually says this. Sometimes keeping your players and your picks is smarter than chasing a name. I can live with Dallas holding on to its assets instead of making a desperate deal.
+
+Which is the correct position and it’s also the opposite of a warning.
+
+Now the comparison it uses, because this is where the argument gets its force and I want to test it properly.
+
+Jacksonville got Jordan Davis. Denver added a player rendered as Dean Henley. Kansas City made a move for Josh Downs.
+
+And the point is that when other front offices are willing to back their plans with trades, Dallas staying quiet stands out.
+
+Now, Josh Downs is the one I can speak to, and it closes a loop from five days ago.
+
+I told you last week that Sunday would be the first NFL meeting between Caleb Downs of Dallas and Josh Downs of Indianapolis, who are brothers, and that Josh Downs had requested a trade.
+
+He has now been traded, to Kansas City. So a man who asked to be moved was moved, which is the most ordinary transaction in football and which is also the thing Dallas conspicuously did not do with anybody.
+
+But here’s the problem with the whole comparison, and it’s a logical one rather than a football one.
+
+You cannot compare a team’s inaction to another team’s action without knowing what each team was offered.
+
+Jacksonville, Denver and Kansas City made trades because somebody was selling something they wanted at a price they’d pay. Dallas’s absence from that list tells you Dallas either didn’t want anything, couldn’t afford it, or wasn’t offered it. Three possibilities, one transaction sheet.
+
+And I’d add the thing I established a fortnight ago, which is the hard constraint nobody mentions. Dallas has exactly one first-round pick in 2027, and it is contractually guaranteed to be the less valuable of the two it had rights to, because it owes the better of them to the Jets from the Quinnen Williams trade.
+
+A team in that position is not a team that can shop.
+
+Now the accountability argument, which is the strongest thing in this video and which I think is genuinely correct.
+
+The author’s point is that Schottenheimer helped choose Christian Parker to run the defense, that he can respect giving a young coach an opportunity, but that Parker is learning in a job where every mistake matters, and that we can’t act like the head coach had nothing to do with putting this staff together. He has to own those choices too.
+
+That is exactly right and it’s the thing I’ve been missing from my own four-ledger framework.
+
+I’ve been sorting failures into columns. Head coach owns the opening plan, the install, the penalties and the play calling. Coordinator owns structure and adjustments. Front office owns the roster. Quarterback owns his throws.
+
+And I’ve been treating the coordinator’s column as separate from the head coach’s.
+
+It isn’t, and here’s the correction.
+
+A head coach’s first decision is who else gets a column.
+
+Every coordinator’s performance is partly a hiring decision, and the hiring decision belongs to the man who made it. Which means a head coach who hires a first-year coordinator has taken on that coordinator’s learning curve as a cost in his own ledger, and he knew the price when he signed it.
+
+And in Dallas’s case the price was specific and foreseeable. Six defensive starting spots changed in one offseason, plus a first-year coordinator installing a new system. That combination produces a slow start with near-certainty, and the man who approved both knew that in March.
+
+So the install explanation, which I’ve spent three weeks defending, is simultaneously the best defence of Christian Parker and the clearest indictment of the man who chose this configuration.
+
+Both. From the same fact. That’s what a ledger is for.
+
+Now the offense, because the author’s frustration is specific and I can put numbers on it that he doesn’t.
+
+His complaint is that with Dak Prescott, George Pickens and CeeDee Lamb, Dallas still watches drives where the plan feels confused, and that when Pickens is out there he doesn’t want to see Dallas go away from him when they need a big play.
+
+I did that arithmetic last week and it supports him exactly.
+
+Against Arizona, Lamb was targeted eleven times and produced fifty-eight yards, which is five point two seven yards per target. Pickens was targeted four times and produced forty-eight, which is twelve. The man who got four looks produced more than double, per look, of the man who got eleven.
+
+And then on Sunday, Lamb caught ten for a hundred and ninety-five, which is nineteen point five a catch.
+
+So the receiver room is not the problem and the distribution has been wildly uneven week to week, and Jerry Jones himself said on the radio that Pickens needs the ball coming his way more.
+
+Which is the thing to watch on Sunday and I’ll come back to it.
+
+Now the offensive line, because this video gives me the full group for the first time.
+
+Tyler Guyton, Terence Steele, Tyler Booker, Tyler Smith and Cooper Beebe.
+
+That’s five names and I’ve had them arriving in fragments for a month. Three men called Tyler on one offensive line, which explains a certain amount about why the transcripts I’m sent keep melting.
+
+And the author’s verdict is we need more from them, which is fair and which connects to a number I’ve been carrying. Dallas ran thirty-nine times for ninety-three yards against Arizona, two point four a carry, with no running back carry longer than six yards. Then a hundred and seventy-nine against Indianapolis.
+
+Ninety-three to a hundred and seventy-nine with the same five men. Which tells you the line isn’t the constant in that equation, and the two likeliest variables are the health of the tight end room and the quality of the opponent.
+
+Now Caleb Downs, because this video adds something to Sunday that nobody else did.
+
+He had a sack and then intercepted Daniel Jones to seal it.
+
+A sack. From a safety. I had the interception from three sources and nobody mentioned the sack.
+
+So the eleventh overall pick, who leads this defense in tackles with fifty-two, who cleared concussion protocol on the Friday before the game with a day to spare, produced a sack and a game-ending interception in his first match back.
+
+And I spent a fortnight unable to spell his name.
+
+Now the penalty number, because today’s transcript contains an error I have to correct and the correction matters.
+
+This video says Dallas had fourteen penalties for fifty-three yards.
+
+It was a hundred and fifty-three. I’ve had that figure from three separate sources now, including Stephen Jones quoting it himself on the radio.
+
+And the difference between fifty-three and a hundred and fifty-three is the difference between an untidy afternoon and a catastrophe. Fifty-three yards across fourteen flags would be under four yards a penalty, which is almost all pre-snap procedure and is annoying rather than damaging. A hundred and fifty-three is nearly eleven yards a flag, which means a real share of them were fifteen-yarders and defensive penalties that moved the sticks.
+
+So the corrupted number makes the problem look a third as bad as it was, and I’d rather fix it than let it pass.
+
+And I’ve now asked four days running for the split between procedure and discipline and nobody has sent it, which means I’m going to say what I think and label it.
+
+My working hypothesis is that Sunday was mostly procedure. Not temper. A team committing fourteen penalties is very rarely a team with fourteen tempers, and the single most visible flag of the day was a man standing in the wrong place, which is the purest procedure error there is.
+
+Hypothesis, not finding, and it stays that way until somebody sends me the list.
+
+Now the Overshown follow-up, because there’s a real piece of news in it.
+
+Schottenheimer said he talked to Overshown one-on-one and then addressed the whole team.
+
+That’s the right order and it’s worth naming why.
+
+A private conversation with the individual, then a standard set for everybody. Not a public humiliation, and not silence. The individual gets the correction and the group gets the rule, which means nobody has to guess whether the rule applies to them.
+
+And it’s the fifth or sixth specified accountability action out of that building in two weeks, after a fortnight in which everybody said everyone. Parker named himself. Parker named Bland. Klayton Adams named himself. Stephen Jones named a behaviour and a number. Jerry Jones named a player and a conversation. And now the head coach has described a specific two-step response to a specific incident.
+
+Three weeks ago the count of people who had named a person was zero. It’s now six.
+
+Now the running back situation, because this is the actual news in the video and it’s more serious than the deadline story.
+
+Tyler Goodson ran for seventy-seven yards on twelve carries against the Colts.
+
+Seventy-seven on twelve is six point four two a carry.
+
+And he’s now expected to miss multiple weeks with a knee injury.
+
+So read those two facts together, because nobody has.
+
+Dallas’s second running back averaged six point four yards a carry on Sunday, in the game where the team ran for a hundred and seventy-nine, and he is now out for weeks.
+
+A hundred and seventy-nine total, and seventy-seven of them came from the man who just got hurt. That’s forty-three percent of this team’s second-best rushing performance of the season, from the back who is now unavailable.
+
+And the room behind him is thin in a way I’ve been documenting for a week. Javonte Williams has had sixty-seven percent of this team’s carries. Malik Davis is on injured reserve. Hunter Luepke is a fullback. Jashaun Corbin is on the practice squad and hasn’t played a regular season game since 2023. A player rendered as Israel Abony is another practice squad option. Emari Demercado was waived. Phil Mafah and Jaydon Blue were both waived in the offseason.
+
+So Dallas signed Kendre Miller, formerly of New Orleans, to the practice squad, reported by Joseph Hoyt of the Dallas Morning News. And released the man I’ve been carrying as Reddy Steward.
+
+And the video does the honest thing with Miller, which I’ll credit. He caught nine passes for New Orleans this season, he fumbled twice and lost one, and at least he knows the staff from his time with the Saints.
+
+That’s a depth signing described accurately, including the fumbles, which most people would have left out.
+
+Now the thing in this video I want to amplify, because it’s the sharpest sentence in it and it’s about a man I’ve written about for three weeks.
+
+After watching how the Mazi Smith pick worked out, I’m not celebrating a pick until I see who we get with it.
+
+That is the single best line anybody has handed me in a fortnight, so let me build it out.
+
+Mazi Smith was part of what Dallas sent to the Jets for Quinnen Williams. A first-round pick, a second-round pick and a player, and the player had himself been a first-round pick.
+
+And the point the author is making is the one everybody gets backwards. A draft pick is not an asset. It’s an option to acquire an asset, and the option is only worth what you do with it.
+
+Which means the praise Dallas is getting today for keeping its picks is premature by about two years.
+
+So here’s the principle, and it’s the deadline lesson of the entire month.
+
+Keeping a pick is not a decision. It’s a deferral.
+
+Dallas has deferred. That’s defensible, it’s probably correct at four and five, and it is not yet a success. It becomes a success in April 2028, or it becomes another Mazi Smith, and nobody watching this knows which.
+
+And I’d apply that to my own twelve days of deadline verdicts, because I said no every single day and I’d like to be clear about what that was worth. I was right that Dallas shouldn’t spend. I was also, by the owner’s account, arguing about a market with no participants. Being right about a decision nobody was offered is not an achievement.
+
+Now the schedule, because the video lays it out and it’s the most sobering thing in here.
+
+San Francisco first. Then Tennessee, then Philadelphia. After that Seattle, the Rams, Jacksonville, the Giants and Washington.
+
+Eight games. And the author names the five that worry him. San Francisco, Seattle, the Rams, Jacksonville and the Giants.
+
+So five of the remaining eight against teams he rates, and three against Tennessee, Philadelphia and Washington which he explicitly refuses to call wins, with a line I’d keep. After what we’ve watched, I’m not handing Dallas any victory before kickoff. Even teams we’re supposed to beat can take advantage when we keep giving them opportunities.
+
+That’s the right posture from a team that just lost a fourteen-point fourth quarter lead to a two-and-five opponent.
+
+And Philadelphia is on that list, which matters because Dallas has already beaten them once this season, thirty-eight to twenty-one, on the road.
+
+Now San Francisco, because it’s Sunday and it’s the whole question.
+
+Kyle Shanahan, and the author’s respect for him is well placed. His teams usually have a plan and know how to attack weak spots.
+
+And San Francisco has had receiver injuries and went out and got Keenan Allen.
+
+Which is the comparison the whole video is built on, arriving at the end. San Francisco had a problem, identified a solution, and bought it. Dallas had problems and did not.
+
+And the author’s line about it is the most honest thing in nine minutes. I don’t want us winning only because somebody else is missing players.
+
+Now let me say what I said in advance two days ago, and I’m repeating it because stating a standard before a result is the entire job.
+
+Eleven days ago I did the arithmetic on this team’s inability to win consecutive games. With three wins in eight games, there are fifty-six possible orderings and twenty of them contain no two wins next to each other, which is thirty-six percent. So the streak everybody was treating as a character flaw was something a coin with this team’s win rate produces better than one time in three.
+
+Indianapolis was the first half of the answer. San Francisco is the second half.
+
+And in advance. If Dallas loses to a team like that at home, it tells you very little, because that’s the most ordinary result in this sport. If Dallas wins, it’s the most significant thing this team has done this season.
+
+Asymmetric on purpose, because the opponent’s quality determines what a result means.
+
+And the author ends on exactly that question, which is the right question. Can we actually build a winning streak? We haven’t won back-to-back games this season, and now we’re supposed to believe we’ll suddenly handle this schedule at four and five.
+
+Fair. And the answer is that nobody knows, and that Sunday is the first evidence either way, and that a coin with this team’s record would have produced the streak anyway.
+
+So here’s where we are.
+
+Dallas is four and five, second in the NFC East, two games back in the loss column with eight to play.
+
+Dallas made no trade at the deadline. Jerry Jones said the phone wasn’t ringing and that there had been no meaningful dialogue in two or three weeks. Jacksonville, Denver and Kansas City all made moves, and Josh Downs, who had requested a trade, went to Kansas City.
+
+Tyler Goodson ran for seventy-seven yards on twelve carries against the Colts, which is six point four two a carry and forty-three percent of Dallas’s rushing yards that day, and he is out for multiple weeks with a knee injury. Dallas signed Kendre Miller to the practice squad and released Reddy Steward.
+
+Caleb Downs had a sack and the game-sealing interception. Dallas had fourteen penalties for a hundred and fifty-three yards, not fifty-three. Schottenheimer spoke to Overshown privately and then to the team.
+
+San Francisco, who just acquired Keenan Allen, come to Dallas on Sunday. Then Tennessee, Philadelphia, Seattle, the Rams, Jacksonville, the Giants and Washington.
+
+Three things I’m watching.
+
+One. Two in a row, against the best team on the remaining schedule, which is the hardest possible circumstance in which to settle the only question about this team.
+
+Two. George Pickens’s targets. The owner said on the radio that he needs the ball coming his way more. Sunday is the second game since he said it and the first one with a healthy receiver room, and a sentence on a radio show either changes a play sheet or it doesn’t.
+
+Three. The penalty count. Fourteen becomes six or it doesn’t, and that’s the measurable version of everything three different men in that organisation have said this week.
+
+What I want you to take out of here is the disclaimer check, because it’s today’s tell and it’s free.
+
+Does the body contain a sentence that would be a correction if somebody else had written it?
+
+Today’s title said massive trade and announced a warning. And the man who made the video wrote, in his own voice, that he can’t tell you what was said behind closed doors and that he isn’t claiming anybody gave an official warning.
+
+He corrected his own headline before it was published. He just wasn’t the one who wrote it.
+
+So tell me in the comments, and I need one thing today.
+
+How many of Sunday’s fourteen penalties were procedure and how many were discipline? Fifth day of asking. The number is a hundred and fifty-three yards, somebody watching this has the list, and it’s the only thing that would tell me whether this team has an install problem or a culture problem, which have completely different fixes and completely different timelines.
+
+Drop it below, because I read every single one.
+
+Like it, subscribe, ring the bell. This has been Dallas Cowboys Team. Now go take care of business.
